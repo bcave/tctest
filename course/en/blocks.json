@@ -230,6 +230,22 @@
     "_parentId": "58b703116faa37e7449514b9",
     "_courseId": "58b01c1050d3bf600d233b89",
     "__v": 0,
+    "displayTitle": "",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Nailing your customer profiles",
+    "_type": "block",
+    "_courseOrder": "1-5-0"
+  },
+  {
+    "_id": "58b853426faa37e74495165d",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b853426faa37e74495165c",
+    "_sortOrder": 0,
+    "__v": 0,
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -237,7 +253,22 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "1-5-0"
+    "_courseOrder": "1-6-0"
+  },
+  {
+    "_id": "58b857d56faa37e744951666",
+    "_sortOrder": 1,
+    "_parentId": "58b853426faa37e74495165c",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "1-6-1"
   },
   {
     "_id": "58b703116faa37e7449514c4",
@@ -252,7 +283,22 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "1-6-0"
+    "_courseOrder": "1-7-0"
+  },
+  {
+    "_id": "58b85c676faa37e744951686",
+    "_sortOrder": 1,
+    "_parentId": "58b703116faa37e7449514ba",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "1-7-1"
   },
   {
     "_id": "58b703116faa37e7449514c5",
@@ -267,10 +313,25 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "1-7-0"
+    "_courseOrder": "1-8-0"
   },
   {
-    "_id": "58b703116faa37e7449514c6",
+    "_id": "58b861e46faa37e744951689",
+    "_sortOrder": 1,
+    "_parentId": "58b703116faa37e7449514bb",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "1-8-1"
+  },
+  {
+    "_id": "58b862236faa37e74495168b",
     "_sortOrder": 0,
     "_parentId": "58b703116faa37e7449514bc",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -282,7 +343,7 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "1-8-0"
+    "_courseOrder": "1-9-0"
   },
   {
     "_id": "58b703116faa37e7449514c8",
@@ -297,7 +358,7 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "1-9-0"
+    "_courseOrder": "1-10-0"
   },
   {
     "_id": "58b703666faa37e7449515fd",

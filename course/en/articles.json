@@ -1076,7 +1076,7 @@
             "_height": 200
           }
         },
-        "_isEnabled": true
+        "_isEnabled": false
       },
       "_before": {
         "_graphic": {
@@ -1108,7 +1108,7 @@
     "_courseOrder": "1-5"
   },
   {
-    "_id": "58b703116faa37e7449514ba",
+    "_id": "58b853426faa37e74495165c",
     "_sortOrder": 6,
     "_parentId": "58b703116faa37e7449514af",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -1145,7 +1145,7 @@
             "_height": 200
           }
         },
-        "_isEnabled": false
+        "_isEnabled": true
       },
       "_before": {
         "_graphic": {
@@ -1171,13 +1171,13 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "New Article Title",
     "_type": "article",
     "_courseOrder": "1-6"
   },
   {
-    "_id": "58b703116faa37e7449514bb",
+    "_id": "58b703116faa37e7449514ba",
     "_sortOrder": 7,
     "_parentId": "58b703116faa37e7449514af",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -1246,7 +1246,7 @@
     "_courseOrder": "1-7"
   },
   {
-    "_id": "58b703116faa37e7449514bc",
+    "_id": "58b703116faa37e7449514bb",
     "_sortOrder": 8,
     "_parentId": "58b703116faa37e7449514af",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -1315,8 +1315,77 @@
     "_courseOrder": "1-8"
   },
   {
-    "_id": "58b703116faa37e7449514be",
+    "_id": "58b703116faa37e7449514bc",
     "_sortOrder": 9,
+    "_parentId": "58b703116faa37e7449514af",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "__v": 0,
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_classes": "article-style-3",
+    "title": "New Article Title",
+    "_type": "article",
+    "_courseOrder": "1-9"
+  },
+  {
+    "_id": "58b703116faa37e7449514be",
+    "_sortOrder": 10,
     "_parentId": "58b703116faa37e7449514af",
     "_courseId": "58b01c1050d3bf600d233b89",
     "__v": 0,
@@ -1381,7 +1450,7 @@
     "_classes": "article-style-4",
     "title": "New Article Title",
     "_type": "article",
-    "_courseOrder": "1-9"
+    "_courseOrder": "1-10"
   },
   {
     "_id": "58b703666faa37e7449515f3",

@@ -2,7 +2,7 @@
   "_id": "58b01c1050d3bf600d233b8b",
   "_menu": "boxMenu",
   "_courseId": "58b01c1050d3bf600d233b89",
-  "__v": 325,
+  "__v": 380,
   "_themeSettings": {
     "_colors": {
       "_labelAlternative": {
@@ -354,1919 +354,1879 @@
     {
       "description": "",
       "title": "de3",
-      "_id": "58b02c616faa37e744951398",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b02c5c6faa37e744951397",
       "_objectId": "58b01c1050d3bf600d233b89",
-      "_assetId": "58b02c5c6faa37e744951397"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "58b02c616faa37e744951398"
     },
     {
       "description": "",
       "title": "Idea",
-      "_id": "58b041356faa37e7449513e6",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b02e8d6faa37e744951399",
       "_objectId": "58b03f6a6faa37e7449513ab",
-      "_assetId": "58b02e8d6faa37e744951399"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58b041356faa37e7449513e6"
     },
     {
       "description": "",
       "title": "de3",
-      "_id": "58b042cb6faa37e7449513e7",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b02c5c6faa37e744951397",
       "_objectId": "58b01c1050d3bf600d233b89",
-      "_assetId": "58b02c5c6faa37e744951397"
-    },
-    {
-      "title": "Idea_optimized_full.png",
-      "_id": "58b043696faa37e7449513ea",
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
         "_type": "image",
         "_hasLargeImage": true
       },
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b042cb6faa37e7449513e7"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_assetId": "58b0435a6faa37e7449513e9",
       "_objectId": "58b03f6a6faa37e7449513ab",
-      "_assetId": "58b0435a6faa37e7449513e9"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "58b043696faa37e7449513ea"
     },
     {
       "description": "",
       "title": "Intro Size up your Idea",
-      "_assetId": "58b3fd8b6faa37e7449513ee",
-      "_objectId": "58b01c1050d3bf600d233b89",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b3fd966faa37e7449513ef",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b3fd966faa37e7449513ef"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b3fd8b6faa37e7449513ee"
     },
     {
       "description": "",
       "title": "Intro video for lesson 1",
-      "_assetId": "58b40ac66faa37e7449513f5",
-      "_objectId": "58b413b06faa37e744951400",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b413c16faa37e744951401",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b413c16faa37e744951401"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b413b06faa37e744951400",
+      "_assetId": "58b40ac66faa37e7449513f5"
     },
     {
       "description": "",
       "title": "Banner 1",
-      "_id": "58b420066faa37e744951409",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b41ffc6faa37e744951408",
       "_objectId": "58b03f6a6faa37e7449513ab",
-      "_assetId": "58b41ffc6faa37e744951408"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "58b420066faa37e744951409"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Explorer",
-      "_assetId": "58b550dc6faa37e744951426",
-      "_objectId": "58b545236faa37e74495141f",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b550fa6faa37e744951427",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
-      "_id": "58b550fa6faa37e744951427"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b545236faa37e74495141f",
+      "_assetId": "58b550dc6faa37e744951426"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Risk taker",
-      "_assetId": "58b551a46faa37e744951428",
-      "_objectId": "58b545236faa37e74495141f",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b551b26faa37e744951429"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b545236faa37e74495141f",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b551da6faa37e74495142b"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b545236faa37e74495141f",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b552676faa37e74495142d"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b545236faa37e74495141f",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b551b26faa37e744951429",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b5551d6faa37e744951431"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b5606e6faa37e744951433",
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b5609e6faa37e744951437"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b5606e6faa37e744951433",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b560b96faa37e74495143b"
+      "_objectId": "58b545236faa37e74495141f",
+      "_assetId": "58b551a46faa37e744951428"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b5606e6faa37e744951433",
+      "_id": "58b551da6faa37e74495142b",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
       "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b545236faa37e74495141f",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b552676faa37e74495142d",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b545236faa37e74495141f",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b5551d6faa37e744951431",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b545236faa37e74495141f",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b5609e6faa37e744951437",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b5606e6faa37e744951433",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b560b96faa37e74495143b",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b5606e6faa37e744951433",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58b560c56faa37e74495143d",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b5606e6faa37e744951433",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58b581dc6faa37e74495144d",
       "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58b560c56faa37e74495143d"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b03f6b6faa37e7449513c2",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b581dc6faa37e74495144d"
+      "_assetId": "58b581c86faa37e74495144c"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b5807d6faa37e744951449",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b5820d6faa37e74495144e",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
-      "_id": "58b5820d6faa37e74495144e"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b5807d6faa37e744951449",
+      "_assetId": "58b581c86faa37e74495144c"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Scale",
-      "_assetId": "58b584e36faa37e744951457",
-      "_objectId": "58b583b06faa37e744951456",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b584ef6faa37e744951458",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b584ef6faa37e744951458"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b583b06faa37e744951456",
+      "_assetId": "58b584e36faa37e744951457"
     },
     {
       "title": "Idea_optimized_full.jpeg",
-      "_assetId": "58b040a16faa37e7449513e2",
-      "_objectId": "58b03f6a6faa37e7449513ab",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b5a3d16faa37e744951464"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b6947b6faa37e744951468",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b694856faa37e744951469"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b6947b6faa37e744951468",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b694896faa37e74495146a"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b6947b6faa37e744951468",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b5a3d16faa37e744951464",
       "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58b6994a6faa37e74495146c"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b03f6a6faa37e7449513ab",
+      "_assetId": "58b040a16faa37e7449513e2"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58b694856faa37e744951469",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b6947b6faa37e744951468",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58b694896faa37e74495146a",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b6947b6faa37e744951468",
+      "_assetId": "58b68fd36faa37e744951465"
     },
     {
       "description": "",
       "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b413b06faa37e744951400",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b6994a6faa37e74495146c",
       "_filter": {
         "_type": "image",
         "_hasSmallImage": true
       },
-      "_id": "58b69e646faa37e744951470"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b6947b6faa37e744951468",
+      "_assetId": "58b699436faa37e74495146b"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58b69e646faa37e744951470",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b413b06faa37e744951400",
+      "_assetId": "58b699436faa37e74495146b"
     },
     {
       "description": "",
       "title": "Certificate",
-      "_assetId": "58b6b30d6faa37e744951475",
-      "_objectId": "58b01c1050d3bf600d233b89",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b6b3156faa37e744951476",
       "_filter": {
         "_type": "image"
       },
-      "_id": "58b6b3156faa37e744951476"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b6b30d6faa37e744951475"
     },
     {
       "description": "",
       "title": "TC",
-      "_assetId": "58b0376a6faa37e7449513a9",
-      "_objectId": "58b01c1050d3bf600d233b89",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b6b34d6faa37e744951477",
       "_filter": {
         "_type": "image"
       },
-      "_id": "58b6b34d6faa37e744951477"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b0376a6faa37e7449513a9"
     },
     {
-      "_assetId": "58b6b40e6faa37e74495147a",
-      "_objectId": "58b01c1050d3bf600d233b89",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b6b45d6faa37e74495147b",
       "_filter": {
         "_type": "image"
       },
-      "_id": "58b6b45d6faa37e74495147b"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b01c1050d3bf600d233b89",
+      "_assetId": "58b6b40e6faa37e74495147a"
     },
     {
       "description": "",
       "title": "Background holder",
-      "_id": "58b6bce46faa37e744951485",
+      "_assetId": "58b6bcd66faa37e744951484",
+      "_objectId": "58b03f6a6faa37e7449513ab",
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
         "_type": "image"
       },
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b03f6a6faa37e7449513ab",
-      "_assetId": "58b6bcd66faa37e744951484"
+      "_id": "58b6bce46faa37e744951485"
     },
     {
       "description": "",
       "title": "Time",
-      "_id": "58b6d4306faa37e74495148d",
+      "_assetId": "58b6d4296faa37e74495148c",
+      "_objectId": "58b6d2216faa37e74495148a",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "58b6d4306faa37e74495148d"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_assetId": "58b6d4296faa37e74495148c",
+      "_objectId": "58b6d2216faa37e74495148a",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58b6d4796faa37e74495148e"
+    },
+    {
+      "_assetId": "58b6b5df6faa37e74495147c",
+      "_objectId": "58b03f6a6faa37e7449513b2",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "58b6d4f56faa37e74495148f"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Lightbulb",
+      "_assetId": "58b590806faa37e74495145f",
+      "_objectId": "58b6e8936faa37e744951491",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "58b6e89f6faa37e744951492"
+    },
+    {
+      "description": "",
+      "title": "risks",
+      "_assetId": "58b6f8066faa37e744951496",
+      "_objectId": "58b5606e6faa37e744951433",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58b6f80b6faa37e744951497"
+    },
+    {
+      "description": "",
+      "title": "nahs",
+      "_assetId": "58b6f8516faa37e744951498",
+      "_objectId": "58b5606e6faa37e744951433",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "58b6f8566faa37e744951499"
+    },
+    {
+      "description": "",
+      "title": "Idea",
+      "_id": "58b703116faa37e7449514b1",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703116faa37e7449514af",
+      "_assetId": "58b02e8d6faa37e744951399"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58b703116faa37e7449514b2",
       "_filter": {
         "_type": "image",
         "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b6d2216faa37e74495148a",
-      "_assetId": "58b6d4296faa37e74495148c"
+      "_objectId": "58b703116faa37e7449514af",
+      "_assetId": "58b0435a6faa37e7449513e9"
     },
     {
       "description": "",
-      "title": "Time",
-      "_id": "58b6d4796faa37e74495148e",
+      "title": "Background holder",
+      "_id": "58b703116faa37e7449514b3",
       "_filter": {
-        "_hasSmallImage": true,
         "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b6d2216faa37e74495148a",
-      "_assetId": "58b6d4296faa37e74495148c"
+      "_objectId": "58b703116faa37e7449514af",
+      "_assetId": "58b6bcd66faa37e744951484"
     },
     {
-      "_id": "58b6d4f56faa37e74495148f",
+      "description": "",
+      "title": "Banner 1",
+      "_id": "58b703456faa37e74495152c",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b03f6a6faa37e7449513b2",
-      "_assetId": "58b6b5df6faa37e74495147c"
+      "_objectId": "58b703456faa37e74495152b",
+      "_assetId": "58b41ffc6faa37e744951408"
     },
     {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Lightbulb",
-      "_id": "58b6e89f6faa37e744951492",
+      "title": "Idea_optimized_full.png",
+      "_id": "58b703456faa37e74495152d",
       "_filter": {
         "_type": "image",
-        "_hasSmallImage": true
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b6e8936faa37e744951491",
-      "_assetId": "58b590806faa37e74495145f"
+      "_objectId": "58b703456faa37e74495152b",
+      "_assetId": "58b0435a6faa37e7449513e9"
     },
     {
       "description": "",
-      "title": "risks",
-      "_id": "58b6f80b6faa37e744951497",
+      "title": "Idea",
+      "_id": "58b703456faa37e74495152e",
       "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b5606e6faa37e744951433",
+      "_objectId": "58b703456faa37e74495152b",
+      "_assetId": "58b02e8d6faa37e744951399"
+    },
+    {
+      "description": "",
+      "title": "Background holder",
+      "_id": "58b703456faa37e74495152f",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703456faa37e74495152b",
+      "_assetId": "58b6bcd66faa37e744951484"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58b703466faa37e744951554",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951546",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58b703466faa37e744951555",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951549",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58b703466faa37e744951556",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951549",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58b703466faa37e744951557",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951549",
+      "_assetId": "58b699436faa37e74495146b"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Explorer",
+      "_id": "58b703466faa37e744951558",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154a",
+      "_assetId": "58b550dc6faa37e744951426"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Risk taker",
+      "_id": "58b703466faa37e744951559",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154a",
+      "_assetId": "58b551a46faa37e744951428"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58b703466faa37e74495155a",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154a",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b703466faa37e74495155b",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154a",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b703466faa37e74495155c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154a",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_id": "58b703466faa37e74495155d",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154b",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_id": "58b703466faa37e74495155e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154b",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58b703466faa37e74495155f",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154d",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Scale",
+      "_id": "58b703466faa37e744951560",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e74495154f",
+      "_assetId": "58b584e36faa37e744951457"
+    },
+    {
+      "description": "",
+      "title": "Intro video for lesson 1",
+      "_id": "58b703466faa37e744951561",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951551",
+      "_assetId": "58b40ac66faa37e7449513f5"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58b703476faa37e744951562",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951551",
+      "_assetId": "58b699436faa37e74495146b"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Lightbulb",
+      "_id": "58b703476faa37e744951563",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951553",
+      "_assetId": "58b590806faa37e74495145f"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b703476faa37e744951564",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951550",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b703476faa37e744951565",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951550",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58b703476faa37e744951566",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951550",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "",
+      "title": "risks",
+      "_id": "58b703476faa37e744951567",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703466faa37e744951550",
       "_assetId": "58b6f8066faa37e744951496"
     },
     {
       "description": "",
       "title": "nahs",
-      "_id": "58b6f8566faa37e744951499",
+      "_id": "58b703476faa37e744951568",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b5606e6faa37e744951433",
+      "_objectId": "58b703466faa37e744951550",
       "_assetId": "58b6f8516faa37e744951498"
     },
     {
       "description": "",
       "title": "Banner 1",
-      "_assetId": "58b41ffc6faa37e744951408",
-      "_objectId": "58b703116faa37e7449514af",
+      "_id": "58b7034f6faa37e74495156a",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
       "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951569",
+      "_assetId": "58b41ffc6faa37e744951408"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58b7034f6faa37e74495156b",
       "_filter": {
         "_type": "image",
         "_hasLargeImage": true
       },
-      "_id": "58b703116faa37e7449514b0"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951569",
+      "_assetId": "58b0435a6faa37e7449513e9"
     },
     {
       "description": "",
       "title": "Idea",
-      "_assetId": "58b02e8d6faa37e744951399",
-      "_objectId": "58b703116faa37e7449514af",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7034f6faa37e74495156c",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703116faa37e7449514b1"
-    },
-    {
-      "title": "Idea_optimized_full.png",
-      "_assetId": "58b0435a6faa37e7449513e9",
-      "_objectId": "58b703116faa37e7449514af",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasLargeImage": true,
+        "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58b703116faa37e7449514b2"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951569",
+      "_assetId": "58b02e8d6faa37e744951399"
     },
     {
       "description": "",
       "title": "Background holder",
-      "_assetId": "58b6bcd66faa37e744951484",
-      "_objectId": "58b703116faa37e7449514af",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7034f6faa37e74495156d",
       "_filter": {
         "_type": "image"
       },
-      "_id": "58b703116faa37e7449514b3"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b703126faa37e7449514ca",
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703126faa37e7449514d8"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b703126faa37e7449514cd",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703126faa37e7449514d9"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b703126faa37e7449514cd",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703126faa37e7449514da"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b703126faa37e7449514cd",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514db"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Explorer",
-      "_assetId": "58b550dc6faa37e744951426",
-      "_objectId": "58b703126faa37e7449514ce",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703126faa37e7449514dc"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Risk taker",
-      "_assetId": "58b551a46faa37e744951428",
-      "_objectId": "58b703126faa37e7449514ce",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703126faa37e7449514dd"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b703126faa37e7449514ce",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703126faa37e7449514de"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b703126faa37e7449514ce",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703126faa37e7449514df"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b703126faa37e7449514ce",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514e0"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b703126faa37e7449514cf",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703126faa37e7449514e1"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b703126faa37e7449514cf",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514e2"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b703126faa37e7449514d1",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703126faa37e7449514e3"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Scale",
-      "_assetId": "58b584e36faa37e744951457",
-      "_objectId": "58b703126faa37e7449514d3",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514e4"
-    },
-    {
-      "description": "",
-      "title": "Intro video for lesson 1",
-      "_assetId": "58b40ac66faa37e7449513f5",
-      "_objectId": "58b703126faa37e7449514d5",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703126faa37e7449514e5"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b703126faa37e7449514d5",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703126faa37e7449514e6"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Lightbulb",
-      "_assetId": "58b590806faa37e74495145f",
-      "_objectId": "58b703126faa37e7449514d7",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703126faa37e7449514e7"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b703126faa37e7449514d4",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514e8"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b703126faa37e7449514d4",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514e9"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b703126faa37e7449514d4",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514ea"
-    },
-    {
-      "description": "",
-      "title": "risks",
-      "_assetId": "58b6f8066faa37e744951496",
-      "_objectId": "58b703126faa37e7449514d4",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703126faa37e7449514eb"
-    },
-    {
-      "description": "",
-      "title": "nahs",
-      "_assetId": "58b6f8516faa37e744951498",
-      "_objectId": "58b703126faa37e7449514d4",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703126faa37e7449514ec"
-    },
-    {
-      "description": "",
-      "title": "Banner 1",
-      "_assetId": "58b41ffc6faa37e744951408",
-      "_objectId": "58b703456faa37e74495152b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703456faa37e74495152c"
-    },
-    {
-      "title": "Idea_optimized_full.png",
-      "_assetId": "58b0435a6faa37e7449513e9",
-      "_objectId": "58b703456faa37e74495152b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703456faa37e74495152d"
-    },
-    {
-      "description": "",
-      "title": "Idea",
-      "_assetId": "58b02e8d6faa37e744951399",
-      "_objectId": "58b703456faa37e74495152b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703456faa37e74495152e"
-    },
-    {
-      "description": "",
-      "title": "Background holder",
-      "_assetId": "58b6bcd66faa37e744951484",
-      "_objectId": "58b703456faa37e74495152b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image"
-      },
-      "_id": "58b703456faa37e74495152f"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b703466faa37e744951546",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703466faa37e744951554"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b703466faa37e744951549",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703466faa37e744951555"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b703466faa37e744951549",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703466faa37e744951556"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b703466faa37e744951549",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703466faa37e744951557"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Explorer",
-      "_assetId": "58b550dc6faa37e744951426",
-      "_objectId": "58b703466faa37e74495154a",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703466faa37e744951558"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Risk taker",
-      "_assetId": "58b551a46faa37e744951428",
-      "_objectId": "58b703466faa37e74495154a",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703466faa37e744951559"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b703466faa37e74495154a",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703466faa37e74495155a"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b703466faa37e74495154a",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703466faa37e74495155b"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b703466faa37e74495154a",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703466faa37e74495155c"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b703466faa37e74495154b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703466faa37e74495155d"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b703466faa37e74495154b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703466faa37e74495155e"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b703466faa37e74495154d",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703466faa37e74495155f"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Scale",
-      "_assetId": "58b584e36faa37e744951457",
-      "_objectId": "58b703466faa37e74495154f",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703466faa37e744951560"
-    },
-    {
-      "description": "",
-      "title": "Intro video for lesson 1",
-      "_assetId": "58b40ac66faa37e7449513f5",
-      "_objectId": "58b703466faa37e744951551",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703466faa37e744951561"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b703466faa37e744951551",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703476faa37e744951562"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Lightbulb",
-      "_assetId": "58b590806faa37e74495145f",
-      "_objectId": "58b703466faa37e744951553",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703476faa37e744951563"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b703466faa37e744951550",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703476faa37e744951564"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b703466faa37e744951550",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703476faa37e744951565"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b703466faa37e744951550",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703476faa37e744951566"
-    },
-    {
-      "description": "",
-      "title": "risks",
-      "_assetId": "58b6f8066faa37e744951496",
-      "_objectId": "58b703466faa37e744951550",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703476faa37e744951567"
-    },
-    {
-      "description": "",
-      "title": "nahs",
-      "_assetId": "58b6f8516faa37e744951498",
-      "_objectId": "58b703466faa37e744951550",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703476faa37e744951568"
-    },
-    {
-      "description": "",
-      "title": "Banner 1",
-      "_assetId": "58b41ffc6faa37e744951408",
       "_objectId": "58b7034f6faa37e744951569",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7034f6faa37e74495156a"
-    },
-    {
-      "title": "Idea_optimized_full.png",
-      "_assetId": "58b0435a6faa37e7449513e9",
-      "_objectId": "58b7034f6faa37e744951569",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
-      },
-      "_id": "58b7034f6faa37e74495156b"
-    },
-    {
-      "description": "",
-      "title": "Idea",
-      "_assetId": "58b02e8d6faa37e744951399",
-      "_objectId": "58b7034f6faa37e744951569",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b7034f6faa37e74495156c"
-    },
-    {
-      "description": "",
-      "title": "Background holder",
-      "_assetId": "58b6bcd66faa37e744951484",
-      "_objectId": "58b7034f6faa37e744951569",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image"
-      },
-      "_id": "58b7034f6faa37e74495156d"
+      "_assetId": "58b6bcd66faa37e744951484"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
+      "_id": "58b703506faa37e744951592",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951584",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703506faa37e744951592"
+      "_assetId": "58b581c86faa37e74495144c"
     },
     {
       "description": "",
       "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b7034f6faa37e744951587",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e744951593",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b703506faa37e744951593"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951587",
+      "_assetId": "58b68fd36faa37e744951465"
     },
     {
       "description": "",
       "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b7034f6faa37e744951587",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e744951594",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b703506faa37e744951594"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951587",
+      "_assetId": "58b68fd36faa37e744951465"
     },
     {
       "description": "",
       "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b7034f6faa37e744951587",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e744951595",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703506faa37e744951595"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951587",
+      "_assetId": "58b699436faa37e74495146b"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Explorer",
-      "_assetId": "58b550dc6faa37e744951426",
-      "_objectId": "58b7034f6faa37e744951588",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703506faa37e744951596"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Risk taker",
-      "_assetId": "58b551a46faa37e744951428",
-      "_objectId": "58b7034f6faa37e744951588",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703506faa37e744951597"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b7034f6faa37e744951588",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703506faa37e744951598"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b7034f6faa37e744951588",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703506faa37e744951599"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b7034f6faa37e744951588",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e744951596",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b703506faa37e74495159a"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951588",
+      "_assetId": "58b550dc6faa37e744951426"
     },
     {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b7034f6faa37e744951589",
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Risk taker",
+      "_id": "58b703506faa37e744951597",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
       "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951588",
+      "_assetId": "58b551a46faa37e744951428"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58b703506faa37e744951598",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951588",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b703506faa37e744951599",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951588",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b703506faa37e74495159a",
       "_filter": {
         "_type": "image",
         "_hasLargeImage": true
       },
-      "_id": "58b703506faa37e74495159b"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951588",
+      "_assetId": "58b555116faa37e744951430"
     },
     {
       "description": "",
       "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b7034f6faa37e744951589",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e74495159b",
       "_filter": {
-        "_hasSmallImage": true,
+        "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b703506faa37e74495159c"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951589",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_id": "58b703506faa37e74495159c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951589",
+      "_assetId": "58b6d4296faa37e74495148c"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
+      "_id": "58b703506faa37e74495159d",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703506faa37e74495159d"
+      "_assetId": "58b581c86faa37e74495144c"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Scale",
-      "_assetId": "58b584e36faa37e744951457",
+      "_id": "58b703506faa37e74495159e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158d",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703506faa37e74495159e"
+      "_assetId": "58b584e36faa37e744951457"
     },
     {
       "description": "",
       "title": "Intro video for lesson 1",
-      "_assetId": "58b40ac66faa37e7449513f5",
-      "_objectId": "58b7034f6faa37e74495158f",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e74495159f",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b703506faa37e74495159f"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158f",
+      "_assetId": "58b40ac66faa37e7449513f5"
     },
     {
       "description": "",
       "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b7034f6faa37e74495158f",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e7449515a0",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
-      "_id": "58b703506faa37e7449515a0"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158f",
+      "_assetId": "58b699436faa37e74495146b"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Lightbulb",
-      "_assetId": "58b590806faa37e74495145f",
+      "_id": "58b703506faa37e7449515a1",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951591",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703506faa37e7449515a1"
+      "_assetId": "58b590806faa37e74495145f"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b7034f6faa37e74495158e",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e7449515a2",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703506faa37e7449515a2"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158e",
+      "_assetId": "58b555116faa37e744951430"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b7034f6faa37e74495158e",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e7449515a3",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703506faa37e7449515a3"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158e",
+      "_assetId": "58b5525d6faa37e74495142c"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b7034f6faa37e74495158e",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e7449515a4",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703506faa37e7449515a4"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158e",
+      "_assetId": "58b551cf6faa37e74495142a"
     },
     {
       "description": "",
       "title": "risks",
-      "_assetId": "58b6f8066faa37e744951496",
-      "_objectId": "58b7034f6faa37e74495158e",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703506faa37e7449515a5",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703506faa37e7449515a5"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158e",
+      "_assetId": "58b6f8066faa37e744951496"
     },
     {
       "description": "",
       "title": "nahs",
-      "_assetId": "58b6f8516faa37e744951498",
-      "_objectId": "58b7034f6faa37e74495158e",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703516faa37e7449515a6",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
-      "_id": "58b703516faa37e7449515a6"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e74495158e",
+      "_assetId": "58b6f8516faa37e744951498"
     },
     {
       "description": "",
       "title": "Banner 1",
-      "_assetId": "58b41ffc6faa37e744951408",
-      "_objectId": "58b7035a6faa37e7449515a7",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7035a6faa37e7449515a8"
-    },
-    {
-      "title": "Idea_optimized_full.png",
-      "_assetId": "58b0435a6faa37e7449513e9",
-      "_objectId": "58b7035a6faa37e7449515a7",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035a6faa37e7449515a8",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b7035a6faa37e7449515a9"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035a6faa37e7449515a7",
+      "_assetId": "58b41ffc6faa37e744951408"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58b7035a6faa37e7449515a9",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035a6faa37e7449515a7",
+      "_assetId": "58b0435a6faa37e7449513e9"
     },
     {
       "description": "",
       "title": "Idea",
-      "_assetId": "58b02e8d6faa37e744951399",
-      "_objectId": "58b7035a6faa37e7449515a7",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035a6faa37e7449515aa",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
-      "_id": "58b7035a6faa37e7449515aa"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035a6faa37e7449515a7",
+      "_assetId": "58b02e8d6faa37e744951399"
     },
     {
       "description": "",
       "title": "Background holder",
-      "_assetId": "58b6bcd66faa37e744951484",
-      "_objectId": "58b7035a6faa37e7449515a7",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035a6faa37e7449515ab",
       "_filter": {
         "_type": "image"
       },
-      "_id": "58b7035a6faa37e7449515ab"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035a6faa37e7449515a7",
+      "_assetId": "58b6bcd66faa37e744951484"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
+      "_id": "58b7035c6faa37e7449515d0",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515c2",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b7035c6faa37e7449515d0"
+      "_assetId": "58b581c86faa37e74495144c"
     },
     {
       "description": "",
       "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b7035b6faa37e7449515c5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035c6faa37e7449515d1",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b7035c6faa37e7449515d1"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c5",
+      "_assetId": "58b68fd36faa37e744951465"
     },
     {
       "description": "",
       "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b7035b6faa37e7449515c5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035c6faa37e7449515d2",
       "_filter": {
         "_type": "video"
       },
-      "_id": "58b7035c6faa37e7449515d2"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c5",
+      "_assetId": "58b68fd36faa37e744951465"
     },
     {
       "description": "",
       "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b7035b6faa37e7449515c5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035c6faa37e7449515d3",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b7035c6faa37e7449515d3"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c5",
+      "_assetId": "58b699436faa37e74495146b"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Explorer",
-      "_assetId": "58b550dc6faa37e744951426",
-      "_objectId": "58b7035b6faa37e7449515c6",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7035c6faa37e7449515d4"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Risk taker",
-      "_assetId": "58b551a46faa37e744951428",
-      "_objectId": "58b7035b6faa37e7449515c6",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7035c6faa37e7449515d5"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b7035b6faa37e7449515c6",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7035c6faa37e7449515d6"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b7035b6faa37e7449515c6",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7035c6faa37e7449515d7"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b7035b6faa37e7449515c6",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035c6faa37e7449515d4",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b7035c6faa37e7449515d8"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b7035b6faa37e7449515c7",
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b7035c6faa37e7449515d9"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b7035b6faa37e7449515c7",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b7035c6faa37e7449515da"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b7035b6faa37e7449515c9",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b7035c6faa37e7449515db"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Scale",
-      "_assetId": "58b584e36faa37e744951457",
-      "_objectId": "58b7035b6faa37e7449515cb",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b7035c6faa37e7449515dc"
-    },
-    {
-      "description": "",
-      "title": "Intro video for lesson 1",
-      "_assetId": "58b40ac66faa37e7449513f5",
-      "_objectId": "58b7035b6faa37e7449515cd",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b7035c6faa37e7449515dd"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b7035b6faa37e7449515cd",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b7035c6faa37e7449515de"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Lightbulb",
-      "_assetId": "58b590806faa37e74495145f",
-      "_objectId": "58b7035b6faa37e7449515cf",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b7035c6faa37e7449515df"
+      "_objectId": "58b7035b6faa37e7449515c6",
+      "_assetId": "58b550dc6faa37e744951426"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b7035b6faa37e7449515cc",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "title": "Risk taker",
+      "_id": "58b7035c6faa37e7449515d5",
       "_filter": {
-        "_hasSmallImage": true,
+        "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b7035c6faa37e7449515e0"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b7035b6faa37e7449515cc",
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b7035c6faa37e7449515e1"
+      "_objectId": "58b7035b6faa37e7449515c6",
+      "_assetId": "58b551a46faa37e744951428"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b7035b6faa37e7449515cc",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b7035c6faa37e7449515d6",
       "_filter": {
-        "_hasSmallImage": true,
+        "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b7035c6faa37e7449515e2"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c6",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b7035c6faa37e7449515d7",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c6",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b7035c6faa37e7449515d8",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c6",
+      "_assetId": "58b555116faa37e744951430"
     },
     {
       "description": "",
-      "title": "risks",
-      "_assetId": "58b6f8066faa37e744951496",
-      "_objectId": "58b7035b6faa37e7449515cc",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "title": "Time",
+      "_id": "58b7035c6faa37e7449515d9",
       "_filter": {
-        "_hasSmallImage": true,
+        "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b7035c6faa37e7449515e3"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c7",
+      "_assetId": "58b6d4296faa37e74495148c"
     },
     {
       "description": "",
-      "title": "nahs",
-      "_assetId": "58b6f8516faa37e744951498",
-      "_objectId": "58b7035b6faa37e7449515cc",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "title": "Time",
+      "_id": "58b7035c6faa37e7449515da",
       "_filter": {
         "_type": "image",
         "_hasSmallImage": true
       },
-      "_id": "58b7035d6faa37e7449515e4"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c7",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58b7035c6faa37e7449515db",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515c9",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Scale",
+      "_id": "58b7035c6faa37e7449515dc",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cb",
+      "_assetId": "58b584e36faa37e744951457"
+    },
+    {
+      "description": "",
+      "title": "Intro video for lesson 1",
+      "_id": "58b7035c6faa37e7449515dd",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cd",
+      "_assetId": "58b40ac66faa37e7449513f5"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58b7035c6faa37e7449515de",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cd",
+      "_assetId": "58b699436faa37e74495146b"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Lightbulb",
+      "_id": "58b7035c6faa37e7449515df",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cf",
+      "_assetId": "58b590806faa37e74495145f"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b7035c6faa37e7449515e0",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cc",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b7035c6faa37e7449515e1",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cc",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58b7035c6faa37e7449515e2",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cc",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "",
+      "title": "risks",
+      "_id": "58b7035c6faa37e7449515e3",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cc",
+      "_assetId": "58b6f8066faa37e744951496"
+    },
+    {
+      "description": "",
+      "title": "nahs",
+      "_id": "58b7035d6faa37e7449515e4",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035b6faa37e7449515cc",
+      "_assetId": "58b6f8516faa37e744951498"
     },
     {
       "description": "",
       "title": "Banner 1",
-      "_assetId": "58b41ffc6faa37e744951408",
-      "_objectId": "58b703656faa37e7449515e5",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703666faa37e7449515e6"
-    },
-    {
-      "title": "Idea_optimized_full.png",
-      "_assetId": "58b0435a6faa37e7449513e9",
-      "_objectId": "58b703656faa37e7449515e5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703666faa37e7449515e6",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b703666faa37e7449515e7"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703656faa37e7449515e5",
+      "_assetId": "58b41ffc6faa37e744951408"
+    },
+    {
+      "title": "Idea_optimized_full.png",
+      "_id": "58b703666faa37e7449515e7",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703656faa37e7449515e5",
+      "_assetId": "58b0435a6faa37e7449513e9"
     },
     {
       "description": "",
       "title": "Idea",
-      "_assetId": "58b02e8d6faa37e744951399",
-      "_objectId": "58b703656faa37e7449515e5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703666faa37e7449515e8",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
-      "_id": "58b703666faa37e7449515e8"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703656faa37e7449515e5",
+      "_assetId": "58b02e8d6faa37e744951399"
     },
     {
       "description": "",
       "title": "Background holder",
-      "_assetId": "58b6bcd66faa37e744951484",
-      "_objectId": "58b703656faa37e7449515e5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703666faa37e7449515e9",
       "_filter": {
         "_type": "image"
       },
-      "_id": "58b703666faa37e7449515e9"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703656faa37e7449515e5",
+      "_assetId": "58b6bcd66faa37e744951484"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
       "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b703666faa37e744951600",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703676faa37e74495160e"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b703666faa37e744951603",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703676faa37e74495160f"
-    },
-    {
-      "description": "",
-      "title": "Value proposition example",
-      "_assetId": "58b68fd36faa37e744951465",
-      "_objectId": "58b703666faa37e744951603",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703676faa37e744951610"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b703666faa37e744951603",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703676faa37e74495160e",
       "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58b703676faa37e744951611"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951600",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58b703676faa37e74495160f",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951603",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Value proposition example",
+      "_id": "58b703676faa37e744951610",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951603",
+      "_assetId": "58b68fd36faa37e744951465"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58b703676faa37e744951611",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951603",
+      "_assetId": "58b699436faa37e74495146b"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Explorer",
-      "_assetId": "58b550dc6faa37e744951426",
-      "_objectId": "58b703666faa37e744951604",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703676faa37e744951612"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Risk taker",
-      "_assetId": "58b551a46faa37e744951428",
-      "_objectId": "58b703666faa37e744951604",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703676faa37e744951613"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b703666faa37e744951604",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703676faa37e744951614"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b703666faa37e744951604",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703676faa37e744951615"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b703666faa37e744951604",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703676faa37e744951612",
       "_filter": {
         "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b703676faa37e744951616"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b703666faa37e744951605",
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
-      },
-      "_id": "58b703676faa37e744951617"
-    },
-    {
-      "description": "",
-      "title": "Time",
-      "_assetId": "58b6d4296faa37e74495148c",
-      "_objectId": "58b703666faa37e744951605",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703676faa37e744951618"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Torch",
-      "_assetId": "58b581c86faa37e74495144c",
-      "_objectId": "58b703666faa37e744951607",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703676faa37e744951619"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Scale",
-      "_assetId": "58b584e36faa37e744951457",
-      "_objectId": "58b703666faa37e744951609",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703676faa37e74495161a"
-    },
-    {
-      "description": "",
-      "title": "Intro video for lesson 1",
-      "_assetId": "58b40ac66faa37e7449513f5",
-      "_objectId": "58b703666faa37e74495160b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "video"
-      },
-      "_id": "58b703676faa37e74495161b"
-    },
-    {
-      "description": "",
-      "title": "Placeholder",
-      "_assetId": "58b699436faa37e74495146b",
-      "_objectId": "58b703666faa37e74495160b",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703686faa37e74495161c"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Lightbulb",
-      "_assetId": "58b590806faa37e74495145f",
-      "_objectId": "58b703666faa37e74495160d",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703686faa37e74495161d"
+      "_objectId": "58b703666faa37e744951604",
+      "_assetId": "58b550dc6faa37e744951426"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Tenacity",
-      "_assetId": "58b555116faa37e744951430",
-      "_objectId": "58b703666faa37e74495160a",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "title": "Risk taker",
+      "_id": "58b703676faa37e744951613",
       "_filter": {
-        "_hasSmallImage": true,
+        "_hasLargeImage": true,
         "_type": "image"
       },
-      "_id": "58b703686faa37e74495161e"
-    },
-    {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
-      "title": "Creativity",
-      "_assetId": "58b5525d6faa37e74495142c",
-      "_objectId": "58b703666faa37e74495160a",
       "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_id": "58b703686faa37e74495161f"
+      "_objectId": "58b703666faa37e744951604",
+      "_assetId": "58b551a46faa37e744951428"
     },
     {
       "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
       "title": "Obstacles",
-      "_assetId": "58b551cf6faa37e74495142a",
-      "_objectId": "58b703666faa37e74495160a",
+      "_id": "58b703676faa37e744951614",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
       "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951604",
+      "_assetId": "58b551cf6faa37e74495142a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b703676faa37e744951615",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951604",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b703676faa37e744951616",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951604",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_id": "58b703676faa37e744951617",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951605",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "",
+      "title": "Time",
+      "_id": "58b703676faa37e744951618",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951605",
+      "_assetId": "58b6d4296faa37e74495148c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Torch",
+      "_id": "58b703676faa37e744951619",
       "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58b703686faa37e744951620"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951607",
+      "_assetId": "58b581c86faa37e74495144c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Scale",
+      "_id": "58b703676faa37e74495161a",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e744951609",
+      "_assetId": "58b584e36faa37e744951457"
+    },
+    {
+      "description": "",
+      "title": "Intro video for lesson 1",
+      "_id": "58b703676faa37e74495161b",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160b",
+      "_assetId": "58b40ac66faa37e7449513f5"
+    },
+    {
+      "description": "",
+      "title": "Placeholder",
+      "_id": "58b703686faa37e74495161c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160b",
+      "_assetId": "58b699436faa37e74495146b"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
+      "title": "Lightbulb",
+      "_id": "58b703686faa37e74495161d",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160d",
+      "_assetId": "58b590806faa37e74495145f"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Tenacity",
+      "_id": "58b703686faa37e74495161e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160a",
+      "_assetId": "58b555116faa37e744951430"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Creativity",
+      "_id": "58b703686faa37e74495161f",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160a",
+      "_assetId": "58b5525d6faa37e74495142c"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/design\">Design vector created by Macrovector - Freepik.com</a>",
+      "title": "Obstacles",
+      "_id": "58b703686faa37e744951620",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160a",
+      "_assetId": "58b551cf6faa37e74495142a"
     },
     {
       "description": "",
       "title": "risks",
-      "_assetId": "58b6f8066faa37e744951496",
-      "_objectId": "58b703666faa37e74495160a",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703686faa37e744951621",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703686faa37e744951621"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703666faa37e74495160a",
+      "_assetId": "58b6f8066faa37e744951496"
     },
     {
       "description": "",
       "title": "nahs",
-      "_assetId": "58b6f8516faa37e744951498",
+      "_id": "58b703686faa37e744951622",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e74495160a",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703686faa37e744951622"
-    },
-    {
-      "description": "",
-      "title": "Numbers",
-      "_assetId": "58b02f056faa37e74495139b",
-      "_objectId": "58b703116faa37e7449514af",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703966faa37e744951623"
+      "_assetId": "58b6f8516faa37e744951498"
     },
     {
       "description": "",
       "title": "Competition",
-      "_assetId": "58b02f686faa37e74495139d",
-      "_objectId": "58b703656faa37e7449515e5",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703b86faa37e744951624",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
-      "_id": "58b703b86faa37e744951624"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703656faa37e7449515e5",
+      "_assetId": "58b02f686faa37e74495139d"
     },
     {
       "description": "",
       "title": "idea",
-      "_assetId": "58b02f9f6faa37e74495139f",
-      "_objectId": "58b7035a6faa37e7449515a7",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b703ec6faa37e744951625"
-    },
-    {
-      "description": "",
-      "title": "sizing",
-      "_assetId": "58b02fc86faa37e7449513a1",
-      "_objectId": "58b7034f6faa37e744951569",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "_id": "58b703ec6faa37e744951625",
       "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58b7041c6faa37e744951626"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7035a6faa37e7449515a7",
+      "_assetId": "58b02f9f6faa37e74495139f"
     },
     {
       "description": "",
-      "title": "product",
-      "_assetId": "58b02ffc6faa37e7449513a6",
-      "_objectId": "58b703456faa37e74495152b",
-      "_courseId": "58b01c1050d3bf600d233b89",
+      "title": "sizing",
+      "_id": "58b7041c6faa37e744951626",
       "_filter": {
         "_type": "image",
         "_hasSmallImage": true
       },
-      "_id": "58b704546faa37e744951627"
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b7034f6faa37e744951569",
+      "_assetId": "58b02fc86faa37e7449513a1"
+    },
+    {
+      "description": "",
+      "title": "product",
+      "_id": "58b704546faa37e744951627",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703456faa37e74495152b",
+      "_assetId": "58b02ffc6faa37e7449513a6"
+    },
+    {
+      "description": "",
+      "title": "Module2 Intro",
+      "_id": "58b8038c6faa37e744951629",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d5",
+      "_assetId": "58b7fc266faa37e744951628"
+    },
+    {
+      "description": "",
+      "title": "Module2 Intro",
+      "_id": "58b803996faa37e74495162a",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d5",
+      "_assetId": "58b7fc266faa37e744951628"
+    },
+    {
+      "description": "CC-BY Osterwalder",
+      "title": "Business Model Canvas",
+      "_id": "58b8187f6faa37e74495162d",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b8185b6faa37e74495162b",
+      "_assetId": "58b8186e6faa37e74495162c"
+    },
+    {
+      "description": "",
+      "title": "BMC explained",
+      "_id": "58b836666faa37e74495164c",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514cd",
+      "_assetId": "58b835026faa37e74495164b"
+    },
+    {
+      "description": "",
+      "title": "BMC explained",
+      "_id": "58b8366a6faa37e74495164d",
+      "_filter": {
+        "_type": "video"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514cd",
+      "_assetId": "58b835026faa37e74495164b"
+    },
+    {
+      "description": "",
+      "title": "Business",
+      "_id": "58b83e8b6faa37e744951651",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514ca",
+      "_assetId": "58b83e846faa37e744951650"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Demographics",
+      "_id": "58b84ea36faa37e744951657",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b848356faa37e744951652",
+      "_assetId": "58b84e8e6faa37e744951656"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Behaviours",
+      "_id": "58b84eba6faa37e744951659",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b848356faa37e744951652",
+      "_assetId": "58b84eb36faa37e744951658"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Needs",
+      "_id": "58b84ec96faa37e74495165b",
+      "_filter": {
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b848356faa37e744951652",
+      "_assetId": "58b84ec56faa37e74495165a"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Practice",
+      "_id": "58b857a06faa37e744951665",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b8572f6faa37e744951664",
+      "_assetId": "58b854b16faa37e744951660"
+    },
+    {
+      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/business\">Business vector created by Freepik</a>",
+      "title": "Practice",
+      "_id": "58b8642f6faa37e744951691",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b862356faa37e74495168c",
+      "_assetId": "58b854b16faa37e744951660"
+    },
+    {
+      "description": "",
+      "title": "Business",
+      "_id": "58b864506faa37e744951692",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d7",
+      "_assetId": "58b83e846faa37e744951650"
+    },
+    {
+      "description": "",
+      "title": "Grip span",
+      "_id": "58b867dd6faa37e74495169d",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d1",
+      "_assetId": "58b867746faa37e744951697"
+    },
+    {
+      "description": "",
+      "title": "Grip span",
+      "_id": "58b867e16faa37e74495169e",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d1",
+      "_assetId": "58b867746faa37e744951697"
+    },
+    {
+      "description": "",
+      "title": "Chart",
+      "_id": "58b867f16faa37e74495169f",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d3",
+      "_assetId": "58b867a96faa37e74495169a"
+    },
+    {
+      "description": "",
+      "title": "Chart",
+      "_id": "58b867f66faa37e7449516a0",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d3",
+      "_assetId": "58b867a96faa37e74495169a"
+    },
+    {
+      "description": "",
+      "title": "Module 2 banner",
+      "_id": "58b86bb56faa37e7449516a2",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703116faa37e7449514af",
+      "_assetId": "58b86ba86faa37e7449516a1"
+    },
+    {
+      "description": "",
+      "title": "Chart image",
+      "_id": "58b86bdd6faa37e7449516a4",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703116faa37e7449514af",
+      "_assetId": "58b86bcc6faa37e7449516a3"
+    },
+    {
+      "description": "",
+      "title": "Video blue",
+      "_id": "58b86cae6faa37e7449516a6",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514d5",
+      "_assetId": "58b86ca86faa37e7449516a5"
+    },
+    {
+      "description": "",
+      "title": "Video blue",
+      "_id": "58b86cc86faa37e7449516a7",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_objectId": "58b703126faa37e7449514cd",
+      "_assetId": "58b86ca86faa37e7449516a5"
     }
   ],
   "_components": [
@@ -2278,14 +2238,17 @@
     "textAndGraphic",
     "mcq",
     "textInput",
-    "dragAndDrop"
+    "dragAndDrop",
+    "hotgraphic",
+    "flipCard",
+    "attachment",
+    "matching"
   ],
   "_extensions": [
     "progress",
     "videoIntro",
     "courseNavigation",
     "certificate",
-    "achievements",
     "scorm"
   ]
 }
