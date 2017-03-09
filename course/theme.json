@@ -10946,7 +10946,7 @@
         "@menu-item-duration-text-font-weight": 700,
         "@menu-item-duration-text-font-size": "16px",
         "@menu-item-duration-text-color": "@swatch-13",
-        "@menu-item-duration-text-align": "right",
+        "@menu-item-duration-text-align": "center",
         "@menu-item-duration-text-font-family": "@font-1"
       },
       "_menuItemDescriptionTextMargin": {

@@ -1,9 +1,10 @@
 {
   "_id": "58b01c1050d3bf600d233b89",
   "_createdAt": 1487936528202,
-  "_modifiedAt": 1488481536670,
+  "_modifiedAt": 1489080189728,
   "_theme": "58b69e3d6faa37e74495146f",
   "__v": 0,
+  "displayTitle": "How can you decide if your business ideas are worth your time?",
   "_swipeMenu": {
     "_menuContentItems": [],
     "_mobileBackgroundImage": {
@@ -78,13 +79,6 @@
       "layout": "center"
     }
   },
-  "_videoIntro": {
-    "_poster": "",
-    "_video": "course/en/assets/video/58b3fd8b6faa37e7449513ee/2d979b790fdaa2cfcd786035c27f89d0.mp4",
-    "_closeButtonText": "Close",
-    "_shouldAutoPlay": true,
-    "_isEnabled": true
-  },
   "_progress": {
     "progressSidebarAriaLabel": "Tab to move through the page items",
     "progressAriaLabel": "Select this button to toggle the progress sidebar",
@@ -114,6 +108,42 @@
     "title": "Certificate of completion: Size up your idea",
     "_obtainmentMethod": "Course Assessment Passed",
     "_isComplete": false,
+    "_isEnabled": true
+  },
+  "_achievements": {
+    "_badges": {
+      "_items": [
+        {
+          "itemIndex": 0,
+          "_id": "58b035ec6faa37e7449513a8",
+          "_badgeCompletionType": "components"
+        }
+      ],
+      "badgeNotifyTitle": "You earned a badge!",
+      "badgesLabel": "Badges",
+      "badgesName": "Badges",
+      "_isEnabled": true
+    },
+    "_stars": {
+      "starsMissedLabel": "Stars missed",
+      "starsToCollectLabel": "Stars to collect",
+      "starsLabel": "Stars",
+      "starsName": "Stars",
+      "_isEnabled": true
+    },
+    "_lives": {
+      "_totalLives": 3,
+      "livesLabel": "Lives",
+      "livesName": "Lives",
+      "_isEnabled": false
+    },
+    "_points": {
+      "_defaultPoints": 150,
+      "pointsLabel": "XP",
+      "pointsName": "Points",
+      "_isEnabled": true
+    },
+    "title": "Achievements",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {

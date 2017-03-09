@@ -150,6 +150,21 @@
     "_courseOrder": "0-9-0"
   },
   {
+    "_id": "58b99e326faa37e7449516be",
+    "_sortOrder": 1,
+    "_parentId": "58b58ddc6faa37e74495145b",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "0-9-1"
+  },
+  {
     "_id": "58b703116faa37e7449514c7",
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b703116faa37e7449514bd",
@@ -451,6 +466,51 @@
     "_courseOrder": "2-5-0"
   },
   {
+    "_id": "58bff30913b751d90c4ed3ae",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58bff30913b751d90c4ed3ad",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "2-6-0"
+  },
+  {
+    "_id": "58bff31a13b751d90c4ed3b0",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58bff31a13b751d90c4ed3af",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "2-7-0"
+  },
+  {
+    "_id": "58c1287d13b751d90c4ed3f9",
+    "_sortOrder": 0,
+    "_parentId": "58bff37113b751d90c4ed3b3",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "2-8-0"
+  },
+  {
     "_id": "58b703666faa37e7449515fa",
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b703666faa37e7449515f0",
@@ -463,7 +523,7 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "2-6-0"
+    "_courseOrder": "2-9-0"
   },
   {
     "_id": "58b703666faa37e7449515fb",
@@ -478,7 +538,7 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "2-7-0"
+    "_courseOrder": "2-10-0"
   },
   {
     "_id": "58b703666faa37e7449515fc",
@@ -493,7 +553,7 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "2-8-0"
+    "_courseOrder": "2-11-0"
   },
   {
     "_id": "58b703666faa37e7449515fe",
@@ -508,7 +568,7 @@
     "_classes": "",
     "title": "New Block Title",
     "_type": "block",
-    "_courseOrder": "2-9-0"
+    "_courseOrder": "2-12-0"
   },
   {
     "_id": "58b7035b6faa37e7449515bf",

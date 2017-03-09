@@ -324,7 +324,7 @@
       "_coverButtonText": "View"
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b02f686faa37e74495139d/small/96c825810d125bdee916078aa29b0bf1.jpg",
+      "src": "course/en/assets/images/58b949476faa37e7449516ab/small/6830a30c46752a5deec0394bf591dcee.png",
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -367,10 +367,10 @@
       "title": "",
       "_graphic": {
         "_small": {
-          "src": ""
+          "src": "course/en/assets/images/58b949636faa37e7449516ac/small/3a7a38872345f8ac04ef51e0bdd77578.png"
         },
         "_large": {
-          "src": "course/en/assets/images/58b41ffc6faa37e744951408/large/6035f7806e7ad83ccf337253ab991327.png"
+          "src": "course/en/assets/images/58b949636faa37e7449516ac/large/3a7a38872345f8ac04ef51e0bdd77578.png"
         }
       },
       "_contentWidth": 70,
@@ -453,7 +453,7 @@
       "_coverButtonText": "View"
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b02f9f6faa37e74495139f/small/061631ecc4f04d72c69f3971db91c9cd.jpg",
+      "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png",
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -496,10 +496,10 @@
       "title": "",
       "_graphic": {
         "_small": {
-          "src": ""
+          "src": "course/en/assets/images/58b949746faa37e7449516ad/small/cc7be736fa11b9eb8cd79e0a324148c0.png"
         },
         "_large": {
-          "src": "course/en/assets/images/58b41ffc6faa37e744951408/large/6035f7806e7ad83ccf337253ab991327.png"
+          "src": "course/en/assets/images/58b949746faa37e7449516ad/large/cc7be736fa11b9eb8cd79e0a324148c0.png"
         }
       },
       "_contentWidth": 70,
@@ -582,7 +582,7 @@
       "_coverButtonText": "View"
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b02fc86faa37e7449513a1/small/253bb840cd9db75217484c93a70bb88b.jpg",
+      "src": "course/en/assets/images/58b949266faa37e7449516a9/small/0653f02f00c32372f8cfc619370ce5e2.png",
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -625,10 +625,10 @@
       "title": "",
       "_graphic": {
         "_small": {
-          "src": ""
+          "src": "course/en/assets/images/58b949886faa37e7449516ae/small/6f4a0bd20a75465bdb5cba6df01bc232.png"
         },
         "_large": {
-          "src": "course/en/assets/images/58b41ffc6faa37e744951408/large/6035f7806e7ad83ccf337253ab991327.png"
+          "src": "course/en/assets/images/58b949886faa37e7449516ae/large/6f4a0bd20a75465bdb5cba6df01bc232.png"
         }
       },
       "_contentWidth": 70,
@@ -711,7 +711,7 @@
       "_coverButtonText": "View"
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b02ffc6faa37e7449513a6/small/3be51c2590b892a5fb88a46bc8c236df.jpg",
+      "src": "course/en/assets/images/58b949366faa37e7449516aa/small/f65b24d4649a3a863a6b9543d3fea368.png",
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -754,10 +754,10 @@
       "title": "",
       "_graphic": {
         "_small": {
-          "src": ""
+          "src": "course/en/assets/images/58b9499c6faa37e7449516af/small/c83fd4c6077d6e756dbb45e124193453.png"
         },
         "_large": {
-          "src": "course/en/assets/images/58b41ffc6faa37e744951408/large/6035f7806e7ad83ccf337253ab991327.png"
+          "src": "course/en/assets/images/58b9499c6faa37e7449516af/large/c83fd4c6077d6e756dbb45e124193453.png"
         }
       },
       "_contentWidth": 70,
