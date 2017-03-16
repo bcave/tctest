@@ -1,7 +1,7 @@
 {
   "_id": "58b01c1050d3bf600d233b89",
   "_createdAt": 1487936528202,
-  "_modifiedAt": 1489080189728,
+  "_modifiedAt": 1489679591139,
   "_theme": "58b69e3d6faa37e74495146f",
   "__v": 0,
   "displayTitle": "How can you decide if your business ideas are worth your time?",
@@ -84,7 +84,7 @@
     "progressAriaLabel": "Select this button to toggle the progress sidebar",
     "courseExitButtonText": "Exit course",
     "_showCourseExitButton": true,
-    "_showComponentProgress": true,
+    "_showComponentProgress": false,
     "title": "Progress",
     "_isEnabled": true
   },
@@ -110,40 +110,11 @@
     "_isComplete": false,
     "_isEnabled": true
   },
-  "_achievements": {
-    "_badges": {
-      "_items": [
-        {
-          "itemIndex": 0,
-          "_id": "58b035ec6faa37e7449513a8",
-          "_badgeCompletionType": "components"
-        }
-      ],
-      "badgeNotifyTitle": "You earned a badge!",
-      "badgesLabel": "Badges",
-      "badgesName": "Badges",
-      "_isEnabled": true
-    },
-    "_stars": {
-      "starsMissedLabel": "Stars missed",
-      "starsToCollectLabel": "Stars to collect",
-      "starsLabel": "Stars",
-      "starsName": "Stars",
-      "_isEnabled": true
-    },
-    "_lives": {
-      "_totalLives": 3,
-      "livesLabel": "Lives",
-      "livesName": "Lives",
-      "_isEnabled": false
-    },
-    "_points": {
-      "_defaultPoints": 150,
-      "pointsLabel": "XP",
-      "pointsName": "Points",
-      "_isEnabled": true
-    },
-    "title": "Achievements",
+  "_bookmarking": {
+    "_notificationCancel": "No",
+    "_notificationConfirm": "Yes",
+    "_notificationBody": "Do you want to continue the course?",
+    "_notificationTitle": "This course is in progress",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
@@ -246,6 +217,10 @@
   },
   "_categoryGroups": [],
   "_categories": [],
+  "_displayTitleSettings": {
+    "_textAlign": "center",
+    "_fontSize": ""
+  },
   "title": "How can you decide if your business ideas are worth your time?",
   "_type": "course"
 }
