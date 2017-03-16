@@ -2,7 +2,7 @@
   "_id": "58b01c1050d3bf600d233b8b",
   "_menu": "boxMenu",
   "_courseId": "58b01c1050d3bf600d233b89",
-  "__v": 545,
+  "__v": 561,
   "_themeSettings": {
     "_colors": {
       "_labelAlternative": {
@@ -358,8 +358,8 @@
       "_objectId": "58b01c1050d3bf600d233b89",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_id": "58b02c616faa37e744951398"
     },
@@ -370,8 +370,8 @@
       "_objectId": "58b03f6a6faa37e7449513ab",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_id": "58b041356faa37e7449513e6"
     },
@@ -382,8 +382,8 @@
       "_objectId": "58b01c1050d3bf600d233b89",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_id": "58b042cb6faa37e7449513e7"
     },
@@ -393,8 +393,8 @@
       "_objectId": "58b03f6a6faa37e7449513ab",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_id": "58b043696faa37e7449513ea"
     },
@@ -427,8 +427,8 @@
       "_objectId": "58b03f6a6faa37e7449513ab",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_id": "58b420066faa37e744951409"
     },
@@ -437,8 +437,8 @@
       "title": "Explorer",
       "_id": "58b550fa6faa37e744951427",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b545236faa37e74495141f",
@@ -449,8 +449,8 @@
       "title": "Risk taker",
       "_id": "58b551b26faa37e744951429",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b545236faa37e74495141f",
@@ -461,8 +461,8 @@
       "title": "Obstacles",
       "_id": "58b551da6faa37e74495142b",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b545236faa37e74495141f",
@@ -473,8 +473,8 @@
       "title": "Creativity",
       "_id": "58b552676faa37e74495142d",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b545236faa37e74495141f",
@@ -485,8 +485,8 @@
       "title": "Tenacity",
       "_id": "58b5551d6faa37e744951431",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b545236faa37e74495141f",
@@ -497,8 +497,8 @@
       "title": "Tenacity",
       "_id": "58b5609e6faa37e744951437",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b5606e6faa37e744951433",
@@ -509,8 +509,8 @@
       "title": "Torch",
       "_id": "58b581dc6faa37e74495144d",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b03f6b6faa37e7449513c2",
@@ -521,8 +521,8 @@
       "title": "Torch",
       "_id": "58b5820d6faa37e74495144e",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b5807d6faa37e744951449",
@@ -533,8 +533,8 @@
       "title": "Scale",
       "_id": "58b584ef6faa37e744951458",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b583b06faa37e744951456",
@@ -544,8 +544,8 @@
       "title": "Idea_optimized_full.jpeg",
       "_id": "58b5a3d16faa37e744951464",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b03f6a6faa37e7449513ab",
@@ -578,8 +578,8 @@
       "title": "Placeholder",
       "_id": "58b6994a6faa37e74495146c",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b6947b6faa37e744951468",
@@ -590,8 +590,8 @@
       "title": "Placeholder",
       "_id": "58b69e646faa37e744951470",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b413b06faa37e744951400",
@@ -640,24 +640,12 @@
       "_id": "58b6bce46faa37e744951485"
     },
     {
-      "description": "<a href=\"http://www.freepik.com/free-photos-vectors/house\">House vector created by Freepik</a>",
-      "title": "Lightbulb",
-      "_assetId": "58b590806faa37e74495145f",
-      "_objectId": "58b6e8936faa37e744951491",
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
-      },
-      "_id": "58b6e89f6faa37e744951492"
-    },
-    {
       "description": "",
       "title": "Idea",
       "_id": "58b703116faa37e7449514b1",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703116faa37e7449514af",
@@ -667,8 +655,8 @@
       "title": "Idea_optimized_full.png",
       "_id": "58b703116faa37e7449514b2",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703116faa37e7449514af",
@@ -689,8 +677,8 @@
       "title": "Idea_optimized_full.png",
       "_id": "58b703456faa37e74495152d",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703456faa37e74495152b",
@@ -701,8 +689,8 @@
       "title": "Idea",
       "_id": "58b703456faa37e74495152e",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703456faa37e74495152b",
@@ -724,8 +712,8 @@
       "title": "Torch",
       "_id": "58b703466faa37e744951554",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951546",
@@ -758,8 +746,8 @@
       "title": "Explorer",
       "_id": "58b703466faa37e744951558",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154a",
@@ -770,8 +758,8 @@
       "title": "Risk taker",
       "_id": "58b703466faa37e744951559",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154a",
@@ -782,8 +770,8 @@
       "title": "Obstacles",
       "_id": "58b703466faa37e74495155a",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154a",
@@ -794,8 +782,8 @@
       "title": "Creativity",
       "_id": "58b703466faa37e74495155b",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154a",
@@ -806,8 +794,8 @@
       "title": "Tenacity",
       "_id": "58b703466faa37e74495155c",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154a",
@@ -818,8 +806,8 @@
       "title": "Time",
       "_id": "58b703466faa37e74495155d",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154b",
@@ -830,8 +818,8 @@
       "title": "Time",
       "_id": "58b703466faa37e74495155e",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154b",
@@ -842,8 +830,8 @@
       "title": "Torch",
       "_id": "58b703466faa37e74495155f",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154d",
@@ -854,8 +842,8 @@
       "title": "Scale",
       "_id": "58b703466faa37e744951560",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e74495154f",
@@ -877,8 +865,8 @@
       "title": "Lightbulb",
       "_id": "58b703476faa37e744951563",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951553",
@@ -889,8 +877,8 @@
       "title": "Tenacity",
       "_id": "58b703476faa37e744951564",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951550",
@@ -901,8 +889,8 @@
       "title": "Creativity",
       "_id": "58b703476faa37e744951565",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951550",
@@ -913,8 +901,8 @@
       "title": "Obstacles",
       "_id": "58b703476faa37e744951566",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951550",
@@ -925,8 +913,8 @@
       "title": "risks",
       "_id": "58b703476faa37e744951567",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951550",
@@ -937,8 +925,8 @@
       "title": "nahs",
       "_id": "58b703476faa37e744951568",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951550",
@@ -948,8 +936,8 @@
       "title": "Idea_optimized_full.png",
       "_id": "58b7034f6faa37e74495156b",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951569",
@@ -960,8 +948,8 @@
       "title": "Idea",
       "_id": "58b7034f6faa37e74495156c",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951569",
@@ -983,8 +971,8 @@
       "title": "Torch",
       "_id": "58b703506faa37e744951592",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951584",
@@ -1017,8 +1005,8 @@
       "title": "Explorer",
       "_id": "58b703506faa37e744951596",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951588",
@@ -1029,8 +1017,8 @@
       "title": "Risk taker",
       "_id": "58b703506faa37e744951597",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951588",
@@ -1041,8 +1029,8 @@
       "title": "Obstacles",
       "_id": "58b703506faa37e744951598",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951588",
@@ -1053,8 +1041,8 @@
       "title": "Creativity",
       "_id": "58b703506faa37e744951599",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951588",
@@ -1065,8 +1053,8 @@
       "title": "Tenacity",
       "_id": "58b703506faa37e74495159a",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951588",
@@ -1077,8 +1065,8 @@
       "title": "Time",
       "_id": "58b703506faa37e74495159b",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951589",
@@ -1089,8 +1077,8 @@
       "title": "Time",
       "_id": "58b703506faa37e74495159c",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951589",
@@ -1101,8 +1089,8 @@
       "title": "Torch",
       "_id": "58b703506faa37e74495159d",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158b",
@@ -1113,8 +1101,8 @@
       "title": "Scale",
       "_id": "58b703506faa37e74495159e",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158d",
@@ -1136,8 +1124,8 @@
       "title": "Lightbulb",
       "_id": "58b703506faa37e7449515a1",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951591",
@@ -1148,8 +1136,8 @@
       "title": "Tenacity",
       "_id": "58b703506faa37e7449515a2",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158e",
@@ -1160,8 +1148,8 @@
       "title": "Creativity",
       "_id": "58b703506faa37e7449515a3",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158e",
@@ -1172,8 +1160,8 @@
       "title": "Obstacles",
       "_id": "58b703506faa37e7449515a4",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158e",
@@ -1184,8 +1172,8 @@
       "title": "risks",
       "_id": "58b703506faa37e7449515a5",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158e",
@@ -1196,8 +1184,8 @@
       "title": "nahs",
       "_id": "58b703516faa37e7449515a6",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158e",
@@ -1207,8 +1195,8 @@
       "title": "Idea_optimized_full.png",
       "_id": "58b7035a6faa37e7449515a9",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035a6faa37e7449515a7",
@@ -1219,8 +1207,8 @@
       "title": "Idea",
       "_id": "58b7035a6faa37e7449515aa",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035a6faa37e7449515a7",
@@ -1241,8 +1229,8 @@
       "title": "Idea_optimized_full.png",
       "_id": "58b703666faa37e7449515e7",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703656faa37e7449515e5",
@@ -1253,8 +1241,8 @@
       "title": "Idea",
       "_id": "58b703666faa37e7449515e8",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703656faa37e7449515e5",
@@ -1309,8 +1297,8 @@
       "title": "Business Model Canvas",
       "_id": "58b8187f6faa37e74495162d",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b8185b6faa37e74495162b",
@@ -1343,8 +1331,8 @@
       "title": "Business",
       "_id": "58b83e8b6faa37e744951651",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514ca",
@@ -1388,8 +1376,8 @@
       "title": "Practice",
       "_id": "58b857a06faa37e744951665",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b8572f6faa37e744951664",
@@ -1400,8 +1388,8 @@
       "title": "Practice",
       "_id": "58b8642f6faa37e744951691",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b862356faa37e74495168c",
@@ -1409,23 +1397,11 @@
     },
     {
       "description": "",
-      "title": "Business",
-      "_id": "58b864506faa37e744951692",
-      "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
-      },
-      "_courseId": "58b01c1050d3bf600d233b89",
-      "_objectId": "58b703126faa37e7449514d7",
-      "_assetId": "58b83e846faa37e744951650"
-    },
-    {
-      "description": "",
       "title": "Grip span",
       "_id": "58b867dd6faa37e74495169d",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514d1",
@@ -1436,8 +1412,8 @@
       "title": "Grip span",
       "_id": "58b867e16faa37e74495169e",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514d1",
@@ -1448,8 +1424,8 @@
       "title": "Chart",
       "_id": "58b867f16faa37e74495169f",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514d3",
@@ -1460,8 +1436,8 @@
       "title": "Chart",
       "_id": "58b867f66faa37e7449516a0",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514d3",
@@ -1472,8 +1448,8 @@
       "title": "Module 2 banner",
       "_id": "58b86bb56faa37e7449516a2",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703116faa37e7449514af",
@@ -1484,8 +1460,8 @@
       "title": "Chart image",
       "_id": "58b86bdd6faa37e7449516a4",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703116faa37e7449514af",
@@ -1496,8 +1472,8 @@
       "title": "Mod 3 Menu",
       "_id": "58b94a926faa37e7449516b0",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703656faa37e7449515e5",
@@ -1508,8 +1484,8 @@
       "title": "Mod 4 Menu",
       "_id": "58b94aa16faa37e7449516b1",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035a6faa37e7449515a7",
@@ -1520,8 +1496,8 @@
       "title": "Mod 5 Menu",
       "_id": "58b94af86faa37e7449516b2",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951569",
@@ -1532,8 +1508,8 @@
       "title": "Mod 6 Menu",
       "_id": "58b94b086faa37e7449516b3",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703456faa37e74495152b",
@@ -1544,8 +1520,8 @@
       "title": "Mod 3 Banner",
       "_id": "58b94b296faa37e7449516b4",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703656faa37e7449515e5",
@@ -1556,8 +1532,8 @@
       "title": "Mod 3 Banner",
       "_id": "58b94b376faa37e7449516b5",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703656faa37e7449515e5",
@@ -1568,8 +1544,8 @@
       "title": "Mod 4 Banner",
       "_id": "58b94b666faa37e7449516b6",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035a6faa37e7449515a7",
@@ -1580,8 +1556,8 @@
       "title": "Mod 4 Banner",
       "_id": "58b94b6e6faa37e7449516b7",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035a6faa37e7449515a7",
@@ -1592,8 +1568,8 @@
       "title": "Mod 5 Banner",
       "_id": "58b94b7d6faa37e7449516b8",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951569",
@@ -1604,8 +1580,8 @@
       "title": "Mod 5 Banner",
       "_id": "58b94b836faa37e7449516b9",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951569",
@@ -1616,8 +1592,8 @@
       "title": "Banner Mod 6",
       "_id": "58b94b906faa37e7449516ba",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703456faa37e74495152b",
@@ -1628,8 +1604,8 @@
       "title": "Banner Mod 6",
       "_id": "58b94b966faa37e7449516bb",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703456faa37e74495152b",
@@ -1662,8 +1638,8 @@
       "title": "Market",
       "_id": "58c0275713b751d90c4ed3d5",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e744951600",
@@ -1674,8 +1650,8 @@
       "title": "Biz Narrative 1",
       "_id": "58c0277613b751d90c4ed3d6",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff10013b751d90c4ed3ac",
@@ -1686,8 +1662,8 @@
       "title": "Biz Narrative 2",
       "_id": "58c0278f13b751d90c4ed3d7",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff10013b751d90c4ed3ac",
@@ -1698,8 +1674,8 @@
       "title": "Biz Narrative 3",
       "_id": "58c0279a13b751d90c4ed3d8",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff10013b751d90c4ed3ac",
@@ -1710,8 +1686,8 @@
       "title": "Biz Narrative 3",
       "_id": "58c027a513b751d90c4ed3d9",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff10013b751d90c4ed3ac",
@@ -1722,8 +1698,8 @@
       "title": "Biz Narrative 2",
       "_id": "58c027c513b751d90c4ed3da",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff10013b751d90c4ed3ac",
@@ -1734,8 +1710,8 @@
       "title": "Biz Narrative 1",
       "_id": "58c027d013b751d90c4ed3db",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff10013b751d90c4ed3ac",
@@ -1746,8 +1722,8 @@
       "title": "Future",
       "_id": "58c027fe13b751d90c4ed3dc",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e744951605",
@@ -1757,8 +1733,8 @@
       "title": "Future_optimized_full.png",
       "_id": "58c0281113b751d90c4ed3de",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e744951605",
@@ -1769,8 +1745,8 @@
       "title": "Competitors",
       "_id": "58c0284113b751d90c4ed3df",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff33013b751d90c4ed3b1",
@@ -1780,8 +1756,8 @@
       "title": "Competitors_optimized_full.png",
       "_id": "58c0285113b751d90c4ed3e1",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff33013b751d90c4ed3b1",
@@ -1792,8 +1768,8 @@
       "title": "Advantage",
       "_id": "58c0287513b751d90c4ed3e2",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff39f13b751d90c4ed3b6",
@@ -1804,8 +1780,8 @@
       "title": "Market",
       "_id": "58c0305c13b751d90c4ed3f1",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e744951607",
@@ -1816,8 +1792,8 @@
       "title": "Future",
       "_id": "58c0307e13b751d90c4ed3f2",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e744951609",
@@ -1828,8 +1804,8 @@
       "title": "Syncsquare",
       "_id": "58c0313613b751d90c4ed3f4",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58bff8c213b751d90c4ed3c9",
@@ -1840,8 +1816,8 @@
       "title": "Tick2",
       "_id": "58c033a313b751d90c4ed3f8",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e74495160d",
@@ -1852,8 +1828,8 @@
       "title": "Links2",
       "_id": "58c12bbe13b751d90c4ed3fe",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c1288a13b751d90c4ed3fa",
@@ -1864,8 +1840,8 @@
       "title": "Execution",
       "_id": "58c12c0113b751d90c4ed3ff",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c1288a13b751d90c4ed3fa",
@@ -1876,8 +1852,8 @@
       "title": "Sync2",
       "_id": "58c12c4913b751d90c4ed400",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c1288a13b751d90c4ed3fa",
@@ -1932,8 +1908,8 @@
       "title": "DBA placeholder blue",
       "_id": "58c13e7113b751d90c4ed40d",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514d5",
@@ -1944,8 +1920,8 @@
       "title": "DBA placeholder blue",
       "_id": "58c13e8413b751d90c4ed40e",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703126faa37e7449514cd",
@@ -1956,8 +1932,8 @@
       "title": "DBA placeholder purple",
       "_id": "58c13eb313b751d90c4ed40f",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e74495160b",
@@ -1968,8 +1944,8 @@
       "title": "DBA placeholder purple",
       "_id": "58c13ed013b751d90c4ed410",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703666faa37e744951603",
@@ -1980,8 +1956,8 @@
       "title": "DBA placeholder teal",
       "_id": "58c13eec13b751d90c4ed411",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515cd",
@@ -1992,8 +1968,8 @@
       "title": "DBA placeholder teal",
       "_id": "58c13efb13b751d90c4ed412",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515c5",
@@ -2004,8 +1980,8 @@
       "title": "DBA placeholder taupe",
       "_id": "58c13f1b13b751d90c4ed413",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e74495158f",
@@ -2016,8 +1992,8 @@
       "title": "DBA placeholder taupe",
       "_id": "58c13f2c13b751d90c4ed414",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7034f6faa37e744951587",
@@ -2028,8 +2004,8 @@
       "title": "DBA placeholder pink",
       "_id": "58c13f5213b751d90c4ed415",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951551",
@@ -2040,8 +2016,8 @@
       "title": "DBA placeholder pink",
       "_id": "58c13f6313b751d90c4ed416",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b703466faa37e744951549",
@@ -2052,8 +2028,8 @@
       "title": "Maps2",
       "_id": "58c2d81713b751d90c4ed41e",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b5606e6faa37e744951433",
@@ -2064,8 +2040,8 @@
       "title": "Targ2",
       "_id": "58c2d82513b751d90c4ed420",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b5606e6faa37e744951433",
@@ -2109,8 +2085,8 @@
       "title": "Tick2",
       "_id": "58c9491313b751d90c4ed452",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515cf",
@@ -2121,8 +2097,8 @@
       "title": "Coffee",
       "_id": "58c954aa13b751d90c4ed45c",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c92c9c13b751d90c4ed433",
@@ -2133,8 +2109,8 @@
       "title": "Heart",
       "_id": "58c955d913b751d90c4ed45e",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515c2",
@@ -2145,8 +2121,8 @@
       "title": "Understanding",
       "_id": "58c9563213b751d90c4ed460",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c9354a13b751d90c4ed440",
@@ -2157,8 +2133,8 @@
       "title": "Observe",
       "_id": "58c9565613b751d90c4ed462",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c9354a13b751d90c4ed440",
@@ -2169,8 +2145,8 @@
       "title": "Visualise",
       "_id": "58c9566713b751d90c4ed464",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c9354a13b751d90c4ed440",
@@ -2181,8 +2157,8 @@
       "title": "Prototype",
       "_id": "58c9568213b751d90c4ed466",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c9354a13b751d90c4ed440",
@@ -2193,8 +2169,8 @@
       "title": "Implement",
       "_id": "58c9569713b751d90c4ed468",
       "_filter": {
-        "_type": "image",
-        "_hasLargeImage": true
+        "_hasLargeImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c9354a13b751d90c4ed440",
@@ -2205,8 +2181,8 @@
       "title": "Heart",
       "_id": "58c957fa13b751d90c4ed469",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515c9",
@@ -2217,8 +2193,8 @@
       "title": "Lightbulb",
       "_id": "58c958e813b751d90c4ed46d",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b7035b6faa37e7449515cb",
@@ -2229,8 +2205,8 @@
       "title": "Syncup",
       "_id": "58c95a2e13b751d90c4ed470",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58c9460b13b751d90c4ed44d",
@@ -2241,8 +2217,8 @@
       "title": "Time",
       "_id": "58ca8ec813b751d90c4ed47f",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58ca8e8713b751d90c4ed47e",
@@ -2253,8 +2229,8 @@
       "title": "green quiz 2",
       "_id": "58ca993a13b751d90c4ed486",
       "_filter": {
-        "_hasLargeImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasLargeImage": true
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b03f6a6faa37e7449513b2",
@@ -2265,8 +2241,8 @@
       "title": "nahs",
       "_id": "58ca9d3213b751d90c4ed487",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b5606e6faa37e744951433",
@@ -2277,8 +2253,8 @@
       "title": "Risk taker",
       "_id": "58ca9d8613b751d90c4ed489",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_courseId": "58b01c1050d3bf600d233b89",
       "_objectId": "58b5606e6faa37e744951433",
@@ -2291,8 +2267,8 @@
       "_objectId": "58caad4513b751d90c4ed48d",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_hasSmallImage": true,
-        "_type": "image"
+        "_type": "image",
+        "_hasSmallImage": true
       },
       "_id": "58caad7913b751d90c4ed493"
     },
@@ -2303,8 +2279,8 @@
       "_objectId": "58caad4513b751d90c4ed48d",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
-        "_type": "image",
-        "_hasSmallImage": true
+        "_hasSmallImage": true,
+        "_type": "image"
       },
       "_id": "58caafca13b751d90c4ed499"
     },
@@ -2315,10 +2291,154 @@
       "_objectId": "58caadac13b751d90c4ed494",
       "_courseId": "58b01c1050d3bf600d233b89",
       "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58cab05113b751d90c4ed49b"
+    },
+    {
+      "description": "",
+      "title": "sucnhs",
+      "_assetId": "58cac31313b751d90c4ed49e",
+      "_objectId": "58c9301513b751d90c4ed438",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "58cac31a13b751d90c4ed49f"
+    },
+    {
+      "description": "",
+      "title": "Teal quiz banner",
+      "_assetId": "58cac38513b751d90c4ed4a0",
+      "_objectId": "58b7035a6faa37e7449515af",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "58cac39013b751d90c4ed4a1"
+    },
+    {
+      "description": "",
+      "title": "Tick2",
+      "_assetId": "58c0339a13b751d90c4ed3f7",
+      "_objectId": "58b6e8936faa37e744951491",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58cac68813b751d90c4ed4a2"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_assetId": "58caafc613b751d90c4ed498",
+      "_objectId": "58cac6db13b751d90c4ed4a5",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58cac6f913b751d90c4ed4a8"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_assetId": "58cab04b13b751d90c4ed49a",
+      "_objectId": "58cac6e213b751d90c4ed4a6",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58cac71013b751d90c4ed4aa"
+    },
+    {
+      "description": "",
+      "title": "Blue banner quiz",
+      "_assetId": "58caccc413b751d90c4ed4ac",
+      "_objectId": "58b853426faa37e74495165c",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "58caccd213b751d90c4ed4ad"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_assetId": "58caafc613b751d90c4ed498",
+      "_objectId": "58cacd1213b751d90c4ed4b0",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58cacd2e13b751d90c4ed4b3"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_assetId": "58cab04b13b751d90c4ed49a",
+      "_objectId": "58cacd1913b751d90c4ed4b1",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "58cacd5513b751d90c4ed4b5"
+    },
+    {
+      "description": "",
+      "title": "Tick2",
+      "_assetId": "58c0339a13b751d90c4ed3f7",
+      "_objectId": "58b703126faa37e7449514d7",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
         "_hasSmallImage": true,
         "_type": "image"
       },
-      "_id": "58cab05113b751d90c4ed49b"
+      "_id": "58cacdd413b751d90c4ed4b6"
+    },
+    {
+      "description": "",
+      "title": "Purple quiz banner",
+      "_assetId": "58cacf9613b751d90c4ed4b7",
+      "_objectId": "58bff37113b751d90c4ed3b3",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "58cacfa213b751d90c4ed4b8"
+    },
+    {
+      "description": "",
+      "title": "Home button",
+      "_assetId": "58caafc613b751d90c4ed498",
+      "_objectId": "58cacfe213b751d90c4ed4bb",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "58cacff613b751d90c4ed4be"
+    },
+    {
+      "description": "",
+      "title": "Next icon",
+      "_assetId": "58cab04b13b751d90c4ed49a",
+      "_objectId": "58cacfe813b751d90c4ed4bc",
+      "_courseId": "58b01c1050d3bf600d233b89",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "58cad01613b751d90c4ed4c0"
     }
   ],
   "_components": [

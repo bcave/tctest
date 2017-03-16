@@ -1216,7 +1216,7 @@
               "@component-item-content-body-text-font-size-tablet": "16px",
               "@component-item-content-body-text-line-height": 1.25,
               "@component-item-content-body-text-font-weight": 400,
-              "@component-item-content-body-text-font-size": "16px",
+              "@component-item-content-body-text-font-size": "18px",
               "@component-item-content-body-text-align": "left",
               "@component-item-content-body-text-font-family": "@font-1",
               "@component-item-content-body-text-color": "@swatch-13",
@@ -1231,8 +1231,8 @@
               "@component-item-content-title-text-font-size-tablet": "16px",
               "@component-item-content-title-text-line-height": 1.25,
               "@component-item-content-title-text-font-weight": 400,
-              "@component-item-content-title-text-font-size": "16px",
-              "@component-item-content-title-text-align": "left",
+              "@component-item-content-title-text-font-size": "18px",
+              "@component-item-content-title-text-align": "center",
               "@component-item-content-title-text-font-family": "@font-1",
               "@component-item-content-title-text-color": "@swatch-13"
             },
@@ -1245,8 +1245,8 @@
               "@component-item-text-font-size-tablet": "15px",
               "@component-item-text-line-height": 1.25,
               "@component-item-text-font-weight": 400,
-              "@component-item-text-font-size": "15px",
-              "@component-item-text-align": "left",
+              "@component-item-text-font-size": "18px",
+              "@component-item-text-align": "center",
               "@component-item-text-font-family": "@font-1"
             },
             "_componentItemPadding": {
@@ -1310,7 +1310,7 @@
               "@component-item-background-disabled-color": "@swatch-25",
               "@component-item-background-selected-color": "@swatch-6",
               "@component-item-background-hover-color": "@swatch-6",
-              "@component-item-background-color": "@swatch-5"
+              "@component-item-background-color": "rgba(146,190,189,1)"
             }
           }
         },
@@ -1443,8 +1443,8 @@
               "@component-body-text-font-size-tablet": "16px",
               "@component-body-text-line-height": 1.25,
               "@component-body-text-font-weight": 400,
-              "@component-body-text-font-size": "15px",
-              "@component-body-text-align": "left",
+              "@component-body-text-font-size": "18px",
+              "@component-body-text-align": "center",
               "@component-body-text-font-family": "@font-1",
               "@component-body-text-color": "@swatch-13",
               "@component-body-text-background-color": "transparent"
@@ -1487,7 +1487,7 @@
               "@component-title-text-line-height": 1.25,
               "@component-title-text-font-weight": 700,
               "@component-title-text-font-size": "25px",
-              "@component-title-text-align": "left",
+              "@component-title-text-align": "center",
               "@component-title-text-font-family": "@font-1",
               "@component-title-text-color": "@swatch-13",
               "@component-title-text-background-color": "transparent"
@@ -1810,7 +1810,7 @@
               "@article-padding-right-tablet": "20px",
               "@article-padding-top-tablet": "20px",
               "@article-padding-left": "20px",
-              "@article-padding-bottom": "20px",
+              "@article-padding-bottom": "0px",
               "@article-padding-right": "20px",
               "@article-padding-top": "20px"
             },
@@ -1828,7 +1828,7 @@
               "@article-margin-right": "0px",
               "@article-margin-top": "0px"
             },
-            "@article-inner-max-width": "none",
+            "@article-inner-max-width": "1024px",
             "@article-max-width": "none",
             "@article-box-shadow": "0px 1px 1px 0px rgba(0,0,0,0.2)",
             "_articleBorderRadius": {
@@ -1861,7 +1861,7 @@
           }
         }
       },
-      "title": "Article Style 9"
+      "title": "Standard Block Teal"
     },
     "article-style-8": {
       "_elements": {
@@ -8674,7 +8674,7 @@
               "@component-item-content-title-text-line-height": 1.25,
               "@component-item-content-title-text-font-weight": 400,
               "@component-item-content-title-text-font-size": "18px",
-              "@component-item-content-title-text-align": "left",
+              "@component-item-content-title-text-align": "center",
               "@component-item-content-title-text-font-family": "@font-1",
               "@component-item-content-title-text-color": "@swatch-13"
             },
@@ -11245,10 +11245,10 @@
     }
   },
   "_preset": {
-    "_isFavourite": true,
-    "_isCorePreset": false,
+    "title": "TC Green",
     "_isLocked": false,
-    "title": "TC Standard"
+    "_isCorePreset": false,
+    "_isFavourite": true
   },
   "_type": "theme"
 }

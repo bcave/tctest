@@ -330,6 +330,21 @@
     "_courseOrder": "1-10-0"
   },
   {
+    "_id": "58cac6bb13b751d90c4ed4a4",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cac6bb13b751d90c4ed4a3",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "1-11-0"
+  },
+  {
     "_id": "58b703116faa37e7449514c7",
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b703116faa37e7449514bd",
@@ -343,21 +358,6 @@
     "title": "New Block Title",
     "_type": "block",
     "_courseOrder": "2-0-0"
-  },
-  {
-    "_id": "58c90b8c13b751d90c4ed42e",
-    "_sortOrder": 1,
-    "_parentId": "58b703116faa37e7449514bd",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "__v": 0,
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_singleWidthComponentLayout": "default",
-    "_classes": "",
-    "title": "New Block Title",
-    "_type": "block",
-    "_courseOrder": "2-0-1"
   },
   {
     "_id": "58b703116faa37e7449514bf",
@@ -556,6 +556,21 @@
     "_courseOrder": "2-10-0"
   },
   {
+    "_id": "58cacd0213b751d90c4ed4af",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cacd0213b751d90c4ed4ae",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "2-11-0"
+  },
+  {
     "_id": "58b703666faa37e7449515fd",
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b703666faa37e7449515f3",
@@ -749,6 +764,21 @@
     "title": "New Block Title",
     "_type": "block",
     "_courseOrder": "3-12-0"
+  },
+  {
+    "_id": "58cacfd313b751d90c4ed4ba",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cacfd313b751d90c4ed4b9",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "3-13-0"
   },
   {
     "_id": "58b7034f6faa37e744951581",

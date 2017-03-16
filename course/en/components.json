@@ -1148,8 +1148,8 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b58ddc6faa37e74495145c",
     "_graphic": {
-      "small": "course/en/assets/images/58b590806faa37e74495145f/small/3ded1ba9a54533770e4cf1f7fc56f9b3.png",
-      "_isExternalLink": false
+      "_isExternalLink": false,
+      "small": "course/en/assets/images/58c0339a13b751d90c4ed3f7/small/98d913816b887605c228b958dc3e0743.png"
     },
     "_graphicTextRightPadding": 0,
     "_graphicTextLeftPadding": 0,
@@ -1218,7 +1218,7 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
     "__v": 0,
-    "body": "<p>Well done! you've finished your first module.</p><p>Everything we've learnt above is important when considering if your idea has what it takes to become a business. We recommend taking some time to consider why this idea? why me? why now? and what next? They will give you the foundation on which your business is built.</p><p><br></p><p>So what happens once you have answers you need? The next thing you need is to structure your answers into something you can use. In the next module we will give you the skills to turn your idea into a business model you can share with others.</p>",
+    "body": "<p>Well done! you've finished your first module.</p><p>Everything we've learnt above is important when considering if your idea has what it takes to become a business. We recommend taking some time to consider why this idea? why me? why now? and what next? They will give you the foundation on which your business is built.</p><p><br></p><p>So what happens once you have answers you need? The next thing you need is to take a closer look at those ideas. In the next module we will give you the skills to generate new business ideas and evaluate those you have.</p>",
     "displayTitle": "You have what it takes!",
     "_tags": {
       "_tagsList": [],
@@ -1644,7 +1644,7 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
     "__v": 0,
-    "displayTitle": "Staying interested",
+    "displayTitle": "<div><br></div>Staying interested",
     "body": "<p>Making an idea into a reality needs energy and commitment. To keep this energy going even when things get tough, you need to love what you’re doing. So it’s important that we look carefully at our ideas to understand what 'turns us on' about this specific opportunity.</p><p><br></p><p>Remember that passion is infectious. If you really care about your idea, it will make it much easier to convince your first customers and your partners why they should too.</p>",
     "_tags": {
       "_tagsList": [],
@@ -1825,7 +1825,7 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7035b6faa37e7449515b8",
     "__v": 0,
-    "displayTitle": "How to find ideas you you are passionate about",
+    "displayTitle": "How to find ideas you are passionate about",
     "body": "<p>We know that we need ideas we care deeply about to turn them into good businesses. So what strategies can we use to find these ideas? Neil Lurie, an expert on idea creation, suggests in his handbook that there are four ways to find ideas you are passionate about:<br></p><p><br></p>",
     "instruction": "",
     "_items": [
@@ -1917,7 +1917,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "How to find ideas you you are passionate about",
+    "title": "How to find ideas you are passionate about",
     "_type": "component",
     "_courseOrder": "1-3-0-1"
   },
@@ -1985,7 +1985,11 @@
     "_isQuestionType": false,
     "__v": 0,
     "displayTitle": "Let's hear from some founders",
-    "body": "<p>In this section we'll introduce more founders who have identified new opportunities and taken action to bring them to reality.</p>",
+    "body": "<p>In this section we'll introduce more founders who have identified new opportunities and taken action to bring them to reality.</p><p><br></p>",
+    "_posterGraphic": {
+      "src": "course/en/assets/images/58cac31313b751d90c4ed49e/large/ba74de611c9fd77a860d685263cbae30.png"
+    },
+    "instruction": "Press play then click the buttons when prompted",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -2889,6 +2893,158 @@
     "_courseOrder": "1-10-0-1"
   },
   {
+    "_id": "58cac6db13b751d90c4ed4a5",
+    "_component": "links",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cac6bb13b751d90c4ed4a4",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
+        },
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "_id": "58cac6eb13b751d90c4ed4a7",
+        "itemIndex": 0,
+        "_type": "course",
+        "link": ""
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "1-11-0-0"
+  },
+  {
+    "_id": "58cac6e213b751d90c4ed4a6",
+    "_component": "links",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cac6bb13b751d90c4ed4a4",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
+        },
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58cac70513b751d90c4ed4a9",
+        "_type": "contentObjects",
+        "link": "58b703116faa37e7449514af"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "1-11-0-1"
+  },
+  {
     "_id": "58b703126faa37e7449514d5",
     "_component": "media",
     "_layout": "full",
@@ -3495,7 +3651,7 @@
     "__v": 0,
     "displayTitle": "Nailing your customer profiles",
     "body": "<p>As we learned in the video, every canvas starts with the customers. Your new business may appeal to everyone but, as a new startup, your resources will be very limited. So it’s important to be specific about your customers. This will help you design an even better business model. </p><p><br></p><p>But how should you split customers up? Below are three different ways to help you divide your customers more precisely.&nbsp;</p>",
-    "instruction": "Click on an approach to discover more",
+    "instruction": "<div><br></div>Click on each icon below to discover more",
     "_numberOfColumns": 3,
     "_tags": {
       "_tagsList": [],
@@ -3591,6 +3747,10 @@
       "_isEnabled": false
     },
     "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "center",
+      "_fontSize": "28"
+    },
     "title": "Honing your business model skills",
     "_type": "component",
     "_courseOrder": "2-6-0-0"
@@ -4290,7 +4450,7 @@
     "__v": 0,
     "_graphic": {
       "_isExternalLink": false,
-      "small": "course/en/assets/images/58b83e846faa37e744951650/small/5e9739b8e776c5b16c464f4cec27514e.png"
+      "small": "course/en/assets/images/58c0339a13b751d90c4ed3f7/small/98d913816b887605c228b958dc3e0743.png"
     },
     "_graphicTextRightPadding": 0,
     "_graphicTextLeftPadding": 0,
@@ -4401,6 +4561,158 @@
     "title": "You can test your idea!",
     "_type": "component",
     "_courseOrder": "2-10-0-1"
+  },
+  {
+    "_id": "58cacd1213b751d90c4ed4b0",
+    "_component": "links",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cacd0213b751d90c4ed4af",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
+        },
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58cacd2013b751d90c4ed4b2",
+        "_type": "course",
+        "link": ""
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "2-11-0-0"
+  },
+  {
+    "_id": "58cacd1913b751d90c4ed4b1",
+    "_component": "links",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cacd0213b751d90c4ed4af",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
+        },
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58cacd4e13b751d90c4ed4b4",
+        "_type": "contentObjects",
+        "link": "58b703656faa37e7449515e5"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "2-11-0-1"
   },
   {
     "_id": "58b703666faa37e74495160b",
@@ -5011,7 +5323,7 @@
         },
         "_id": "58bff33d13b751d90c4ed3b2",
         "itemIndex": 0,
-        "body": "<p>Outside our own business we need to look at how circumstances in the world will will affect our business. Maybe a new law will make it harder for us to work? Perhaps, there the number of potential customers for our products is growing as populations expand?</p><p><br></p><p>Whatever is coming your way in the future, it pays to be prepared. As a handy guide to thinking through what might affect your business, you can use PEST. PEST stands for Political, Economic, Social and Technological drivers of change. It will help you cover the ‘big questions’ about what might change for your business. </p><p><br></p><p>If you want to learn more about using PEST, follow the link here.</p>"
+        "body": "<p><br></p><p>Outside our own business we need to look at how circumstances in the world will will affect our business. Maybe a new law will make it harder for us to work? Perhaps, there the number of potential customers for our products is growing as populations expand?</p><p><br></p><p>Whatever is coming your way in the future, it pays to be prepared. As a handy guide to thinking through what might affect your business, you can use PEST. PEST stands for Political, Economic, Social and Technological drivers of change. It will help you cover the ‘big questions’ about what might change for your business. </p><p><br></p><p>If you want to learn more about using PEST, follow the link here.</p>"
       }
     ],
     "_numberOfColumns": 3,
@@ -5188,7 +5500,7 @@
     "_isQuestionType": false,
     "__v": 0,
     "displayTitle": "Identifying your competitive edge",
-    "body": "<p>If we have identified a good opportunity then it’s likely we aren’t the only ones. You will undoubtedly face competition either from established businesses who currently have the customers you need or from other newcomers looking to tempt them instead. </p><p><br></p><p>To give ourselves the best chance we come out on top, we will need an edge over the competition. But how can we decide what gives us our edge? For something to be a competitive edge, it needs four qualities, collectively known as VRIO. Click on the boxes below to discover more about each.</p>",
+    "body": "<p>If we have identified a good opportunity then it’s likely we aren’t the only ones. You will undoubtedly face competition either from established businesses who currently have the customers you need or from other newcomers looking to tempt them instead. </p><p><br></p><p>To give ourselves the best chance we come out on top, we will need an edge over the competition. But how can we decide what gives us our edge? For something to be a competitive edge, it needs four qualities, collectively known as VRIO. Click on the boxes below to discover more about each.</p><p><br></p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -5690,7 +6002,7 @@
     "_useCustomItemPrefix": false,
     "_selectable": 1,
     "_isRandom": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_attempts": 1,
     "_useQuestionBank": false,
     "_interactionLabel": {
@@ -5929,6 +6241,158 @@
     "title": "You can get to grips with your market!",
     "_type": "component",
     "_courseOrder": "3-12-0-1"
+  },
+  {
+    "_id": "58cacfe213b751d90c4ed4bb",
+    "_component": "links",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cacfd313b751d90c4ed4ba",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
+        },
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58cacfee13b751d90c4ed4bd",
+        "_type": "course",
+        "link": ""
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "3-13-0-0"
+  },
+  {
+    "_id": "58cacfe813b751d90c4ed4bc",
+    "_component": "links",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cacfd313b751d90c4ed4ba",
+    "_items": [
+      {
+        "_isImageLink": true,
+        "_graphic": {
+          "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
+        },
+        "_linkTarget": "same window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": true,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "itemIndex": 0,
+        "_id": "58cad00d13b751d90c4ed4bf",
+        "_type": "contentObjects",
+        "link": "58b703116faa37e7449514af"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "3-13-0-1"
   },
   {
     "_id": "58b7034f6faa37e74495158f",
