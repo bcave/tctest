@@ -2043,10 +2043,10 @@
         "_graphic": {
           "src": "course/en/assets/images/58c955eb13b751d90c4ed45f/large/ca07aa482798dc81f4b5d15b2bcc6e12.png"
         },
-        "body": "<p>You need to understand the market, the target audience, the technology and the the problem as deeply as you can.</p>",
+        "body": "<p><b>Develop your understanding</b><br></p><p><br></p><p>You need to understand the market, the target audience, the technology and the the problem as deeply as you can.</p>",
         "itemIndex": 0,
         "_id": "58c9356213b751d90c4ed441",
-        "title": "Develop your understanding"
+        "title": ""
       },
       {
         "_graphic": {
@@ -2054,33 +2054,33 @@
         },
         "_id": "58c9356313b751d90c4ed442",
         "itemIndex": 1,
-        "title": "Observe real people in real-life situations",
-        "body": "<p>Check your understanding against ordinary people. Find out what makes them tick, what confuses them, what they like, what they hate and how they feel about things.</p>"
+        "title": "",
+        "body": "<p><b>Observe real people in real-life situations</b><br></p><p><br></p><p>Check your understanding against ordinary people. Find out what makes them tick, what confuses them, what they like, what they hate and how they feel about things.</p>"
       },
       {
         "_graphic": {
           "src": "course/en/assets/images/58c9566113b751d90c4ed463/large/023cf2689d903704aeb826e9dc93e8b2.png"
         },
-        "body": "<p>Bring your ideas to life visually so that others can see and understand what’s in your brain.</p>",
+        "body": "<p><b>Visualise the idea</b><br></p><p><br></p><p>Bring your ideas to life visually so that others can see and understand what’s in your brain.</p>",
         "itemIndex": 2,
         "_id": "58c9356413b751d90c4ed443",
-        "title": "Visualise the idea"
+        "title": ""
       },
       {
         "_graphic": {
           "src": "course/en/assets/images/58c9566f13b751d90c4ed465/large/6132c1e600048ff325ed71ae5c0ce566.png"
         },
-        "body": "<p>Quickly build, test and discard a series of working models to figure out what works for people, what doesn’t and what confuses them.</p>",
+        "body": "<p><b>Prototype rapidly</b><br></p><p><br></p><p>Quickly build, test and discard a series of working models to figure out what works for people, what doesn’t and what confuses them.</p>",
         "_id": "58c9356413b751d90c4ed444",
         "itemIndex": 3,
-        "title": "Prototype rapidly"
+        "title": ""
       },
       {
         "_graphic": {
           "src": "course/en/assets/images/58c9569013b751d90c4ed467/large/4a872a0bde95056f1707b8e91175363f.png"
         },
-        "title": "Implement your idea",
-        "body": "<p>Bring the new idea to market rapidly. Then go back to developing your understanding.</p>",
+        "title": "",
+        "body": "<p><b>Implement your idea</b><br></p><p><br></p><p>Bring the new idea to market rapidly. Then go back to developing your understanding.</p>",
         "itemIndex": 4,
         "_id": "58c9356513b751d90c4ed445"
       }
@@ -2227,6 +2227,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "body": "<div><br></div><p><br></p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -2843,7 +2844,7 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7035b6faa37e7449515c0",
     "__v": 0,
-    "body": "<p>Great work! Developing and refining your ideas is a really important discipline for entrepreneurs. By practicing the approaches we've learned above, you can quickly improve your thinking and decide which ideas to pursue. Want some practice developing your ideas, why not complete this idea generation tool for an interactive look at your thoughts.</p><p><br></p><p>So how can we check if our good ideas work for our customers? In the next module we are going to look outside our business plans to understand how we can approach our customers, what they can tell us and how we can validate our new ideas.</p>",
+    "body": "<p>Great work! Developing and refining your ideas is a really important discipline for entrepreneurs. By practicing the approaches we've learned above, you can quickly improve your thinking and decide which ideas to pursue. Want some practice developing your ideas, why not complete this idea generation tool for an interactive look at your thoughts.</p><p><br></p><p>So how can we really think through our good ideas? In any business, there is a lot to think about from how we get to our customers to where we make money. In the next module we will introduce a framework to help you organise these thoughts.</p>",
     "displayTitle": "You can refine your ideas!",
     "_interactionLabel": {
       "_location": "before body"
@@ -3383,9 +3384,9 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b703116faa37e7449514c1",
     "__v": 0,
-    "body": "<p>To help you make your own business model for your idea, we are going to use a tool called the business model canvas. The canvas is a simple and popular way of organising all your ideas about a business.</p><p><br></p><p>Remember in the last module when we learned that good business ideas need to be desirable, feasible and viable? Well the business model canvas helps us dig deeper into those criteria and think about the logic of how our business will work.</p><p><br></p><p>Below you can have a look at the canvas itself. But first, <b>click on the video to the right to learn more about how the canvas works</b>.</p>",
+    "body": "<p>To help you make your own business model for your idea, we are going to use a tool called the business model canvas. The canvas is a simple and popular way of organising all your ideas about a business.</p><p><br></p><p>Remember in the last module when we learned that good business ideas need to be desirable, feasible and viable? Well the business model canvas helps us dig deeper into those criteria and think about the logic of how our business will work.</p><p><br></p><p><br></p>",
     "displayTitle": "Organising your thoughts",
-    "instruction": "",
+    "instruction": "Below you can have a look at the canvas itself. But first, click on the video to the right to learn more about how the canvas works...",
     "_interactionLabel": {
       "_location": "before body"
     },
@@ -4224,7 +4225,7 @@
     ],
     "_shouldShowDisplayTitleInFeedback": true,
     "_shouldBeMarkedStrictly": false,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_attempts": 1,
     "_interactionLabel": {
       "_location": "before widget"
@@ -5105,6 +5106,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "displayTitle": "<div><br></div>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -5554,28 +5556,28 @@
         "_graphic": {
           "src": "course/en/assets/images/58c02fee13b751d90c4ed3ef/large/df38169dc9c1ba8eab259247a57303b6.png"
         },
-        "itemIndex": 0,
+        "body": "<p><b>Well connected within the value chain</b><br></p><p><br></p><p>The reputation of your team is important. Often in the early days of your business, the personal relationships of your team can be key to success. Consider whether your team has developed deep customer insights on your chosen market. Also important is whether they have built up a following in the industry and whether they will be able to ‘open doors’ for you.</p>",
+        "title": "",
         "_id": "58c1289013b751d90c4ed3fb",
-        "title": "Well connected within the value chain",
-        "body": "<p>The reputation of your team is important. Often in the early days of your business, the personal relationships of your team can be key to success. Consider whether your team has developed deep customer insights on your chosen market. Also important is whether they have built up a following in the industry and whether they will be able to ‘open doors’ for you.</p>"
+        "itemIndex": 0
       },
       {
         "_graphic": {
           "src": "course/en/assets/images/58c02fc813b751d90c4ed3ed/large/1d8a73923fbcc568ad7779bc35b61771.png"
         },
-        "title": "Able to execute on critical success factors",
-        "_id": "58c1289513b751d90c4ed3fc",
+        "body": "<p><b>Able to execute on critical success factors</b><br></p><p><br></p><p>You will need to rely on your team to help the business succeed. You need to consider whether the team realistically deliver the key capabilities critical to business success. Does their work reflect the standards and values you hope for in the business. Does your team have the necessary skills to deliver?</p>",
         "itemIndex": 1,
-        "body": "<p>You will need to rely on your team to help the business succeed. You need to consider whether the team realistically deliver the key capabilities critical to business success. Does their work reflect the standards and values you hope for in the business. Does your team have the necessary skills to deliver?</p>"
+        "_id": "58c1289513b751d90c4ed3fc",
+        "title": ""
       },
       {
         "_graphic": {
           "src": "course/en/assets/images/58c02fa313b751d90c4ed3eb/large/b547ec92a2fa2d1c909fa941d37ed032.png"
         },
-        "body": "<p>As your business grows, it will be important that you and your team all share an understanding of where you want the organisation to go. Mismatched expectations are one of the biggest sources of tension between start up teams. Consider whether your team are all committed to the same vision for the future. Another important test is whether your appetite for risk is similar. If one of you needs to pay rent while another is comfortable, it can cause serious tensions.</p>",
-        "itemIndex": 2,
+        "title": "",
         "_id": "58c1289813b751d90c4ed3fd",
-        "title": "Share a common mission and a shared appetite for risk"
+        "itemIndex": 2,
+        "body": "<p><b>Share a common mission and a shared appetite for risk</b><br></p><p><br></p><p>As your business grows, it's important that you and your team all share an understanding of where you want the organisation to go. Consider whether your team are all committed to the same vision for the future. Another important test is whether your appetite for risk is similar. If one of you needs to pay rent while another is comfortable, it can cause serious tensions.</p>"
       }
     ],
     "_narrativeLayout": "Full",
