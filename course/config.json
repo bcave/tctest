@@ -3,11 +3,11 @@
   "_courseId": "58b01c1050d3bf600d233b89",
   "__v": 0,
   "_tracker": {
-    "_pushData": "../../api/usersCourse",
-    "_getData": "../../api/usersCourse",
-    "_login": "../../api/login",
-    "_auth": "../../api/isAuthenticated",
-    "_isEnabled": false
+    "_isEnabled": true,
+    "_auth": "/api/isAuthenticated",
+    "_login": "/api/login",
+    "_getData": "/api/usersCourse",
+    "_pushData": "/api/usersCourse"
   },
   "_scorm": {
     "_isEnabled": true,

@@ -1282,7 +1282,7 @@
               "@component-item-border-visited-color": "@swatch-5",
               "@component-item-border-disabled-color": "@swatch-25",
               "@component-item-border-selected-color": "@swatch-5",
-              "@component-item-border-hover-color": "@swatch-5"
+              "@component-item-border-hover-color": "rgba(146,190,189,1)"
             },
             "_componentItemBorders": {
               "@component-item-border-left-color": "#454545",
@@ -2212,7 +2212,7 @@
               "@component-item-border-visited-color": "@swatch-5",
               "@component-item-border-disabled-color": "@swatch-25",
               "@component-item-border-selected-color": "@swatch-5",
-              "@component-item-border-hover-color": "@swatch-5"
+              "@component-item-border-hover-color": "rgba(160,174,202,1)"
             },
             "_componentItemBorders": {
               "@component-item-border-left-color": "#454545",
@@ -2240,7 +2240,7 @@
               "@component-item-background-disabled-color": "@swatch-25",
               "@component-item-background-selected-color": "@swatch-6",
               "@component-item-background-hover-color": "@swatch-6",
-              "@component-item-background-color": "@swatch-5"
+              "@component-item-background-color": "rgba(160,174,202,1)"
             }
           }
         },
@@ -2740,7 +2740,7 @@
               "@article-padding-right-tablet": "20px",
               "@article-padding-top-tablet": "20px",
               "@article-padding-left": "20px",
-              "@article-padding-bottom": "20px",
+              "@article-padding-bottom": "0px",
               "@article-padding-right": "20px",
               "@article-padding-top": "20px"
             },
@@ -2758,7 +2758,7 @@
               "@article-margin-right": "0px",
               "@article-margin-top": "0px"
             },
-            "@article-inner-max-width": "none",
+            "@article-inner-max-width": "1024px",
             "@article-max-width": "none",
             "@article-box-shadow": "0px 1px 1px 0px rgba(0,0,0,0.2)",
             "_articleBorderRadius": {
@@ -2791,7 +2791,7 @@
           }
         }
       },
-      "title": "Article Style 8"
+      "title": "Standard Block Blue"
     },
     "article-style-7": {
       "_elements": {
@@ -4006,7 +4006,7 @@
               "@component-item-content-body-text-font-size-tablet": "16px",
               "@component-item-content-body-text-line-height": 1.25,
               "@component-item-content-body-text-font-weight": 400,
-              "@component-item-content-body-text-font-size": "18px",
+              "@component-item-content-body-text-font-size": "16px",
               "@component-item-content-body-text-align": "left",
               "@component-item-content-body-text-font-family": "@font-1",
               "@component-item-content-body-text-color": "@swatch-13",
@@ -4021,7 +4021,7 @@
               "@component-item-content-title-text-font-size-tablet": "16px",
               "@component-item-content-title-text-line-height": 1.25,
               "@component-item-content-title-text-font-weight": 400,
-              "@component-item-content-title-text-font-size": "18px",
+              "@component-item-content-title-text-font-size": "16px",
               "@component-item-content-title-text-align": "left",
               "@component-item-content-title-text-font-family": "@font-1",
               "@component-item-content-title-text-color": "@swatch-13"
@@ -4035,8 +4035,8 @@
               "@component-item-text-font-size-tablet": "15px",
               "@component-item-text-line-height": 1.25,
               "@component-item-text-font-weight": 400,
-              "@component-item-text-font-size": "18px",
-              "@component-item-text-align": "center",
+              "@component-item-text-font-size": "15px",
+              "@component-item-text-align": "left",
               "@component-item-text-font-family": "@font-1"
             },
             "_componentItemPadding": {
@@ -4072,7 +4072,7 @@
               "@component-item-border-visited-color": "@swatch-5",
               "@component-item-border-disabled-color": "@swatch-25",
               "@component-item-border-selected-color": "@swatch-5",
-              "@component-item-border-hover-color": "@swatch-5"
+              "@component-item-border-hover-color": "rgba(176,158,200,1)"
             },
             "_componentItemBorders": {
               "@component-item-border-left-color": "#454545",
@@ -4100,7 +4100,7 @@
               "@component-item-background-disabled-color": "@swatch-25",
               "@component-item-background-selected-color": "@swatch-6",
               "@component-item-background-hover-color": "@swatch-6",
-              "@component-item-background-color": "@swatch-5"
+              "@component-item-background-color": "rgba(176,158,200,1)"
             }
           }
         },
@@ -4651,7 +4651,7 @@
           }
         }
       },
-      "title": "Article Style 6"
+      "title": "Standard Block Purple"
     },
     "article-style-5": {
       "_elements": {
@@ -9920,7 +9920,7 @@
         "@component-item-background-disabled-color": "@swatch-25",
         "@component-item-background-selected-color": "@swatch-6",
         "@component-item-background-hover-color": "@swatch-6",
-        "@component-item-background-color": "@swatch-5"
+        "@component-item-background-color": "rgba(146,190,189,1)"
       }
     }
   },

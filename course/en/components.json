@@ -1270,34 +1270,34 @@
     "_parentId": "58c90b7713b751d90c4ed42d",
     "_items": [
       {
-        "_isImageLink": false,
-        "_linkTarget": "new window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": false,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
+        "_id": "58caa83713b751d90c4ed48b",
         "itemIndex": 0,
-        "_id": "58caa83713b751d90c4ed48b"
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
       },
       {
-        "_isImageLink": false,
-        "_linkTarget": "new window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": false,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
+        "itemIndex": 1,
         "_id": "58caa83813b751d90c4ed48c",
-        "itemIndex": 1
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_isImageLink": false
       }
     ],
     "_interactionLabel": {
@@ -1356,24 +1356,24 @@
     "_parentId": "58c90b7713b751d90c4ed42d",
     "_items": [
       {
-        "_isImageLink": true,
+        "_id": "58caad4b13b751d90c4ed48e",
+        "itemIndex": 0,
+        "_type": "course",
+        "link": "",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "link": "",
-        "_type": "course",
-        "itemIndex": 0,
-        "_id": "58caad4b13b751d90c4ed48e"
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -1432,24 +1432,24 @@
     "_parentId": "58c90b7713b751d90c4ed42d",
     "_items": [
       {
-        "_isImageLink": true,
+        "itemIndex": 0,
+        "_id": "58caadb313b751d90c4ed495",
+        "_type": "contentObjects",
+        "link": "58b7035a6faa37e7449515a7",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "link": "58b7035a6faa37e7449515a7",
-        "_type": "contentObjects",
-        "_id": "58caadb313b751d90c4ed495",
-        "itemIndex": 0
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -2901,24 +2901,24 @@
     "_parentId": "58cac6bb13b751d90c4ed4a4",
     "_items": [
       {
-        "_isImageLink": true,
+        "link": "",
+        "_type": "course",
+        "itemIndex": 0,
+        "_id": "58cac6eb13b751d90c4ed4a7",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "_id": "58cac6eb13b751d90c4ed4a7",
-        "itemIndex": 0,
-        "_type": "course",
-        "link": ""
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -2977,24 +2977,24 @@
     "_parentId": "58cac6bb13b751d90c4ed4a4",
     "_items": [
       {
-        "_isImageLink": true,
+        "link": "58b703116faa37e7449514af",
+        "_type": "contentObjects",
+        "_id": "58cac70513b751d90c4ed4a9",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "itemIndex": 0,
-        "_id": "58cac70513b751d90c4ed4a9",
-        "_type": "contentObjects",
-        "link": "58b703116faa37e7449514af"
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -3708,8 +3708,8 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
     "__v": 0,
-    "displayTitle": "<div><span style=\"font-size: 16px;\">Honing your business model skills</span><br></div>",
-    "body": "<p>Now you have the skills to create a business model canvas. Like any new skill, business modelling is a question of practice. Remember, there is <b>no limit to the number of business models you can create!</b> It's a good idea to complete a few trail canvases before turning your attention to your own idea.</p><p><br></p><p>Try building a canvas using a business you know well. Try to select a business of which you are a customer, that way you can understand that business even better.</p><p><br></p><p>You can do this using pens and post-it notes or try either Canvanizer &amp; BMG, which are free online tools.</p><p><br></p><p>If you’d like, you can submit your completed canvas below to go along with your course records.</p>",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><b>Honing your business model skills<br></b></p><p style=\"text-align: center;\"><br></p><p>Now you have the skills to create a business model canvas. Like any new skill, business modelling is a question of practice. Remember, there is <b>no limit to the number of business models you can create!</b> It's a good idea to complete a few trail canvases before turning your attention to your own idea.</p><p><br></p><p>Try building a canvas using a business you know well. Try to select a business of which you are a customer, that way you can understand that business even better.</p><p><br></p><p>You can do this using pens and post-it notes or try either Canvanizer &amp; BMG, which are free online tools.</p><p><br></p><p>If you’d like, you can submit your completed canvas below to go along with your course records.</p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -4571,24 +4571,24 @@
     "_parentId": "58cacd0213b751d90c4ed4af",
     "_items": [
       {
-        "_isImageLink": true,
+        "link": "",
+        "_type": "course",
+        "_id": "58cacd2013b751d90c4ed4b2",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "itemIndex": 0,
-        "_id": "58cacd2013b751d90c4ed4b2",
-        "_type": "course",
-        "link": ""
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -4647,24 +4647,24 @@
     "_parentId": "58cacd0213b751d90c4ed4af",
     "_items": [
       {
-        "_isImageLink": true,
+        "link": "58b703656faa37e7449515e5",
+        "_type": "contentObjects",
+        "_id": "58cacd4e13b751d90c4ed4b4",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "itemIndex": 0,
-        "_id": "58cacd4e13b751d90c4ed4b4",
-        "_type": "contentObjects",
-        "link": "58b703656faa37e7449515e5"
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -6252,24 +6252,24 @@
     "_parentId": "58cacfd313b751d90c4ed4ba",
     "_items": [
       {
-        "_isImageLink": true,
+        "link": "",
+        "_type": "course",
+        "_id": "58cacfee13b751d90c4ed4bd",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "itemIndex": 0,
-        "_id": "58cacfee13b751d90c4ed4bd",
-        "_type": "course",
-        "link": ""
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -6328,24 +6328,24 @@
     "_parentId": "58cacfd313b751d90c4ed4ba",
     "_items": [
       {
-        "_isImageLink": true,
+        "link": "58b703116faa37e7449514af",
+        "_type": "contentObjects",
+        "_id": "58cad00d13b751d90c4ed4bf",
+        "itemIndex": 0,
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "same window",
         "_graphic": {
           "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
         },
-        "_linkTarget": "same window",
-        "_shouldCloseWindow": false,
-        "_shouldCompleteComponentsInPage": false,
-        "_components": [],
-        "_shouldUnlockOnComponent": false,
-        "_isInternalLink": true,
-        "_isButton": false,
-        "_linkPosition": "top",
-        "_linkAlignment": "left",
-        "_isComplete": false,
-        "itemIndex": 0,
-        "_id": "58cad00d13b751d90c4ed4bf",
-        "_type": "contentObjects",
-        "link": "58b703116faa37e7449514af"
+        "_isImageLink": true
       }
     ],
     "_interactionLabel": {
@@ -6418,7 +6418,7 @@
       "_shouldHidePlayerControls": true,
       "ariaLabel": "This button will play the video",
       "poster": "course/en/assets/images/58c13e3b13b751d90c4ed40b/small/1525ad5459aace9df18b0d2afe3108e9.png",
-      "mp4": "course/en/assets/video/58b40ac66faa37e7449513f5/00ce0b89cd0c2d033c2ea537b90fada0.mp4"
+      "mp4": "course/en/assets/video/58d0fabe13b751d90c4ed52b/a0fa2299b8afaddd860d2a9aecb48ef5.mp4"
     },
     "_setCompletionOn": "inview",
     "_interactionLabel": {
@@ -6475,8 +6475,8 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7034f6faa37e744951579",
     "__v": 0,
-    "displayTitle": "Do I have what it takes for a digital business?",
-    "body": "<p>Nice to see you! First we need to tackle the big question: Do I have what it takes to start a business?&nbsp;</p><p><br></p><p>Let's start by getting one thing clear. Nobody can say for sure if your idea can become a successful business. If you want to find out, you have to try. </p><p><br></p><p>But there are ways to better predict your chances. Below you can out how to ask and answer the three big questions about any business idea: why this idea? why me? and why now?</p>",
+    "displayTitle": "Can I talk to my customers?",
+    "body": "<p>In the modules of this course so far, we have been all about you and your idea. But if your idea is to become a business, sooner or later you will need customers.&nbsp;</p><p><br></p><p>These customers have to like what you offer enough to use and often pay for it. This means we need to test our ideas out with them before we commit ourselves fully.<br></p>",
     "_interactionLabel": {
       "_location": "before body"
     },
@@ -6524,166 +6524,9 @@
       "_textAlign": "center",
       "_fontSize": "32"
     },
-    "title": "Do I have what it takes for a digital business?",
+    "title": "Can I talk to my customers?",
     "_type": "component",
     "_courseOrder": "4-1-0-0"
-  },
-  {
-    "_id": "58b7034f6faa37e744951585",
-    "_component": "accordion",
-    "_layout": "left",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b7034f6faa37e74495157a",
-    "__v": 0,
-    "displayTitle": "Giving your idea a reality check",
-    "body": "<p>As the venture capitalist Vinod Khosla said: 'Nobody will pay you for solving a non-problem.'</p><p><br></p><p>So can you decide if you idea is a problem worth solving? There are three main reality checks your idea needs to pass. Click on the boxes below to find out more.</p><p><br></p>",
-    "instruction": "",
-    "_items": [
-      {
-        "_mediaType": "image",
-        "_video": {
-          "_shouldAutoPlay": false
-        },
-        "_itemGraphicLayout": "right",
-        "body": "<p>Your idea needs to solve a clear need that people have. Your first reality check is to find out whether people actually face the problem you are aiming to solve.</p>",
-        "title": "Desirability",
-        "_id": "58b462166faa37e744951411",
-        "itemIndex": 0
-      },
-      {
-        "_mediaType": "image",
-        "_video": {
-          "_shouldAutoPlay": false
-        },
-        "_itemGraphicLayout": "right",
-        "itemIndex": 1,
-        "_id": "58b462176faa37e744951412",
-        "title": "Feasability",
-        "body": "<p>You need to have the confidence that you can deliver, or will be able to, on the solution you imagine. Your second reality check is to consider if you will be able to solve the problem people are facing.</p>"
-      },
-      {
-        "_mediaType": "image",
-        "_video": {
-          "_shouldAutoPlay": false
-        },
-        "_itemGraphicLayout": "right",
-        "body": "<p>You need to make sure the cost of solving people's problem is less than they are willing to pay. Your final reality check is to consider whether you can cover the costs of solving the problem from what you expect to be paid.</p>",
-        "title": "Viability",
-        "_id": "58b462186faa37e744951413",
-        "itemIndex": 2
-      }
-    ],
-    "_interactionLabel": {
-      "_location": "before widget"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": true
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Giving your idea a reality check",
-    "_type": "component",
-    "_courseOrder": "4-2-0-0"
-  },
-  {
-    "_id": "58b7034f6faa37e744951584",
-    "_component": "graphic",
-    "_layout": "right",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b7034f6faa37e74495157a",
-    "__v": 0,
-    "_graphic": {
-      "small": "course/en/assets/images/58b581c86faa37e74495144c/small/c95774c9370410a89b231042fded4312.png",
-      "_isExternalLink": false
-    },
-    "_graphicTextRightPadding": 0,
-    "_graphicTextLeftPadding": 0,
-    "_graphicTextBottomPadding": 0,
-    "_graphicTextTopPadding": 0,
-    "_contentWidth": 100,
-    "layout": "top",
-    "_shouldEnableGraphicText": false,
-    "_interactionLabel": {
-      "_location": "before widget"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": true
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": true
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Digital business",
-    "_type": "component",
-    "_courseOrder": "4-2-0-1"
   },
   {
     "_id": "58b7034f6faa37e744951586",
@@ -6692,9 +6535,9 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7034f6faa37e74495157b",
     "__v": 0,
-    "body": "<p>Even if your idea passes the reality check, it’s likely someone else had a similar thought. These are potential competitors. For any business to be successful, it needs to do something different to its competitors. That difference is why customers will choose you over them. To decide what to do differently, you will need a value proposition. A valuae proposition is your solution to your customer's problem. A good one will say how you solve the probelm and why your solution is the best available.</p><p><br></p><p><br></p>",
-    "displayTitle": "Making sure your idea is unique",
-    "instruction": "Click the video on the right to learn more...",
+    "body": "<p>Many entrepreneurs trip up when talking to customers. They fail to ask good questions so they don’t get good answers. What we need is a structure to help us get the most from these conversations.&nbsp;</p><p><br></p><p>A good way to structure your questions is by using Rob Fitzpatrick’s ‘Mom Test’. The test’s three principles will help you ask better questions: 1) Talk about their life instead of your idea 2) Ask about specifics in the past instead of opinions about the future and 3) Talk less and listen more.<br></p><p><br></p><p><br></p>",
+    "displayTitle": "Giving your conversations structure",
+    "instruction": "Click the video on the right to learn more about the 'Mom Test'...",
     "_interactionLabel": {
       "_location": "before body"
     },
@@ -6741,9 +6584,9 @@
     "_displayTitleSettings": {
       "_fontSize": ""
     },
-    "title": "Making sure your idea is unique",
+    "title": "Giving your conversations structure",
     "_type": "component",
-    "_courseOrder": "4-3-0-0"
+    "_courseOrder": "4-2-0-0"
   },
   {
     "_id": "58b7034f6faa37e744951587",
@@ -6767,8 +6610,8 @@
       "_shouldHidePlayerControls": true,
       "ariaLabel": "This button will play the video",
       "poster": "course/en/assets/images/58c13e3b13b751d90c4ed40b/small/1525ad5459aace9df18b0d2afe3108e9.png",
-      "mobileMp4": "course/en/assets/video/58b68fd36faa37e744951465/7b932c9326a0078b4404a1282b67f45b.mp4",
-      "mp4": "course/en/assets/video/58b68fd36faa37e744951465/7b932c9326a0078b4404a1282b67f45b.mp4"
+      "mobileMp4": "course/en/assets/video/58d0faff13b751d90c4ed52d/4c489e082ef98c79e075012e297ea521.mp4",
+      "mp4": "course/en/assets/video/58d0faff13b751d90c4ed52d/4c489e082ef98c79e075012e297ea521.mp4"
     },
     "_setCompletionOn": "inview",
     "_interactionLabel": {
@@ -6776,6 +6619,7 @@
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "displayTitle": "<div><br></div><br>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -6816,70 +6660,70 @@
     "_classes": "",
     "title": "Media Title",
     "_type": "component",
-    "_courseOrder": "4-3-0-1"
+    "_courseOrder": "4-2-0-1"
   },
   {
-    "_id": "58b7034f6faa37e744951588",
+    "_id": "58d0028713b751d90c4ed518",
     "_component": "narrative",
     "_layout": "full",
     "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b7034f6faa37e74495157c",
-    "__v": 0,
-    "displayTitle": "Assessing if this business is a good fit for you",
-    "body": "<p>You may have a great idea, but are you the person who should be making it into a business? After all being an entrepreneur isn’t for everyone. So how can you decide if this idea is a good match for you?</p><p><br></p><p>There are some key traits many startup founders share. Scroll through them below and think about how many <i>you </i>have.</p>",
+    "_parentId": "58b7034f6faa37e74495157a",
     "_items": [
       {
         "_graphic": {
-          "src": "course/en/assets/images/58b550dc6faa37e744951426/large/3e5445be721841114a8abbff5ec328d9.png"
+          "src": "course/en/assets/images/58d105b013b751d90c4ed530/large/4f289e64058880866f41d5cefdb6dbee.png"
         },
-        "title": "Seeking opportunity",
-        "_id": "58b5455e6faa37e744951420",
+        "title": "",
+        "_id": "58d002a213b751d90c4ed519",
         "itemIndex": 0,
-        "body": "<p style=\"text-align: center;\">Entrepreneurs&nbsp;see problems as opportunities. They also&nbsp;don't like leaving these opportunities for someone else to pursue.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Do you look at problems in your life and instantly think about how to solve them?</p>"
+        "body": "<p><b>Hi, my name is...</b><br></p><p><br></p><p>A few brief introductory and biographical questions to put the customer at ease</p><p><br></p><p><b>Example: </b><i>Can you tell me a little bit about your business?</i></p>"
       },
       {
         "_graphic": {
-          "src": "course/en/assets/images/58b551a46faa37e744951428/large/d594379af3080d6db70429a4340e6ca6.png"
+          "src": "course/en/assets/images/58d105cc13b751d90c4ed532/large/9707de4591e9b7d5c43413a923747f97.png"
         },
+        "body": "<p><b>What's the problem?</b><br></p><p><br></p><p>Two or three questions about when the person might have faced the problem your idea solves. Ask about occasions when they face that problem and how that problem affects them.</p><p><br></p><p><b>Example: </b><i>'Tell me about the last time you ... and when this occurs, how much additional time or money does it cost you?’</i></p>",
         "itemIndex": 1,
-        "_id": "58b5455f6faa37e744951421",
-        "title": "Taking risks before security",
-        "body": "<p style=\"text-align: center;\">Entrepreneurs take a risk on a future business rather than looking for a safe job today.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Are you a 'poker player' who is willing to take measured risks to secure future returns?</p>"
+        "_id": "58d002a213b751d90c4ed51a",
+        "title": ""
       },
       {
         "_graphic": {
-          "src": "course/en/assets/images/58b551cf6faa37e74495142a/large/7776d306fc7954ba82f5742d6c21bb65.png"
+          "src": "course/en/assets/images/58d105e013b751d90c4ed534/large/6edc1e272b0163ec67922924b6d26348.png"
         },
-        "body": "<p style=\"text-align: center;\">Entrepreneurs fail often but never let that failure deter them.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Do you have the desire to experiment, fail and keep going?</p>",
-        "_id": "58b545606faa37e744951422",
-        "itemIndex": 2,
-        "title": "Tolerating Failure"
+        "body": "<p><b>Tell me more...</b><br></p><p><br></p><p>These are ‘dig deeper’ questions to keep your interviewee talking about the problem</p><p><br></p><p><b> Example:</b> <i>When this occurs, how much additional time or money does it cost your company?</i></p>",
+        "title": "",
+        "_id": "58d002a313b751d90c4ed51b",
+        "itemIndex": 2
       },
       {
         "_graphic": {
-          "src": "course/en/assets/images/58b5525d6faa37e74495142c/large/fc983ab0e579eda3f8b148bef469af1e.png"
+          "src": "course/en/assets/images/58d105ec13b751d90c4ed536/large/dc9a8bf7ee7731f10864f13ee3e64e2a.png"
         },
-        "title": "Creatively leveraging resources",
+        "body": "<p><b>Can I call you?</b><br></p><p><br></p><p>These bring the interview to a close and let the person know how they can stay involved with your work.</p><p><br></p><p><b>Example:</b> <i>Would you be willing to help us by participating in some user research?</i></p>",
         "itemIndex": 3,
-        "_id": "58b545606faa37e744951423",
-        "body": "<p style=\"text-align: center;\">Entrepreneurs often have to do without the right talent and improvise solutions with what they have.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">Do you have the ability to get what you need from your friends and network?</p>"
+        "_id": "58d002a413b751d90c4ed51c",
+        "title": ""
       },
       {
         "_graphic": {
-          "src": "course/en/assets/images/58b555116faa37e744951430/large/737698cef4aa33bff3bf1f2af79ab826.png"
+          "src": "course/en/assets/images/58d1081213b751d90c4ed538/large/f7181ff722a0ec92c021b0df5819f987.png"
         },
-        "title": "Tenacity to overcome obstacles and push an idea to implementation",
-        "_id": "58b545636faa37e744951424",
+        "body": "<p><b>Treasured memories</b><br></p><p><br></p><p>Not a part of the interview but something to do straight away. Write down your results as soon as possible. You don’t want to forget important things by waiting until later!</p>",
+        "_id": "58d002a413b751d90c4ed51d",
         "itemIndex": 4,
-        "body": "<p>Entrepreneurs regularly have to deal with doubt and uncertainty over their future.</p><p><br></p><p>Do you have the passion and persistence to learn from the inevitable set-backs and drive ideas into action?</p>"
+        "title": ""
       }
     ],
-    "_narrativeLayout": "Full",
+    "_narrativeLayout": "Left",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "__v": 0,
+    "body": "<p>Using the Mom Test as a guide, we now need to build a script for our interviews. This script will have all the main questions you plan to ask. It really useful for keeping to time as well.</p><p><br></p><p>While there are lots of ways you can create a script, we recommend using the following structure from Ash Maurya’s book Running Lean.</p>",
+    "displayTitle": "Asking the right questions",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -6909,7 +6753,7 @@
       "_badgeIds": []
     },
     "_points": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_stars": {
       "_isEnabled": false
@@ -6918,44 +6762,95 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Assessing if this business is a good fit for you",
+    "title": "Asking the right questions",
+    "_type": "component",
+    "_courseOrder": "4-3-0-0"
+  },
+  {
+    "_id": "58d0ef1813b751d90c4ed520",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58d0eef513b751d90c4ed51f",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "Who should I be talking to?",
+    "body": "<p>Even with a great script, you still need to talk to the right type of people. In the universe of possible customers for your product or service, some customer contacts are much more useful than others. This handy ranking from Steve Blank tells you what to look for from least valuable to most:</p><p><br></p><p><ol><li>Those who have the problem - but are not aware of the fact, it doesn't trouble them in getting their jobs done.<br></li><li>Those who are aware of the problem, but view it as a low level nuisance or irritation that is not worth expending energy to resolve.<br></li><li>Those who have been actively seeking a solution.<br></li><li>Those who have taken some action to patch together at least some parts of a solution.<br></li><li>Those who in addition have or can acquire a budget.<br></li></ol></p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Who should I be talking to?",
     "_type": "component",
     "_courseOrder": "4-4-0-0"
   },
   {
-    "_id": "58b7034f6faa37e744951589",
-    "_component": "textAndGraphic",
-    "_layout": "full",
+    "_id": "58d0ef2013b751d90c4ed521",
+    "_component": "graphic",
+    "_layout": "right",
     "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b7034f6faa37e74495157d",
-    "__v": 0,
-    "displayTitle": "Getting the timings right",
-    "_items": [
-      {
-        "_itemGraphicLayout": "left",
-        "_isColumnItemGraphicAtBottom": false,
-        "_graphic": {
-          "large": "course/en/assets/images/58b6d4296faa37e74495148c/large/c8197f1d715a4da6e342ab8f86982cca.png",
-          "small": "course/en/assets/images/58b6d4296faa37e74495148c/small/c8197f1d715a4da6e342ab8f86982cca.png"
-        },
-        "body": "<p><br></p><p><br></p><p>Victor Hugo said ‘Nothing is as powerful as an idea whose time has come’. So how can you figure out if this is the right time for your business?</p><p><br></p><p>Successful businesses can spot can spot when a change creates new opportunities. Nokia was originally a paper mill, Sony sold radios and Mitel was a maker of lawnmowers. All of them saw a change and identified an opportunity to succeed.</p><p><br></p><p>For your idea to be successful, you will need to think carefully about this. What has changed in the world that will influence people to buy from you? It might be that you offer a brand new technology, solve a new problem or make something more affordable and practical. </p><p><br></p><p>Whatever the change, you need to be clear on how the world today will contribute to making your business a success. Having a clear answer to this question will boost your odds of success.</p>",
-        "itemIndex": 0,
-        "_id": "58b6d3236faa37e74495148b"
-      }
-    ],
-    "_numberOfColumns": 3,
-    "_isColumnLayout": false,
+    "_parentId": "58d0eef513b751d90c4ed51f",
+    "_graphic": {
+      "small": "course/en/assets/images/58d108f413b751d90c4ed53a/small/34f1968bfc1f506f925c3d223a78eab1.png",
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
+    "__v": 0,
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
     },
     "_stamps": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_reflection": {
       "_isEnabled": false
@@ -6988,13 +6883,241 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "_displayTitleSettings": {
-      "_textAlign": "center",
-      "_fontSize": ""
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "4-4-0-1"
+  },
+  {
+    "_id": "58cfce5b13b751d90c4ed508",
+    "_component": "hotgraphic",
+    "_layout": "full",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b7034f6faa37e74495157c",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 12.317210348706412,
+        "_top": 20.46728971962617,
+        "body": "<p><b>Friends &amp; family </b></p><p><br></p><p>Even if your close family and friends can't help, you’ll often find someone in their networks who fits your target customer profile. Use referrals from people you know to reach those you want to speak to.</p>",
+        "_id": "58cfe6fb13b751d90c4ed514",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 18.841394825646802,
+        "_top": 70.56074766355141,
+        "itemIndex": 1,
+        "_id": "58cfe17a13b751d90c4ed50f",
+        "body": "<p><b>Social networking </b></p><p><br></p><p>Networks like Facebook and twitter can help you reach people fast. However, if you drown people in requests, they will quickly start ignoring you. Reach out specifically to people for a better result.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 30.989876265466815,
+        "_top": 33.55140186915888,
+        "_id": "58cfe17b13b751d90c4ed510",
+        "itemIndex": 2,
+        "body": "<p><b>Communities </b></p><p>Places like meetup.com are great sources for finding groups of target customers. Beware these communities can be close knit and not always receptive to others straight away. You will need to build up trust before you reach out with an idea.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 57.64904386951631,
+        "_top": 26.635514018691588,
+        "itemIndex": 3,
+        "_id": "58cfe17c13b751d90c4ed511",
+        "body": "<p><b>Professional networks&nbsp;</b></p><p><br></p><p>Online professional tools like Linkedin can be a quick way to find people who fit the bill. You can look for individuals in specific roles or organisations and plot a route to reach them using shared connections.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 85.43307086614173,
+        "_top": 25.70093457943925,
+        "_id": "58cfe17d13b751d90c4ed512",
+        "itemIndex": 4,
+        "body": "<p><b>Publishing content </b></p><p><br></p><p>What about creating a blog to get interested parties to come to you? This provides an opportunity to establish you as a voice and someone people will tune in to. However, be careful to keep your content fresh otherwise users won’t show up.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 81.72103487064118,
+        "_top": 74.29906542056075,
+        "itemIndex": 5,
+        "_id": "58cfe80b13b751d90c4ed515",
+        "body": "<p><b style=\"font-size: 16px;\">Online research</b><br></p><p><br></p><p>Q&amp;A sites like Quora can help you tap into a community to find potential customers. If you can provide high quality insights related to your business area then you can build up a following.</p>"
+      }
+    ],
+    "_popupCloseButton": "Close",
+    "_interactionLabel": {
+      "_location": "before widget"
     },
-    "title": "Getting the timings right",
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_graphic": {
+      "src": "course/en/assets/images/58cfe98813b751d90c4ed516/large/9b861e82e1c2a8a645ebbb363bfe3862.png"
+    },
+    "displayTitle": "Finding your customers",
+    "body": "<p>Even if you know how to get the most from your customer conversations, how do you know where they are? Finding customers usually requires you to search through several sources. Explore the graphic below to learn more about each source.</p>",
+    "instruction": "Click on each '+' button to discover more",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Finding your customers",
     "_type": "component",
     "_courseOrder": "4-5-0-0"
+  },
+  {
+    "_id": "58d0ef6613b751d90c4ed523",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b7034f6faa37e74495157d",
+    "_graphic": {
+      "small": "course/en/assets/images/58d1131813b751d90c4ed53c/small/2e13728bb105f67adf87a8b8094b2230.png",
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "4-6-0-0"
+  },
+  {
+    "_id": "58d0ef5d13b751d90c4ed522",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b7034f6faa37e74495157d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "Acting on your feedback",
+    "body": "<p>Once you have feedback from your customers, you need to decide what to do with it. What do we do when customer are telling you something that contradicts your thinking?&nbsp;When customer feedback doesn’t line up with your idea, you have three options:</p><p><br></p><ul><li><b>Keep going</b> - If you keep going, you run the risk that your customers won’t value what you offer so in most cases, you should avoid this option.<br></li><li><b>Back to the drawing board</b> - You may decide that this idea just doesn’t work for people. That’s okay. Better to discard it now than invest in something people don’t value.<br></li><li><b>Pivot</b> - You may decide that what customers are telling you gives you a different way to solve their problem. If you decide to pursue that new version of the idea, it is called ‘pivoting’.</li></ul>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Acting on your feedback",
+    "_type": "component",
+    "_courseOrder": "4-6-0-1"
   },
   {
     "_id": "58b7034f6faa37e74495158a",
@@ -7003,56 +7126,38 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7034f6faa37e74495157e",
     "__v": 0,
-    "displayTitle": "Taking a reality check<br>",
-    "body": "<p>Can you find all the criteria that you would use to give your new business idea a reality check?</p>",
+    "displayTitle": "Passing the 'Mom Test'<br>",
+    "body": "<p>Rob Fitzpatrick's 'Mom Test' is a good way to make sure your customer conversations stay on track. The test has three principles. But what are they?</p>",
     "instruction": "Select all the options that match then hit submit!",
     "_feedback": {
-      "correct": "<p><b>That’s Right!</b></p><p><b><br></b></p><p>Desirability (does anyone need it?), Feasibility (can we do it?) and Viability (do we have the resources to make it work?) are the essential reality checks for any new idea.&nbsp;</p>",
+      "_shouldUseGlobalCorrectFeedback": true,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": true,
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>The three principles of the 'Mom Test' are to talk about their life instead of your idea, ask about past specifics instead of future opinions &amp; talk less and listen more</p>"
+      },
       "_partlyCorrect": {
         "_shouldUseGlobalPartlyCorrectFeedback": false
       },
-      "_incorrect": {
-        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>Desirability (does anyone need it?), Feasibility (can we do it?) and Viability (do we have the resources to make it work?) are the essential reality checks for any new idea.&nbsp;</p>",
-        "_shouldUseGlobalIncorrectFeedback": true
-      },
-      "_shouldUseGlobalCorrectFeedback": true
+      "correct": "<p><b>That’s Right!</b></p><p><b><br></b></p><p>The three principles of the 'Mom Test' are to talk about their life instead of your idea, ask about past specifics instead of future opinions &amp; talk less and listen more</p>"
     },
     "_items": [
       {
         "_shouldBeSelected": true,
-        "itemIndex": 0,
+        "text": "Talk about their life instead of your idea, ask about past specifics instead of future opinions &amp; talk less and listen more",
         "_id": "58b5828a6faa37e74495144f",
-        "text": "Desirability"
+        "itemIndex": 0
       },
       {
-        "_shouldBeSelected": true,
-        "itemIndex": 1,
+        "_shouldBeSelected": false,
+        "text": "Keep the conversation going at all costs, don't be afraid to tell lies &amp; always promote yourself",
         "_id": "58b582926faa37e744951450",
-        "text": "Feasability"
+        "itemIndex": 1
       },
       {
-        "_shouldBeSelected": true,
-        "itemIndex": 2,
+        "_shouldBeSelected": false,
+        "text": "Try to look bored with their answers, don't give away your secrets &amp; attempt to talk them out of buying",
         "_id": "58b582986faa37e744951451",
-        "text": "Viability"
-      },
-      {
-        "_shouldBeSelected": false,
-        "itemIndex": 3,
-        "_id": "58b5829e6faa37e744951452",
-        "text": "Likability"
-      },
-      {
-        "_shouldBeSelected": false,
-        "itemIndex": 4,
-        "_id": "58b582a46faa37e744951453",
-        "text": "Copyability"
-      },
-      {
-        "_shouldBeSelected": false,
-        "text": "Lackofability",
-        "_id": "58b582aa6faa37e744951454",
-        "itemIndex": 5
+        "itemIndex": 2
       }
     ],
     "_shouldUseQuestionGraphic": false,
@@ -7108,9 +7213,9 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Taking a reality check",
+    "title": "Passing the 'Mom Test'",
     "_type": "component",
-    "_courseOrder": "4-6-0-0"
+    "_courseOrder": "4-7-0-0"
   },
   {
     "_id": "58b7034f6faa37e74495158b",
@@ -7120,8 +7225,8 @@
     "_parentId": "58b7034f6faa37e74495157e",
     "__v": 0,
     "_graphic": {
-      "small": "course/en/assets/images/58b581c86faa37e74495144c/small/c95774c9370410a89b231042fded4312.png",
-      "_isExternalLink": false
+      "_isExternalLink": false,
+      "small": "course/en/assets/images/58d1140413b751d90c4ed53e/small/f6ddfecb3838aadf60a5cf86dbff794c.png"
     },
     "_graphicTextRightPadding": 0,
     "_graphicTextLeftPadding": 0,
@@ -7175,7 +7280,7 @@
     "_classes": "",
     "title": "Search",
     "_type": "component",
-    "_courseOrder": "4-6-0-1"
+    "_courseOrder": "4-7-0-1"
   },
   {
     "_id": "58b7034f6faa37e74495158d",
@@ -7185,8 +7290,8 @@
     "_parentId": "58b7034f6faa37e74495157f",
     "__v": 0,
     "_graphic": {
-      "small": "course/en/assets/images/58b584e36faa37e744951457/small/96f576371e806de8767c1baa984bcb07.png",
-      "_isExternalLink": false
+      "_isExternalLink": false,
+      "small": "course/en/assets/images/58d1149113b751d90c4ed540/small/fb2e1f240efe2d0f664472b4b856218b.png"
     },
     "_graphicTextRightPadding": 0,
     "_graphicTextLeftPadding": 0,
@@ -7240,7 +7345,7 @@
     "_classes": "",
     "title": "Scale",
     "_type": "component",
-    "_courseOrder": "4-7-0-0"
+    "_courseOrder": "4-8-0-0"
   },
   {
     "_id": "58b7034f6faa37e74495158c",
@@ -7249,43 +7354,77 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7034f6faa37e74495157f",
     "__v": 0,
-    "displayTitle": "Nailing that value proposition",
-    "body": "<p>Earlier we learned how a value proposition helps you nail down your idea. But how would you define the idea if someone asked you?</p><p><br></p><p><br></p>",
+    "displayTitle": "Finding your customers",
+    "body": "<p>We know that there are many ways of reaching your customers, but can you name some of the main ones?</p><p><br></p><p><br></p>",
     "instruction": "Fill in the blanks in the sentence below then hit submit",
     "_feedback": {
-      "correct": "<p><b>That’s right!</b></p><p><b><br></b></p><p>A value proposition is your solution to a customer’s problem.</p>",
-      "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
-      },
+      "_shouldUseGlobalCorrectFeedback": true,
       "_incorrect": {
-        "final": "<p><b>Are you sure about that?</b></p><p><b><br></b></p><p>A value proposition is your solution to a customer’s problem. There are lots of other ways of putting this but thinking about a solution and a problem is an easy way to remember!</p>",
-        "_shouldUseGlobalIncorrectFeedback": true
+        "_shouldUseGlobalIncorrectFeedback": true,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Maybe it is worth taking another look at those sources of customers to refresh your memory!</p>",
+        "final": "<p><b>Are you sure about that?</b></p><p><b><br></b></p><p>Maybe it is worth taking another look at those sources of customers to refresh your memory!</p>"
       },
-      "_shouldUseGlobalCorrectFeedback": true
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p><b>Almost there!</b></p><p><br></p><p>Maybe it is worth taking another look at those sources of customers to refresh your memory!</p>"
+      },
+      "correct": "<p><b>That’s right!</b></p><p><b><br></b></p><p>Those are some great sources of new customer connections.</p>"
     },
     "_items": [
       {
         "_answers": [
-          "solution",
-          "Solution"
+          "Friends",
+          "friends",
+          "Family",
+          "family",
+          "Friends and family",
+          "friends and family",
+          "Friends & family",
+          "friends & family",
+          "Family and friends",
+          "Family & friends",
+          "family & friends",
+          "Family & friends"
         ],
         "_id": "58b5857a6faa37e744951459",
         "itemIndex": 0,
-        "prefix": "A value proposition is your"
+        "prefix": "Sometimes, you can find customers close to home using your",
+        "suffix": ""
       },
       {
         "_answers": [
-          "problem",
-          "Problem"
+          "Linkedin",
+          "linkedin"
         ],
         "itemIndex": 1,
         "_id": "58b5857f6faa37e74495145a",
-        "prefix": "to a customer's"
+        "prefix": "Another good source is professional social networks like"
+      },
+      {
+        "_answers": [
+          "publish content",
+          "Publish Content",
+          "Publish content",
+          "create content",
+          "Create content",
+          "Write something",
+          "Write",
+          "write something",
+          "produce content",
+          "Produce content",
+          "publish",
+          "write",
+          "reach out",
+          "contact others"
+        ],
+        "prefix": "One more angle is to use a blog to",
+        "_id": "58d0f43f13b751d90c4ed524",
+        "itemIndex": 2
       }
     ],
     "_shouldShowDisplayTitleInFeedback": true,
     "_shouldBeMarkedStrictly": false,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_attempts": 1,
     "_interactionLabel": {
       "_location": "before widget"
@@ -7330,122 +7469,72 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Nailing that value proposition",
+    "title": "Finding your customers",
     "_type": "component",
-    "_courseOrder": "4-7-0-1"
+    "_courseOrder": "4-8-0-1"
   },
   {
-    "_id": "58b7034f6faa37e74495158e",
-    "_component": "dragAndDrop",
-    "_layout": "full",
+    "_id": "58d0f76713b751d90c4ed525",
+    "_component": "mcq",
+    "_layout": "left",
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7034f6faa37e744951580",
-    "__v": 0,
-    "displayTitle": "Taking a look in the mirror",
-    "body": "<p>While every entrepreneur is different, many share a particular set of traits. Can you match up the names of the trait to their descriptions?</p>",
-    "instruction": "Drag the titles onto the images then hit select",
     "_feedback": {
-      "correct": "<p><b>That's right!</b></p><p><br></p><p>You know those skills like the back of your hand!</p>",
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?</b></p><p><b><br></b></p><p>When you decide that what customers are telling you gives you a different way to solve their problem and pursue that new version of the idea, it is called ‘pivoting’.<b><br></b></p>"
+      },
       "_partlyCorrect": {
-        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Those qualities don't seem to match up with their descriptions. Have another go!</p>",
         "_shouldUseGlobalPartlyCorrectFeedback": false
       },
-      "_incorrect": {
-        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Those qualities don't seem to match up with their descriptions. Have another go!</p>",
-        "final": "<p><span style=\"font-size: 16px;\"><b>Are you sure about that?</b></span><br></p><p><span style=\"font-size: 16px;\"><br></span></p><p>Those qualities don't seem to match up with their descriptions. Hit 'show answer' to check out our definitions.</p>",
-        "_shouldUseGlobalIncorrectFeedback": true
-      },
-      "_shouldUseGlobalCorrectFeedback": true
+      "correct": "<p><b>That's Right!</b></p><p><b><br></b></p><p>When you decide that what customers are telling you gives you a different way to solve their problem and pursue that new version of the idea, it is called ‘pivoting’.<b><br></b></p>"
     },
-    "_shouldShowDisplayTitleInFeedback": true,
-    "_dropZonelayout": "drop-zones-right",
     "_items": [
       {
-        "_correctDropZones": [
-          "58b560736faa37e744951434"
-        ],
+        "_shouldBeSelected": false,
         "itemIndex": 0,
-        "_id": "58b560cd6faa37e74495143e",
-        "text": "Seeking opportunity"
+        "_id": "58d0f7c313b751d90c4ed527",
+        "text": "Twist"
       },
       {
-        "_correctDropZones": [
-          "58b560a26faa37e744951438"
-        ],
-        "text": "Taking risks beyond security",
-        "_id": "58b560f96faa37e74495143f",
+        "_shouldBeSelected": false,
+        "text": "Veer",
+        "_id": "58d0f7d013b751d90c4ed528",
         "itemIndex": 1
       },
       {
-        "_correctDropZones": [
-          "58b560bd6faa37e74495143c"
-        ],
-        "text": "Tolerating failure",
-        "_id": "58b561166faa37e744951440",
+        "_shouldBeSelected": false,
+        "text": "Dodge",
+        "_id": "58d0f7d513b751d90c4ed529",
         "itemIndex": 2
       },
       {
-        "_correctDropZones": [
-          "58b560ac6faa37e74495143a"
-        ],
-        "text": "Creatively leveraging resources",
-        "_id": "58b561686faa37e744951441",
+        "_shouldBeSelected": true,
+        "text": "Pivot",
+        "_id": "58d0f7e113b751d90c4ed52a",
         "itemIndex": 3
       }
     ],
-    "_dropZones": [
-      {
-        "_graphic": {
-          "src": "course/en/assets/images/58b6f8516faa37e744951498/small/126249dbb5f9e3bc8a8d71cde26b2390.png"
-        },
-        "_shouldUseCoverBackgroundSize": true,
-        "itemIndex": 0,
-        "_id": "58b560736faa37e744951434",
-        "text": "You look at problems and see the solutions"
-      },
-      {
-        "_graphic": {
-          "src": "course/en/assets/images/58b6f8066faa37e744951496/small/68898842fd871b91f3d794fad6d2aa4c.png"
-        },
-        "_shouldUseCoverBackgroundSize": false,
-        "itemIndex": 1,
-        "_id": "58b560a26faa37e744951438",
-        "text": "You are willing to take a risk for a future return"
-      },
-      {
-        "_graphic": {
-          "src": "course/en/assets/images/58b5525d6faa37e74495142c/small/fc983ab0e579eda3f8b148bef469af1e.png"
-        },
-        "_shouldUseCoverBackgroundSize": false,
-        "text": "You can improvise solutions where none exist",
-        "itemIndex": 2,
-        "_id": "58b560ac6faa37e74495143a"
-      },
-      {
-        "_graphic": {
-          "src": "course/en/assets/images/58b551cf6faa37e74495142a/small/7776d306fc7954ba82f5742d6c21bb65.png"
-        },
-        "_shouldUseCoverBackgroundSize": false,
-        "text": "You move on fast from your mistakes",
-        "itemIndex": 3,
-        "_id": "58b560bd6faa37e74495143c"
-      }
-    ],
-    "_shouldZonesRejectIncorrect": false,
+    "_shouldUseQuestionGraphic": false,
     "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
     "_shouldDisplayAttempts": false,
     "_attempts": 1,
+    "_useQuestionBank": false,
     "_interactionLabel": {
-      "_complete": {
-        "icon": "checkmark-circle"
-      },
-      "_incomplete": {
-        "icon": "question-circle"
-      },
-      "_location": "before title"
+      "_location": "before widget"
     },
-    "_isInteractionLabelEnabled": true,
+    "_isInteractionLabelEnabled": false,
     "_isQuestionType": true,
+    "__v": 0,
+    "displayTitle": "Making feedback count",
+    "body": "<p>There are three ways you can respond to negative feedback. You could carry on, go back to the drawing board or change course. But what is that change of course called in startup speak?</p>",
+    "instruction": "Select your answer then click 'Submit'",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -7484,9 +7573,74 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Taking a look in the mirror",
+    "title": "Making feedback count",
     "_type": "component",
-    "_courseOrder": "4-8-0-0"
+    "_courseOrder": "4-9-0-0"
+  },
+  {
+    "_id": "58d0f76d13b751d90c4ed526",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58b7034f6faa37e744951580",
+    "_graphic": {
+      "small": "course/en/assets/images/58d1131813b751d90c4ed53c/small/2e13728bb105f67adf87a8b8094b2230.png",
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "4-9-0-1"
   },
   {
     "_id": "58b7034f6faa37e744951591",
@@ -7551,7 +7705,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "4-9-0-0"
+    "_courseOrder": "4-10-0-0"
   },
   {
     "_id": "58b7034f6faa37e744951590",
@@ -7560,8 +7714,8 @@
     "_courseId": "58b01c1050d3bf600d233b89",
     "_parentId": "58b7034f6faa37e744951582",
     "__v": 0,
-    "body": "<p>Well done! you've finished your first module.</p><p>Everything we've learnt above is important when considering if your idea has what it takes to become a business. We recommend taking some time to consider why this idea? why me? why now? and what next? They will give you the foundation on which your business is built.</p><p><br></p><p>So what happens once you have answers you need? The next thing you need is to structure your answers into something you can use. In the next module we will give you the skills to turn your idea into a business model you can share with others.</p>",
-    "displayTitle": "You have what it takes!",
+    "body": "<p>Awesome job! Now you have the tools to go out and hold great customer conversations. By applying the 'Mom Test' and scripting your questions in advance, you can make sure you get the most from every chat.</p><p><br></p><p>So now you have your customer feedback there is one more thing to consider: can this idea become a product? In our final module we will work through how to assess the idea's potential.</p>",
+    "displayTitle": "<div><br></div><br>You can talk to customers!",
     "_interactionLabel": {
       "_location": "before body"
     },
@@ -7605,9 +7759,161 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "You have what it takes!",
+    "title": "You can talk to customers!",
     "_type": "component",
-    "_courseOrder": "4-9-0-1"
+    "_courseOrder": "4-10-0-1"
+  },
+  {
+    "_id": "58cfa38313b751d90c4ed4f9",
+    "_component": "links",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cfa36e13b751d90c4ed4f8",
+    "_items": [
+      {
+        "link": "",
+        "_type": "course",
+        "itemIndex": 0,
+        "_id": "58cfa39413b751d90c4ed4fb",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_graphic": {
+          "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
+        },
+        "_isImageLink": true
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "4-11-0-0"
+  },
+  {
+    "_id": "58cfa38d13b751d90c4ed4fa",
+    "_component": "links",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cfa36e13b751d90c4ed4f8",
+    "_items": [
+      {
+        "link": "58b703456faa37e74495152b",
+        "_type": "contentObjects",
+        "itemIndex": 0,
+        "_id": "58cfa3af13b751d90c4ed4fd",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_graphic": {
+          "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
+        },
+        "_isImageLink": true
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "4-11-0-1"
   },
   {
     "_id": "58b703466faa37e744951551",
@@ -8821,5 +9127,155 @@
     "title": "You have what it takes!",
     "_type": "component",
     "_courseOrder": "5-9-0-1"
+  },
+  {
+    "_id": "58cfa43513b751d90c4ed502",
+    "_component": "links",
+    "_layout": "left",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cfa3e613b751d90c4ed501",
+    "_items": [
+      {
+        "link": "",
+        "_type": "course",
+        "itemIndex": 0,
+        "_id": "58cfa44813b751d90c4ed504",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": true,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_graphic": {
+          "src": "course/en/assets/images/58caafc613b751d90c4ed498/small/5eb8022f4e0ab959de4aed6ea3246bfc.png"
+        },
+        "_isImageLink": true
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "5-10-0-0"
+  },
+  {
+    "_id": "58cfa43c13b751d90c4ed503",
+    "_component": "links",
+    "_layout": "right",
+    "_courseId": "58b01c1050d3bf600d233b89",
+    "_parentId": "58cfa3e613b751d90c4ed501",
+    "_items": [
+      {
+        "itemIndex": 0,
+        "_id": "58cfa91613b751d90c4ed506",
+        "_isComplete": false,
+        "_linkAlignment": "left",
+        "_linkPosition": "top",
+        "_isButton": false,
+        "_isInternalLink": false,
+        "_shouldUnlockOnComponent": false,
+        "_components": [],
+        "_shouldCompleteComponentsInPage": false,
+        "_shouldCloseWindow": false,
+        "_linkTarget": "new window",
+        "_graphic": {
+          "src": "course/en/assets/images/58cab04b13b751d90c4ed49a/small/6d43473f17d71c7524de5e7f2140c1c5.png"
+        },
+        "_isImageLink": true
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Link Title",
+    "_type": "component",
+    "_courseOrder": "5-10-0-1"
   }
 ]
