@@ -3,26 +3,24 @@
   "_courseId": "58b01c1050d3bf600d233b89",
   "__v": 0,
   "_tracker": {
-    "_isEnabled": true,
-    "_auth": "/api/isAuthenticated",
-    "_login": "/api/login",
-    "_getData": "/api/usersCourse",
-    "_pushData": "/api/usersCourse"
+    "_pushData": "../../api/usersCourse",
+    "_getData": "../../api/usersCourse",
+    "_login": "../../api/login",
+    "_auth": "../../api/isAuthenticated",
+    "_isEnabled": false
   },
   "_scorm": {
-    "_isEnabled": true,
-    "_scormVersion": "1.2",
-    "_shouldUsePopup": false,
-    "_shouldUseScrollFix": false,
-    "_tracking": {
-      "_requireCourseCompleted": false,
-      "_requireAssessmentPassed": false,
-      "_shouldSubmitScore": false
-    },
     "_reporting": {
-      "_onTrackingCriteriaMet": "completed",
-      "_onAssessmentFailure": "incomplete"
-    }
+      "_onAssessmentFailure": "incomplete",
+      "_onTrackingCriteriaMet": "completed"
+    },
+    "_tracking": {
+      "_shouldSubmitScore": false,
+      "_requireAssessmentPassed": false,
+      "_requireCourseCompleted": true
+    },
+    "_shouldUsePopup": false,
+    "_isEnabled": false
   },
   "_evolveVersion": 3,
   "_defaultLanguage": "en"

@@ -340,14 +340,14 @@
       "_shouldUseScrollFix": false,
       "_shouldUsePopup": false,
       "_scormVersion": "1.2",
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_tracker": {
       "_pushData": "/api/usersCourse",
       "_getData": "/api/usersCourse",
       "_login": "/api/login",
       "_auth": "/api/isAuthenticated",
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   "_assets": [
@@ -2464,8 +2464,6 @@
     "progress",
     "courseNavigation",
     "certificate",
-    "bookmarking",
-    "scorm",
-    "tracker"
+    "bookmarking"
   ]
 }
