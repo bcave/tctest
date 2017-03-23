@@ -4228,6 +4228,7 @@
     "_parentId": "58b703456faa37e74495152b",
     "_courseId": "58b01c1050d3bf600d233b89",
     "__v": 0,
+    "displayTitle": "",
     "_progress": {
       "_isEnabled": true
     },
@@ -4287,7 +4288,7 @@
       "_size": "initial"
     },
     "_classes": "article-style-6",
-    "title": "New Article Title",
+    "title": "Intro video",
     "_type": "article",
     "_courseOrder": "5-0"
   },
@@ -4362,7 +4363,7 @@
     "_courseOrder": "5-1"
   },
   {
-    "_id": "58b703456faa37e744951532",
+    "_id": "58b703456faa37e744951533",
     "_sortOrder": 2,
     "_parentId": "58b703456faa37e74495152b",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -4425,13 +4426,13 @@
       "_position": "center",
       "_size": "initial"
     },
-    "_classes": "article-style-7",
+    "_classes": "article-style-1",
     "title": "New Article Title",
     "_type": "article",
     "_courseOrder": "5-2"
   },
   {
-    "_id": "58b703456faa37e744951533",
+    "_id": "58b703456faa37e744951534",
     "_sortOrder": 3,
     "_parentId": "58b703456faa37e74495152b",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -4500,7 +4501,7 @@
     "_courseOrder": "5-3"
   },
   {
-    "_id": "58b703456faa37e744951534",
+    "_id": "58b703456faa37e744951532",
     "_sortOrder": 4,
     "_parentId": "58b703456faa37e74495152b",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -4602,7 +4603,7 @@
             "_height": 200
           },
           "_large": {
-            "src": "course/en/assets/images/58b6b5df6faa37e74495147c/large/6091e0a019df8b2f04c543212e2cc162_optimized_full.jpeg",
+            "src": "course/en/assets/images/58d3a8d113b751d90c4ed947/large/e18d737bf064a2327b98dde035b0a5af.png",
             "_shouldRepeat": false,
             "_height": 200
           }
@@ -4639,7 +4640,7 @@
     "_courseOrder": "5-5"
   },
   {
-    "_id": "58b703456faa37e744951536",
+    "_id": "58b703456faa37e744951537",
     "_sortOrder": 6,
     "_parentId": "58b703456faa37e74495152b",
     "_courseId": "58b01c1050d3bf600d233b89",
@@ -4708,7 +4709,7 @@
     "_courseOrder": "5-6"
   },
   {
-    "_id": "58b703456faa37e744951537",
+    "_id": "58b703456faa37e744951536",
     "_sortOrder": 7,
     "_parentId": "58b703456faa37e74495152b",
     "_courseId": "58b01c1050d3bf600d233b89",

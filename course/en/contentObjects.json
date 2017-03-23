@@ -5,7 +5,7 @@
     "_parentId": "58b01c1050d3bf600d233b89",
     "_sortOrder": 0,
     "__v": 0,
-    "displayTitle": "Do I have what it takes?",
+    "displayTitle": "What makes an entrepeneur",
     "duration": "15 minutes",
     "_swipeMenu": {
       "_mobileBackgroundImage": {
@@ -27,8 +27,11 @@
       },
       "_shouldDisableItemScaling": false,
       "_shouldDisableDetailOnHover": false,
-      "_graphic": {
+      "_hoverGraphic": {
         "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+      },
+      "_graphic": {
+        "src": ""
       }
     },
     "_standardMenu": {
@@ -124,7 +127,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Do I have what it takes?",
+    "title": "What makes an entrepeneur",
     "_type": "page",
     "_courseOrder": "0"
   },
@@ -134,7 +137,7 @@
     "_parentId": "58b01c1050d3bf600d233b89",
     "_sortOrder": 1,
     "__v": 0,
-    "displayTitle": "Is this the right idea for me?",
+    "displayTitle": "How to have more ideas",
     "duration": "15 minutes",
     "_swipeMenu": {
       "_mobileBackgroundImage": {
@@ -156,8 +159,11 @@
       },
       "_shouldDisableItemScaling": false,
       "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png"
+      },
       "_graphic": {
-        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+        "src": ""
       }
     },
     "_standardMenu": {
@@ -253,7 +259,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Is this the right idea for me?",
+    "title": "How to have more ideas",
     "_type": "page",
     "_courseOrder": "1"
   },
@@ -263,7 +269,7 @@
     "_parentId": "58b01c1050d3bf600d233b89",
     "_sortOrder": 2,
     "__v": 0,
-    "displayTitle": "How can I test my idea?",
+    "displayTitle": "Testing your ideas",
     "duration": "15 minutes",
     "_swipeMenu": {
       "_mobileBackgroundImage": {
@@ -382,7 +388,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "How can I test my idea?",
+    "title": "Testing your ideas",
     "_type": "page",
     "_courseOrder": "2"
   },
@@ -392,7 +398,7 @@
     "_parentId": "58b01c1050d3bf600d233b89",
     "_sortOrder": 3,
     "__v": 0,
-    "displayTitle": "Who else has similar ideas?",
+    "displayTitle": "Looking for competition",
     "duration": "15 minutes",
     "_swipeMenu": {
       "_mobileBackgroundImage": {
@@ -511,7 +517,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Who else has similar ideas?",
+    "title": "Looking for competition",
     "_type": "page",
     "_courseOrder": "3"
   },
@@ -521,7 +527,7 @@
     "_parentId": "58b01c1050d3bf600d233b89",
     "_sortOrder": 4,
     "__v": 0,
-    "displayTitle": "Does my idea excite people?",
+    "displayTitle": "Talking to customers",
     "duration": "15 minutes",
     "_swipeMenu": {
       "_mobileBackgroundImage": {
@@ -640,7 +646,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Does my idea excite people?",
+    "title": "Talking to customers",
     "_type": "page",
     "_courseOrder": "4"
   },
@@ -650,7 +656,7 @@
     "_parentId": "58b01c1050d3bf600d233b89",
     "_sortOrder": 5,
     "__v": 0,
-    "displayTitle": "Can my idea be a product?",
+    "displayTitle": "Developing products",
     "duration": "15 minutes",
     "_swipeMenu": {
       "_mobileBackgroundImage": {
@@ -769,7 +775,7 @@
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Can my idea be a product?",
+    "title": "Developing products",
     "_type": "page",
     "_courseOrder": "5"
   }

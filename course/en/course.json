@@ -1,10 +1,10 @@
 {
   "_id": "58b01c1050d3bf600d233b89",
   "_createdAt": 1487936528202,
-  "_modifiedAt": 1490102237386,
+  "_modifiedAt": 1490272311714,
   "_theme": "58b69e3d6faa37e74495146f",
   "__v": 0,
-  "displayTitle": "How can you decide if your business ideas are worth your time?",
+  "displayTitle": "Would my idea make a good business?",
   "_swipeMenu": {
     "_menuContentItems": [],
     "_mobileBackgroundImage": {
@@ -78,6 +78,17 @@
       "textAlignment": "left",
       "layout": "center"
     }
+  },
+  "_resources": {
+    "_resourcesItems": [],
+    "_filterButtons": {
+      "link": "Links",
+      "media": "Media",
+      "document": "Documents",
+      "all": "All"
+    },
+    "title": "Resources",
+    "_isEnabled": true
   },
   "_progress": {
     "progressSidebarAriaLabel": "Tab to move through the page items",
@@ -221,6 +232,6 @@
     "_textAlign": "center",
     "_fontSize": ""
   },
-  "title": "How can you decide if your business ideas are worth your time?",
+  "title": "Would my idea make a good business?",
   "_type": "course"
 }
