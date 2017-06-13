@@ -1,0 +1,11 @@
+{
+  "_id": "590cc753dd4f5af310850e51",
+  "_type": "image",
+  "_extension": "png",
+  "title": "Sofa Example",
+  "_sizes": {
+    "small": true,
+    "large": true,
+    "extraLarge": false
+  }
+}

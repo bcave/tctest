@@ -1,13 +1,15 @@
 [
   {
-    "_id": "58b03f6a6faa37e7449513ab",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b01c1050d3bf600d233b89",
+    "_id": "590afdee5a15f66111b8fe57",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdee5a15f66111b8fe54",
     "_sortOrder": 0,
     "__v": 0,
-    "displayTitle": "What makes an entrepeneur",
+    "displayTitle": "Set realistic goals<br>",
     "duration": "15 minutes",
+    "_refId": "58ebdb28192f4e895e96ad82",
     "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -28,13 +30,17 @@
       "_shouldDisableItemScaling": false,
       "_shouldDisableDetailOnHover": false,
       "_hoverGraphic": {
-        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
-      },
-      "_graphic": {
-        "src": ""
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
       }
     },
     "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -51,11 +57,6 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
-      }
-    },
-    "_playlistMenu": {
-      "_backgroundImage": {
-        "src": ""
       }
     },
     "_mapMenu": {
@@ -65,11 +66,17 @@
       }
     },
     "_coverMenu": {
-      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
-      "_coverButtonText": "View"
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b040a16faa37e7449513e2/small/Idea_optimized_full.jpeg",
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -86,6 +93,12 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58b040a16faa37e7449513e2"
       }
     },
     "_contentLocking": {
@@ -102,44 +115,203 @@
       "_size": "cover"
     },
     "_backgroundImage": {
-      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
       "_repeat": true,
       "_fixed": false,
       "_position": "top",
-      "_size": "contain"
+      "_size": "contain",
+      "src": null
     },
     "_heroImage": {
-      "title": "",
+      "title": "Set realistic goals",
       "_graphic": {
-        "_small": {
-          "src": ""
-        },
         "_large": {
-          "src": "course/en/assets/images/58b41ffc6faa37e744951408/large/6035f7806e7ad83ccf337253ab991327.png"
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59006c27f06989ac6bf1a765"
+          }
         }
       },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center",
-      "_isEnabled": true
+      "_isEnabled": false
     },
-    "_hidePageHeader": true,
+    "_hidePageHeader": false,
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "What makes an entrepeneur",
+    "title": "Set realistic goals",
     "_type": "page",
     "_courseOrder": "0"
   },
   {
-    "_id": "58b7035a6faa37e7449515a7",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b01c1050d3bf600d233b89",
+    "_id": "590afdef5a15f66111b8fed4",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdee5a15f66111b8fe54",
     "_sortOrder": 1,
     "__v": 0,
-    "displayTitle": "How to have more ideas",
+    "displayTitle": "Finding out who your customers really are ",
     "duration": "15 minutes",
+    "_refId": "58ebdb31192f4e895e96aec8",
     "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_graphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b949476faa37e7449516ab"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain",
+      "src": null
+    },
+    "_heroImage": {
+      "title": "Who are your customers and how do they shop? ",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "58b949636faa37e7449516ac",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59006c27f06989ac6bf1a765"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Finding out who your customers really are",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "590afdef5a15f66111b8feac",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdee5a15f66111b8fe54",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Use content to build a community of fans",
+    "duration": "15 minutes",
+    "_refId": "58ebdb30192f4e895e96ae8f",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -160,13 +332,17 @@
       "_shouldDisableItemScaling": false,
       "_shouldDisableDetailOnHover": false,
       "_hoverGraphic": {
-        "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png"
-      },
-      "_graphic": {
-        "src": ""
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "png",
+          "_id": "58b948ff6faa37e7449516a8"
+        }
       }
     },
     "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -183,11 +359,6 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
-      }
-    },
-    "_playlistMenu": {
-      "_backgroundImage": {
-        "src": ""
       }
     },
     "_mapMenu": {
@@ -197,11 +368,17 @@
       }
     },
     "_coverMenu": {
-      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
-      "_coverButtonText": "View"
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b948ff6faa37e7449516a8/small/07b5d4a828dd377f79ea544134899e71.png",
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -218,6 +395,12 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b948ff6faa37e7449516a8"
       }
     },
     "_contentLocking": {
@@ -234,173 +417,57 @@
       "_size": "cover"
     },
     "_backgroundImage": {
-      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
       "_repeat": true,
       "_fixed": false,
       "_position": "top",
       "_size": "contain"
     },
     "_heroImage": {
-      "title": "",
+      "title": "How can you use content to build a community of fans? ",
       "_graphic": {
         "_small": {
-          "src": "course/en/assets/images/58b949746faa37e7449516ad/small/cc7be736fa11b9eb8cd79e0a324148c0.png"
+          "src": {
+            "_id": "58b949746faa37e7449516ad",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
         },
         "_large": {
-          "src": "course/en/assets/images/58b949746faa37e7449516ad/large/cc7be736fa11b9eb8cd79e0a324148c0.png"
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
         }
       },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center",
-      "_isEnabled": true
-    },
-    "_hidePageHeader": true,
-    "_categories": [],
-    "durationLabel": "🕜 ",
-    "linkText": "Let's go!",
-    "title": "How to have more ideas",
-    "_type": "page",
-    "_courseOrder": "1"
-  },
-  {
-    "_id": "58b703116faa37e7449514af",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b01c1050d3bf600d233b89",
-    "_sortOrder": 2,
-    "__v": 0,
-    "displayTitle": "Testing your ideas",
-    "duration": "15 minutes",
-    "_swipeMenu": {
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      },
-      "_shouldDisableItemScaling": false,
-      "_shouldDisableDetailOnHover": false,
-      "_graphic": {
-        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
-      }
-    },
-    "_standardMenu": {
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      }
-    },
-    "_playlistMenu": {
-      "_backgroundImage": {
-        "src": ""
-      }
-    },
-    "_mapMenu": {
-      "_position": {
-        "_top": 50,
-        "_left": 50
-      }
-    },
-    "_coverMenu": {
-      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
-      "_coverButtonText": "View"
-    },
-    "_boxMenu": {
-      "src": "course/en/assets/images/58b86bcc6faa37e7449516a3/small/79b15481ca56ef2b4cc7d2660c6b76f0.png",
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      }
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "contentObject",
       "_isEnabled": false
     },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
-      "_size": "cover"
-    },
-    "_backgroundImage": {
-      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
-      "_repeat": true,
-      "_fixed": false,
-      "_position": "top",
-      "_size": "contain"
-    },
-    "_heroImage": {
-      "title": "",
-      "_graphic": {
-        "_small": {
-          "src": ""
-        },
-        "_large": {
-          "src": "course/en/assets/images/58b86ba86faa37e7449516a1/large/84c956d1cf24a60d8c61c6bd79a6d728.png"
-        }
-      },
-      "_contentWidth": 70,
-      "textAlignment": "left",
-      "layout": "center",
-      "_isEnabled": true
-    },
-    "_hidePageHeader": true,
+    "_hidePageHeader": false,
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Testing your ideas",
+    "_graphic": {
+      "src": null
+    },
+    "title": "Use content to build a community of fans",
     "_type": "page",
     "_courseOrder": "2"
   },
   {
-    "_id": "58b703656faa37e7449515e5",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b01c1050d3bf600d233b89",
+    "_id": "590afdf05a15f66111b8fefc",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdee5a15f66111b8fe54",
     "_sortOrder": 3,
     "__v": 0,
-    "displayTitle": "Looking for competition",
-    "duration": "15 minutes",
+    "_refId": "59030b03ca47c0a2423314de",
+    "displayTitle": "Use SEO to find customers looking for your product",
     "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -419,12 +486,11 @@
         "layout": "center"
       },
       "_shouldDisableItemScaling": false,
-      "_shouldDisableDetailOnHover": false,
-      "_graphic": {
-        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
-      }
+      "_shouldDisableDetailOnHover": false
     },
     "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -443,11 +509,6 @@
         "layout": "center"
       }
     },
-    "_playlistMenu": {
-      "_backgroundImage": {
-        "src": ""
-      }
-    },
     "_mapMenu": {
       "_position": {
         "_top": 50,
@@ -455,11 +516,11 @@
       }
     },
     "_coverMenu": {
-      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
+      "_shouldShowProgressBarsOnMenus": true,
       "_coverButtonText": "View"
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b949476faa37e7449516ab/small/6830a30c46752a5deec0394bf591dcee.png",
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -492,44 +553,47 @@
       "_size": "cover"
     },
     "_backgroundImage": {
-      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
-      "_repeat": true,
+      "_repeat": false,
       "_fixed": false,
-      "_position": "top",
-      "_size": "contain"
+      "_position": "center",
+      "_size": "cover"
     },
     "_heroImage": {
-      "title": "",
+      "title": "Search Engine Optimization",
       "_graphic": {
-        "_small": {
-          "src": "course/en/assets/images/58b949636faa37e7449516ac/small/3a7a38872345f8ac04ef51e0bdd77578.png"
-        },
         "_large": {
-          "src": "course/en/assets/images/58b949636faa37e7449516ac/large/3a7a38872345f8ac04ef51e0bdd77578.png"
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
         }
       },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center",
-      "_isEnabled": true
+      "_isEnabled": false
     },
-    "_hidePageHeader": true,
+    "_hidePageHeader": false,
     "_categories": [],
-    "durationLabel": "🕜 ",
-    "linkText": "Let's go!",
-    "title": "Looking for competition",
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Use SEO to find customers looking for your product",
     "_type": "page",
     "_courseOrder": "3"
   },
   {
-    "_id": "58b7034f6faa37e744951569",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b01c1050d3bf600d233b89",
+    "_id": "590afdee5a15f66111b8fe84",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdee5a15f66111b8fe54",
     "_sortOrder": 4,
     "__v": 0,
-    "displayTitle": "Talking to customers",
+    "displayTitle": "Choosing tools to manage your marketing<br>",
     "duration": "15 minutes",
+    "_refId": "58ebdb2c192f4e895e96adde",
     "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -550,10 +614,17 @@
       "_shouldDisableItemScaling": false,
       "_shouldDisableDetailOnHover": false,
       "_graphic": {
-        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
       }
     },
     "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -570,11 +641,6 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
-      }
-    },
-    "_playlistMenu": {
-      "_backgroundImage": {
-        "src": ""
       }
     },
     "_mapMenu": {
@@ -584,11 +650,17 @@
       }
     },
     "_coverMenu": {
-      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
-      "_coverButtonText": "View"
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
     },
     "_boxMenu": {
-      "src": "course/en/assets/images/58b949266faa37e7449516a9/small/0653f02f00c32372f8cfc619370ce5e2.png",
+      "_shouldShowProgressBarsOnMenus": true,
       "_mobileBackgroundImage": {
         "_repeat": false,
         "_fixed": false,
@@ -605,6 +677,12 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b86bcc6faa37e7449516a3"
       }
     },
     "_contentLocking": {
@@ -621,162 +699,35 @@
       "_size": "cover"
     },
     "_backgroundImage": {
-      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
       "_repeat": true,
       "_fixed": false,
       "_position": "top",
-      "_size": "contain"
+      "_size": "contain",
+      "src": null
     },
     "_heroImage": {
-      "title": "",
+      "title": "Choosing tools to manage your marketing",
       "_graphic": {
-        "_small": {
-          "src": "course/en/assets/images/58b949886faa37e7449516ae/small/6f4a0bd20a75465bdb5cba6df01bc232.png"
-        },
         "_large": {
-          "src": "course/en/assets/images/58b949886faa37e7449516ae/large/6f4a0bd20a75465bdb5cba6df01bc232.png"
+          "src": {
+            "_id": "59006c27f06989ac6bf1a765",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
         }
       },
       "_contentWidth": 70,
       "textAlignment": "left",
       "layout": "center",
-      "_isEnabled": true
+      "_isEnabled": false
     },
-    "_hidePageHeader": true,
+    "_hidePageHeader": false,
     "_categories": [],
     "durationLabel": "🕜 ",
     "linkText": "Let's go!",
-    "title": "Talking to customers",
+    "title": "Choosing tools to manage your marketing",
     "_type": "page",
     "_courseOrder": "4"
-  },
-  {
-    "_id": "58b703456faa37e74495152b",
-    "_courseId": "58b01c1050d3bf600d233b89",
-    "_parentId": "58b01c1050d3bf600d233b89",
-    "_sortOrder": 5,
-    "__v": 0,
-    "displayTitle": "Developing products",
-    "duration": "15 minutes",
-    "_swipeMenu": {
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      },
-      "_shouldDisableItemScaling": false,
-      "_shouldDisableDetailOnHover": false,
-      "_graphic": {
-        "src": "course/en/assets/images/58b02e8d6faa37e744951399/small/550935e8c0c404a2cd2c2dcfbafe5753.jpg"
-      }
-    },
-    "_standardMenu": {
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      }
-    },
-    "_playlistMenu": {
-      "_backgroundImage": {
-        "src": ""
-      }
-    },
-    "_mapMenu": {
-      "_position": {
-        "_top": 50,
-        "_left": 50
-      }
-    },
-    "_coverMenu": {
-      "src": "course/en/assets/images/58b0435a6faa37e7449513e9/large/Idea_optimized_full.png",
-      "_coverButtonText": "View"
-    },
-    "_boxMenu": {
-      "src": "course/en/assets/images/58b949366faa37e7449516aa/small/f65b24d4649a3a863a6b9543d3fea368.png",
-      "_mobileBackgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_backgroundImage": {
-        "_repeat": false,
-        "_fixed": false,
-        "_position": "center",
-        "_size": "cover"
-      },
-      "_heroImage": {
-        "_contentWidth": 70,
-        "textAlignment": "left",
-        "layout": "center"
-      }
-    },
-    "_contentLocking": {
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "contentObject",
-      "_isEnabled": false
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
-      "_size": "cover"
-    },
-    "_backgroundImage": {
-      "src": "course/en/assets/images/58b6bcd66faa37e744951484/7b8957fe70513f006593b28d1afea926.png",
-      "_repeat": true,
-      "_fixed": false,
-      "_position": "top",
-      "_size": "contain"
-    },
-    "_heroImage": {
-      "title": "",
-      "_graphic": {
-        "_small": {
-          "src": "course/en/assets/images/58b9499c6faa37e7449516af/small/c83fd4c6077d6e756dbb45e124193453.png"
-        },
-        "_large": {
-          "src": "course/en/assets/images/58b9499c6faa37e7449516af/large/c83fd4c6077d6e756dbb45e124193453.png"
-        }
-      },
-      "_contentWidth": 70,
-      "textAlignment": "left",
-      "layout": "center",
-      "_isEnabled": true
-    },
-    "_hidePageHeader": true,
-    "_categories": [],
-    "durationLabel": "🕜 ",
-    "linkText": "Let's go!",
-    "title": "Developing products",
-    "_type": "page",
-    "_courseOrder": "5"
   }
 ]

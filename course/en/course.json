@@ -1,11 +1,14 @@
 {
-  "_id": "58b01c1050d3bf600d233b89",
-  "_createdAt": 1487936528202,
-  "_modifiedAt": 1490272311714,
-  "_theme": "58b69e3d6faa37e74495146f",
+  "_id": "590afdee5a15f66111b8fe54",
+  "_createdAt": 1493892590045,
+  "_modifiedAt": 1497344759278,
   "__v": 0,
-  "displayTitle": "Would my idea make a good business?",
+  "_refId": "58ebdb28192f4e895e96ad7f",
+  "body": "",
+  "_theme": "58b69e3d6faa37e74495146f",
+  "displayTitle": "Digital Marketing : What do I need to do?<br>",
   "_swipeMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
     "_mobileBackgroundImage": {
       "_repeat": false,
@@ -28,6 +31,8 @@
     "_shouldDisableDetailOnHover": false
   },
   "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
     "_menuContentItems": [],
     "_mobileBackgroundImage": {
       "_repeat": false,
@@ -48,19 +53,36 @@
     }
   },
   "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
     "_menuGroupLabel": "Topics"
   },
   "_mapMenu": {
-    "_defaultPointerImage": "course/en/assets/images/58af18c350d3bf600d233b6e/eadc9396bf2bfbb3feb52f1d46dc13af.png",
-    "_mapImage": "course/en/assets/images/58b02c5c6faa37e744951397/large/da908d91d26d9112069ee8ea45790f58.png",
-    "_closeButtonText": "Close"
+    "_closeButtonText": "Close",
+    "_defaultPointerImage": {
+      "_type": "image",
+      "_extension": "png",
+      "_id": "58af18c350d3bf600d233b6e"
+    },
+    "_mapImage": {
+      "_size": "large",
+      "_type": "image",
+      "_extension": "png",
+      "_id": "58b02c5c6faa37e744951397"
+    }
   },
   "_coverMenu": {
-    "src": "course/en/assets/images/58b02c5c6faa37e744951397/large/da908d91d26d9112069ee8ea45790f58.png",
-    "_coverButtonText": "View"
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View",
+    "src": {
+      "_size": "large",
+      "_type": "image",
+      "_extension": "png",
+      "_id": "58b02c5c6faa37e744951397"
+    }
   },
   "_boxMenu": {
     "_menuContentItems": [],
+    "_shouldShowProgressBarsOnMenus": true,
     "_mobileBackgroundImage": {
       "_repeat": false,
       "_fixed": false,
@@ -79,18 +101,9 @@
       "layout": "center"
     }
   },
-  "_resources": {
-    "_resourcesItems": [],
-    "_filterButtons": {
-      "link": "Links",
-      "media": "Media",
-      "document": "Documents",
-      "all": "All"
-    },
-    "title": "Resources",
-    "_isEnabled": true
-  },
   "_progress": {
+    "_isOnRightSide": true,
+    "_progressNavigationItemIcon": "list3",
     "progressSidebarAriaLabel": "Tab to move through the page items",
     "progressAriaLabel": "Select this button to toggle the progress sidebar",
     "courseExitButtonText": "Exit course",
@@ -99,26 +112,19 @@
     "title": "Progress",
     "_isEnabled": true
   },
-  "_courseNavigation": {
-    "courseNavigationSidebarAriaLabel": "Tab to move through the course items",
-    "courseNavigationAriaLabel": "Select this button to toggle the course navigation sidebar",
-    "_isOnRightSide": false,
-    "homeText": "Home",
-    "_isEnabled": true
-  },
-  "_certificate": {
-    "_primaryLogo": "course/en/assets/images/58b0376a6faa37e7449513a9/9e84e50970abf7c7d0657e02055a54ef.png",
-    "_graphic": "course/en/assets/images/58b6b30d6faa37e744951475/03258612ca8da05875ec6dc6c90165aa.png",
-    "_secondaryLogo": "course/en/assets/images/58b6b40e6faa37e74495147a/91ea291826174e19ccf96c09977deb6a.png",
-    "_orientation": "portrait",
-    "dateLabel": "Date awarded:",
-    "nameLabel": "Name:",
-    "downloadButtonText": "Download certificate",
-    "notAchievedText": "You have not yet achieved the course certificate",
-    "achievedText": "You have achieved the course certificate, click download certificate",
-    "title": "Certificate of completion: Size up your idea",
-    "_obtainmentMethod": "Course Assessment Passed",
-    "_isComplete": false,
+  "_branding": {
+    "_shouldPlaceFooterLogosWithCopyright": false,
+    "_logos": {
+      "_secondaryLogo": {
+        "_isLocatedInFooter": false,
+        "alignment": "right"
+      },
+      "_primaryLogo": {
+        "_isLocatedInFooter": true,
+        "alignment": "center",
+        "src": null
+      }
+    },
     "_isEnabled": true
   },
   "_bookmarking": {
@@ -126,6 +132,42 @@
     "_notificationConfirm": "Yes",
     "_notificationBody": "Do you want to continue the course?",
     "_notificationTitle": "This course is in progress",
+    "_isEnabled": true
+  },
+  "_achievements": {
+    "_badges": {
+      "_items": [
+        {
+          "itemIndex": 0,
+          "_id": "58b035ec6faa37e7449513a8",
+          "_badgeCompletionType": "components"
+        }
+      ],
+      "badgeNotifyTitle": "You earned a badge!",
+      "badgesLabel": "Badges",
+      "badgesName": "Badges",
+      "_isEnabled": false
+    },
+    "_stars": {
+      "starsMissedLabel": "Stars missed",
+      "starsToCollectLabel": "Stars to collect",
+      "starsLabel": "Stars",
+      "starsName": "Stars",
+      "_isEnabled": false
+    },
+    "_lives": {
+      "_totalLives": 3,
+      "livesLabel": "Lives",
+      "livesName": "Lives",
+      "_isEnabled": false
+    },
+    "_points": {
+      "_defaultPoints": 50,
+      "pointsLabel": "Reward Points Earned",
+      "pointsName": "Reward Points",
+      "_isEnabled": true
+    },
+    "title": "Rewards",
     "_isEnabled": true
   },
   "_pageBackgroundImage": {
@@ -137,12 +179,21 @@
     },
     "_backgroundImage": {
       "_repeat": false,
-      "_fixed": false,
-      "_position": "center",
-      "_size": "cover"
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover",
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "592e999902778c512a0afb9b"
+      }
     }
   },
-  "_courseTags": [],
+  "_courseTags": [
+    "592e910302778c512a0afb8c",
+    "592e913202778c512a0afb90",
+    "59301e3802778c512a0afbcd"
+  ],
   "_fonts": {
     "_installed": [],
     "_google": []
@@ -198,40 +249,59 @@
   },
   "_footerNav": {
     "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
     "nextButtonText": "Next",
     "previousButtonText": "Previous",
-    "_isEnabled": false
+    "_isEnabled": true
   },
   "_notify": {
-    "_shouldHideNotifyButton": false,
     "_buttonAlignment": "center",
     "_iconAlignment": "center",
     "_bodyTextAlignment": "center",
     "_titleTextAlignment": "center"
   },
   "_navigation": {
-    "_shouldHideSideNavigation": false,
-    "_shouldHideTopNavigation": false,
     "sidebarAriaLabel": "Tab to move through extra navigation items",
     "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
-    "_isHamburgerMenuOnRightSide": false,
-    "_useHamburgerMenu": false,
-    "_useHomeIconForDashboardButton": false,
     "dashboardText": "Dashboard",
-    "_shouldShowDashboardButton": true,
     "backText": "Back to Page",
-    "backToMenuText": "Back to Menu"
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": true
+  },
+  "_version": {
+    "_isLanguageVersion": false,
+    "_isVersion": false
   },
   "_reviews": {
-    "_reviews": [],
+    "_reviews": [
+      {
+        "_createdBy": "58c9070213b751d90c4ed421",
+        "title": "Bens V1 Review",
+        "_id": "59007117f06989ac6bf1a767",
+        "_reviewers": [
+          {
+            "_reviewer": "5897aece50d3bf600d233ab1",
+            "_id": "59007117f06989ac6bf1a768",
+            "_completedAt": "Fri Jun 02 2017 13:36:02 GMT+0000 (UTC)",
+            "reviewFeedback": "",
+            "_hasPassed": true,
+            "_status": "complete"
+          }
+        ],
+        "_hasPrivateAnnotations": false,
+        "_isActive": false,
+        "_createdAt": "Wed Apr 26 2017 10:06:15 GMT+0000 (UTC)"
+      }
+    ],
     "_isUnderReview": false
   },
   "_categoryGroups": [],
   "_categories": [],
+  "_isEditLocked": false,
   "_displayTitleSettings": {
-    "_textAlign": "center",
-    "_fontSize": ""
+    "_fontSize": "",
+    "_textAlign": "center"
   },
-  "title": "Would my idea make a good business?",
+  "title": "7. Digital Marketing : What do I need to do? (master)",
   "_type": "course"
 }
