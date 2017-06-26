@@ -70,7 +70,7 @@
     "__v": 0,
     "_refId": "59352f2c02778c512a0afc36",
     "displayTitle": "The Customer Journey - Basic Steps",
-    "body": "<p>In this video, Sal talks through the basic steps in the customer's buying journey - from becoming aware you exist to having a deeply engaged relationship where you repeatedly buy and advocate for the product.</p>",
+    "body": "<p>In this video, Salim Virani talks through the basic steps in the customer's buying journey - from becoming aware you exist to having a deeply engaged relationship where you repeatedly buy and advocate for the product.</p>",
     "instruction": "Click on the video to find out more",
     "_tags": {
       "_tagsList": [],
@@ -369,83 +369,11 @@
     "_courseOrder": "0-3-0-0"
   },
   {
-    "_id": "590b0ed95a15f66111b8ff4b",
-    "_component": "graphic",
+    "_id": "5935327702778c512a0afc44",
+    "_component": "videoStream",
     "_layout": "right",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "59219fcf02778c512a0aed6d",
-    "_graphic": {
-      "small": {
-        "_size": "small",
-        "_type": "image",
-        "_extension": "jpeg",
-        "_id": "590b0f005a15f66111b8ff4d"
-      },
-      "_isExternalLink": false
-    },
-    "_graphicTextRightPadding": 0,
-    "_graphicTextLeftPadding": 0,
-    "_graphicTextBottomPadding": 0,
-    "_graphicTextTopPadding": 0,
-    "_contentWidth": 100,
-    "layout": "top",
-    "_shouldEnableGraphicText": false,
-    "_interactionLabel": {
-      "_location": "before widget"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "__v": 0,
-    "_refId": "590b0ed95a15f66111b8ff4b",
-    "displayTitle": "",
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Graphic Title",
-    "_type": "component",
-    "_courseOrder": "0-3-0-1"
-  },
-  {
-    "_id": "5935327702778c512a0afc44",
-    "_component": "videoStream",
-    "_layout": "left",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "5935327702778c512a0afc43",
     "__v": 0,
     "_media": {
       "_source": "<iframe src=\"https://player.vimeo.com/video/215987696\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/215987696\">C7M1 : Trigger trap by the numbers v2</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
@@ -507,128 +435,12 @@
     "_classes": "",
     "title": "Video Stream Title",
     "_type": "component",
-    "_courseOrder": "0-4-0-0"
-  },
-  {
-    "_id": "5935327702778c512a0afc45",
-    "_component": "text",
-    "_layout": "right",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "5935327702778c512a0afc43",
-    "__v": 0,
-    "displayTitle": "Walkthrough : Setting realistic marketing goals",
-    "body": "<p>In this video, Sal walks through the 3 key questions above and how you might go about setting traffic targets:</p>",
-    "instruction": "Click on the video to find out more",
-    "_interactionLabel": {
-      "_location": "before body"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "_refId": "5935327702778c512a0afc45",
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Walkthrough : Setting realistic marketing goals",
-    "_type": "component",
-    "_courseOrder": "0-4-0-1"
-  },
-  {
-    "_id": "5935329202778c512a0afc48",
-    "_component": "text",
-    "_layout": "left",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "5935329202778c512a0afc46",
-    "__v": 0,
-    "displayTitle": "The Customer Journey - Basic Steps",
-    "body": "<p>Now that we know how to work out how many people we need to come to the website, we can start to put a figure on how much marketing spend that might cost and take a step back to see if it sounds realistic.</p><p><br></p><p>The formula for traffic required is :</p><p>Traffic required = target revenue / average spend / conversion rate</p><p><br></p><p>If for example, marketing budget is £1,000 and target revenue is £5,000, you might need to ask yourself a question along the following lines :</p><p><br></p><p>Can we get 125,000 visitors and convert them to customers at a rate of 0.4%, for £1,000?</p>",
-    "instruction": "Click on the video to find out more",
-    "_interactionLabel": {
-      "_location": "before body"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "_refId": "5935329202778c512a0afc48",
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "The Customer Journey - Basic Steps",
-    "_type": "component",
-    "_courseOrder": "0-5-0-0"
+    "_courseOrder": "0-3-0-1"
   },
   {
     "_id": "5935329202778c512a0afc47",
     "_component": "videoStream",
-    "_layout": "right",
+    "_layout": "left",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "5935329202778c512a0afc46",
     "__v": 0,
@@ -692,7 +504,65 @@
     "_classes": "",
     "title": "Video Stream Title",
     "_type": "component",
-    "_courseOrder": "0-5-0-1"
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5935329202778c512a0afc48",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "5935329202778c512a0afc46",
+    "__v": 0,
+    "displayTitle": "How much traffic do you need to break even?",
+    "body": "<p>Now that we know how to work out how many people we need to come to the website, we can start to put a figure on how much marketing spend that might cost and take a step back to see if it sounds realistic.</p><p><br></p><p>The formula for traffic required is :</p><p>Traffic required = target revenue / average spend / conversion rate</p><p><br></p><p>If for example, marketing budget is £1,000 and target revenue is £5,000, you might need to ask yourself a question along the following lines :</p><p><br></p><p>Can we get 125,000 visitors and convert them to customers at a rate of 0.4%, for £1,000?</p>",
+    "instruction": "Click on the video to find out more",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_refId": "5935329202778c512a0afc48",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "The Customer Journey - Basic Steps",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
   },
   {
     "_id": "5938216dc6c9a4904fcc6e36",
@@ -763,7 +633,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "0-6-0-0"
+    "_courseOrder": "0-5-0-0"
   },
   {
     "_id": "59382167c6c9a4904fcc6e35",
@@ -778,10 +648,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "title": "Industry Averages",
-        "itemIndex": 0,
+        "body": "<p>We can look to industry averages, which give us some broad sense of what’s realistic.</p>",
         "_id": "5938218dc6c9a4904fcc6e37",
-        "body": "<p>We can look to industry averages, which give us some broad sense of what’s realistic.</p>"
+        "itemIndex": 0,
+        "title": "Industry Averages"
       },
       {
         "_mediaType": "image",
@@ -789,10 +659,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "body": "<p>We can also look to specific case studies, often marketers point to their sales results or results of past campaigns. We can then look at the results of campaigns similar to our own and use those as a benchmark.</p>",
-        "title": "Specific Case Studies",
+        "itemIndex": 1,
         "_id": "5938218dc6c9a4904fcc6e38",
-        "itemIndex": 1
+        "title": "Specific Case Studies",
+        "body": "<p>We can also look to specific case studies, often marketers point to their sales results or results of past campaigns. We can then look at the results of campaigns similar to our own and use those as a benchmark.</p>"
       },
       {
         "_mediaType": "image",
@@ -800,10 +670,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "body": "<p>The last tool is an analog- what companies have come before us which have tried to market a similar product or target a similar customer group. They may not have published their numbers, but so long as you’re not directly competing with them, you’ll be surprised how open companies can be when you reach out to them.</p><p>Chances are they’re willing to share- and you can always throw them an incentive (cappuccino, latte, americano?).</p>",
-        "itemIndex": 2,
+        "title": "Previous Company Experiments",
         "_id": "5938218ec6c9a4904fcc6e39",
-        "title": "Previous Company Experiments"
+        "itemIndex": 2,
+        "body": "<p>The last tool is an analog- what companies have come before us which have tried to market a similar product or target a similar customer group. They may not have published their numbers, but so long as you’re not directly competing with them, you’ll be surprised how open companies can be when you reach out to them.</p><p>Chances are they’re willing to share- and you can always throw them an incentive (cappuccino, latte, americano?).</p>"
       },
       {
         "_mediaType": "image",
@@ -811,10 +681,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "_id": "5938218fc6c9a4904fcc6e3a",
+        "title": "Where Can You Find Benchmarks?",
+        "body": "<p><b>These websites might well be able to help : </b></p><p><br></p><p><a href=\"https://www.kickstarter.com/help/stats\" target=\"_blank\">kickstarter.com/help/stats</a></p><p><a href=\"http://mailchimp.com/resources/research/email-marketing-benchmarks/\" target=\"_blank\">mailchimp.com/resources/research/email-marketing-benchmarks/</a></p><p><a href=\"http://alexa.com\" target=\"_blank\">alexa.com</a></p><p><a href=\"https://www.quantcast.com/\" target=\"_blank\">quantcast.com</a></p><p><br></p><p>Search for your industry, and \"average conversion rates\" or \"conversion benchmarks\". Conversion depends on channels, and website conversion rates are hard to benchmark.</p>",
         "itemIndex": 3,
-        "body": "<p><b>These websites might well be able to help : </b></p><p><br></p><p><a href=\"https://www.kickstarter.com/help/stats\" target=\"_blank\">https://www.kickstarter.com/help/stats</a></p><p><a href=\"http://mailchimp.com/resources/research/email-marketing-benchmarks/\" target=\"_blank\">http://mailchimp.com/resources/research/email-marketing-benchmarks/</a></p><p><a href=\"http://alexa.com\" target=\"_blank\">http://alexa.com</a></p><p><a href=\"quantcast.com\" target=\"_blank\">quantcast.com</a></p><p><br></p><p>Search for your industry, and \"average conversion rates\" or \"conversion benchmarks\". Conversion depends on channels, and website conversion rates are hard to benchmark.</p>",
-        "title": "Where Can You Find Benchmarks?"
+        "_id": "5938218fc6c9a4904fcc6e3a"
       }
     ],
     "_shouldShowCheckIcon": false,
@@ -868,7 +738,7 @@
     "_classes": "",
     "title": "How do you know what conversion might be?",
     "_type": "component",
-    "_courseOrder": "0-6-0-1"
+    "_courseOrder": "0-5-0-1"
   },
   {
     "_id": "5935334d02778c512a0afc4d",
@@ -926,7 +796,7 @@
     "_classes": "",
     "title": "Increasing conversion by focusing on quality traffic",
     "_type": "component",
-    "_courseOrder": "0-7-0-0"
+    "_courseOrder": "0-6-0-0"
   },
   {
     "_id": "5935334402778c512a0afc4c",
@@ -998,7 +868,7 @@
     "_classes": "",
     "title": "Increasing conversion by focusing on quality traffic",
     "_type": "component",
-    "_courseOrder": "0-7-0-1"
+    "_courseOrder": "0-6-0-1"
   },
   {
     "_id": "5935333602778c512a0afc49",
@@ -1067,7 +937,7 @@
     "_classes": "",
     "title": "Video Stream Title",
     "_type": "component",
-    "_courseOrder": "0-8-0-0"
+    "_courseOrder": "0-7-0-0"
   },
   {
     "_id": "5935333a02778c512a0afc4a",
@@ -1125,7 +995,7 @@
     "_classes": "",
     "title": "Where did Trigger Trap's quality traffic come from?",
     "_type": "component",
-    "_courseOrder": "0-8-0-1"
+    "_courseOrder": "0-7-0-1"
   },
   {
     "_id": "590b249f5a15f66111b8ff8e",
@@ -1228,7 +1098,7 @@
     "_classes": "",
     "title": "Narrative Title",
     "_type": "component",
-    "_courseOrder": "0-9-0-0"
+    "_courseOrder": "0-8-0-0"
   },
   {
     "_id": "590b17945a15f66111b8ff6f",
@@ -1279,7 +1149,7 @@
     "_isQuestionType": false,
     "__v": 0,
     "_refId": "590b17945a15f66111b8ff6f",
-    "body": "<p>As well as the measurable benefits of marketing like the number of people becoming aware of your products or the number of people purchasing, there are <span style=\"font-size: 16px;\">a lot of un-measurable benefits to marketing that can help you achieve your longer term goals.&nbsp;</span></p>",
+    "body": "<p>As well as the measurable benefits of marketing like the number of people becoming aware of your products or the number of people purchasing, there are a lot of un-measurable benefits to marketing that can help you achieve your longer term goals.&nbsp;</p>",
     "displayTitle": "Unmeasurable benefits of marketing",
     "instruction": "Click on the boxes below to find out more",
     "_tags": {
@@ -1322,7 +1192,7 @@
     "_classes": "",
     "title": "Unmeasurable benefits of marketing",
     "_type": "component",
-    "_courseOrder": "0-10-0-0"
+    "_courseOrder": "0-9-0-0"
   },
   {
     "_id": "5921a74e02778c512a0aed81",
@@ -1393,7 +1263,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "0-10-0-1"
+    "_courseOrder": "0-9-0-1"
   },
   {
     "_id": "5921a76902778c512a0aed82",
@@ -1465,7 +1335,7 @@
     "_classes": "",
     "title": "Spillover effect",
     "_type": "component",
-    "_courseOrder": "0-11-0-0"
+    "_courseOrder": "0-10-0-0"
   },
   {
     "_id": "590b188b5a15f66111b8ff73",
@@ -1533,7 +1403,7 @@
     "_classes": "",
     "title": "Spillover effect",
     "_type": "component",
-    "_courseOrder": "0-11-0-1"
+    "_courseOrder": "0-10-0-1"
   },
   {
     "_id": "590b2d675a15f66111b8ffa1",
@@ -1545,11 +1415,11 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
-        "final": "<p><b>Are you sure?&nbsp;</b></p><p><br></p><p>The steps in the customer journey are : </p><p><br></p><ul><li>Awareness<br></li><li>Caring<br></li><li>Engagement<br></li><li>Buying<br></li></ul>"
+        "final": "<p><b>Are you sure?&nbsp;</b></p><p><br></p><p>The steps in the customer journey are : </p><p><p><br></p></p><ul><li>Awareness<br></li><li>Caring<br></li><li>Engagement<br></li><li>Buying<br></li></ul>"
       },
       "_partlyCorrect": {
         "_shouldUseGlobalPartlyCorrectFeedback": false,
-        "notFinal": "<p><b>Are you sure? </b></p><p><br></p><p>The steps in the customer journey are :</p><p><br></p><ul><li>Awareness<br></li><li>Caring<br></li><li>Engagement<br></li><li>Buying<br></li></ul>"
+        "notFinal": "<p><b>Are you sure? </b></p><p><br></p><p>The steps in the customer journey are <span style=\"font-size: 16px;\">Awareness,&nbsp;</span><span style=\"font-size: 16px;\">Caring,&nbsp;</span><span style=\"font-size: 16px;\">Engagement and finally&nbsp;</span><span style=\"font-size: 16px;\">Buying.</span></p>"
       },
       "_correctGraphic": {
         "_position": "right"
@@ -1566,7 +1436,7 @@
       "_partlyCorrectNotFinalGraphic": {
         "_position": "right"
       },
-      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>T<span style=\"font-size: 16px;\">he steps in the customer journey are :&nbsp;</span></p><p><br></p><ul><li>Awareness<br></li><li>Caring<br></li><li>Engagement<br></li><li>Buying<br></li></ul>"
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><span style=\"font-size: 16px;\">The steps in the customer journey are Awareness, Caring, Engagement and finally Buying.</span><br>"
     },
     "_items": [
       {
@@ -1644,7 +1514,7 @@
     "_classes": "",
     "title": "Q 7-1-2 Ordering Title",
     "_type": "component",
-    "_courseOrder": "0-13-0-0"
+    "_courseOrder": "0-12-0-0"
   },
   {
     "_id": "590afdee5a15f66111b8fe68",
@@ -1715,7 +1585,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "0-13-0-1"
+    "_courseOrder": "0-12-0-1"
   },
   {
     "_id": "590afdee5a15f66111b8fe6f",
@@ -1786,7 +1656,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "0-14-0-0"
+    "_courseOrder": "0-13-0-0"
   },
   {
     "_id": "590afdee5a15f66111b8fe70",
@@ -1908,7 +1778,7 @@
     "_classes": "",
     "title": "Q 7-1-3 High Quality Traffic",
     "_type": "component",
-    "_courseOrder": "0-14-0-1"
+    "_courseOrder": "0-13-0-1"
   },
   {
     "_id": "590b2f7a5a15f66111b8ffaa",
@@ -1988,7 +1858,7 @@
     "_isQuestionType": true,
     "__v": 0,
     "_refId": "590b2f7a5a15f66111b8ffaa",
-    "body": "<p>Imagine your boss wants you to run a campaign for his online gift shop. You are told that :</p><p><br></p><ul><li>Your target revenue is £1000</li><li>Your average item sold is £50</li><li>Your average conversion rate is 1%</li><li>Your marketing budget is £100<br></li></ul><p><br></p><p>What is your key sense-check question?&nbsp;</p><p><br></p><p><i>Reminder :&nbsp;Traffic required = target revenue / average spend / conversion rate</i></p>",
+    "body": "<p>Imagine your boss wants you to run a campaign for his online gift shop. You are told that :</p><p><br></p><span style=\"text-align: center; font-size: 16px;\"><div style=\"text-align: center;\"><div style=\"text-align: left;\"><ul><li>Your target revenue is £1000<br></li><li>Your average item sold is £50<br></li><li>Your average conversion rate is 1%<br></li><li>Your marketing budget is £100<br></li></ul></div></div></span><p><br></p><p>What is your key sense-check question?&nbsp;</p><p><br></p><p><i>Reminder :&nbsp;Traffic required = target revenue / average spend / conversion rate</i></p>",
     "displayTitle": "Is your marketing goal realistic?&nbsp;",
     "_tags": {
       "_tagsList": [],
@@ -2030,7 +1900,7 @@
     "_classes": "",
     "title": "Q 7-1-4 MCQ Title",
     "_type": "component",
-    "_courseOrder": "0-15-0-0"
+    "_courseOrder": "0-14-0-0"
   },
   {
     "_id": "590afdee5a15f66111b8fe73",
@@ -2101,7 +1971,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "0-15-0-1"
+    "_courseOrder": "0-14-0-1"
   },
   {
     "_id": "590afdee5a15f66111b8fe7d",
@@ -2158,7 +2028,7 @@
     "_classes": "",
     "title": "Text Title",
     "_type": "component",
-    "_courseOrder": "0-16-0-0"
+    "_courseOrder": "0-15-0-0"
   },
   {
     "_id": "590afdef5a15f66111b8fee9",
@@ -2222,146 +2092,6 @@
     "_courseOrder": "1-0-0-0"
   },
   {
-    "_id": "590b38375a15f66111b8ffab",
-    "_component": "media",
-    "_layout": "left",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "590afdef5a15f66111b8fed6",
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
-    "_media": {
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590b38ad5a15f66111b8ffac"
-      },
-      "_isExternalLink": false,
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
-    },
-    "_setCompletionOn": "inview",
-    "_interactionLabel": {
-      "_location": "before widget"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "__v": 0,
-    "_refId": "590b38375a15f66111b8ffab",
-    "displayTitle": "",
-    "body": "",
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Media Title",
-    "_type": "component",
-    "_courseOrder": "1-1-0-0"
-  },
-  {
-    "_id": "590b3a0a5a15f66111b8ffb1",
-    "_component": "text",
-    "_layout": "right",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "590afdef5a15f66111b8fed6",
-    "_interactionLabel": {
-      "_location": "before body"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "__v": 0,
-    "_refId": "590b3a0a5a15f66111b8ffb1",
-    "body": "<p>Great Little Place grew from a simple Facebook page into a successful poster selling business.&nbsp;</p><p><br></p><p>They used Facebook to target the right customers and quickly understand what those customers liked. This allowed them to create posters they knew their target market would love and buy.&nbsp;</p><p><br></p><p>They were also able to build up the momentum to continue drawing in customers, achieving a high click through and purchase rate.</p><p><br></p><p>After only a few years of optimisation they achieved a twenty time ROI (return on investment).&nbsp;So for every £1 they spent on Facebook ads they were able to generate £20 in sales.&nbsp;</p>",
-    "displayTitle": "Case Study, ''A Great Little Place''&nbsp;",
-    "instruction": "Click on the video to find out more",
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "_displayTitleSettings": {
-      "_fontSize": ""
-    },
-    "title": "Text Title",
-    "_type": "component",
-    "_courseOrder": "1-1-0-1"
-  },
-  {
     "_id": "5935358102778c512a0afc50",
     "_component": "text",
     "_layout": "left",
@@ -2374,7 +2104,7 @@
     "_isQuestionType": false,
     "__v": 0,
     "_refId": "5935358102778c512a0afc50",
-    "body": "<p>How did they know to sell posters? In this video, Rich from A Great Little Place explains how they built a community on Facebook listened to what they liked, then discovered what a viable product for them might be.&nbsp;</p>",
+    "body": "<p>How did they know to sell posters? In this video, Rich Brown, co-founder of <a href=\"http://www.glpapp.com/\" target=\"_blank\">A Great Little Place</a>&nbsp;and it's successor <a href=\"https://greatlittleprints.com/\" target=\"_blank\">Great Little Prints</a> explains how they built a community on Facebook listened to what they liked, then discovered what a viable product for them might be.&nbsp;</p>",
     "displayTitle": "Founder Stories : A Great Little Place",
     "instruction": "Click on the video to find out more",
     "_tags": {
@@ -2417,7 +2147,7 @@
     "_classes": "",
     "title": "Founder Stories : A Great Little Place",
     "_type": "component",
-    "_courseOrder": "1-2-0-0"
+    "_courseOrder": "1-1-0-0"
   },
   {
     "_id": "5935357c02778c512a0afc4f",
@@ -2486,22 +2216,210 @@
     "_classes": "",
     "title": "Video Stream Title",
     "_type": "component",
+    "_courseOrder": "1-1-0-1"
+  },
+  {
+    "_id": "594ba22cf382c1d37dc87670",
+    "_component": "videoStream",
+    "_layout": "left",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdef5a15f66111b8fed6",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222518948\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "594ba22cf382c1d37dc87670",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "1-2-0-0"
+  },
+  {
+    "_id": "590b3a0a5a15f66111b8ffb1",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590afdef5a15f66111b8fed6",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "590b3a0a5a15f66111b8ffb1",
+    "body": "<p>Great Little Place grew from a simple Facebook page into a successful poster selling business.&nbsp;</p><p><br></p><p>They used Facebook to target the right customers and quickly understand what those customers liked. This allowed them to create posters they knew their target market would love and buy.&nbsp;</p><p><br></p><p>They were also able to build up the momentum to continue drawing in customers, achieving a high click through and purchase rate.</p><p><br></p><p>After only a few years of optimisation they achieved a twenty time ROI (return on investment).&nbsp;So for every £1 they spent on Facebook ads they were able to generate £20 in sales.&nbsp;</p>",
+    "displayTitle": "Case Study, ''A Great Little Place''&nbsp;",
+    "instruction": "Click on the video to find out more",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Text Title",
+    "_type": "component",
     "_courseOrder": "1-2-0-1"
+  },
+  {
+    "_id": "590b39fd5a15f66111b8ffb0",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "_parentId": "590b3e6a5a15f66111b8ffb7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "590b39fd5a15f66111b8ffb0",
+    "displayTitle": "Testing which product would work best",
+    "body": "<p>Great Little Place had the sense that posters would sell and they knew what content to put on those posters, but they still didn’t know exactly which posters would work best.</p><p><br></p><p>Facebook allowed them to try advertising different versions of posters, changing the image, headlines, descriptions to test which sold best.</p><p><br></p><p>In the images below show that the black and white image of London with the blue river massively outperformed the other posters, including the same image of London with the pink river. </p><p><br></p><p>To this day they don’t know why it was so much more successful - but they don’t need to!&nbsp;They learnt exactly what they set out to learn-- which poster was  the most popular.</p><p><br></p><p>So now that’s the poster they advertise most and that’s the poster that gives them their very strong return on investment in their marketing.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Testing which product would work best",
+    "_type": "component",
+    "_courseOrder": "1-3-0-0"
   },
   {
     "_id": "5921caf802778c512a0aed9b",
     "_component": "graphic",
-    "_layout": "left",
+    "_layout": "full",
     "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "590b3e6a5a15f66111b8ffb7",
+    "_parentId": "595107f76bf9a4dd79181503",
     "_graphic": {
       "_isExternalLink": false,
-      "small": {
-        "_size": "small",
+      "large": {
+        "_size": "large",
         "_type": "image",
         "_extension": "jpeg",
-        "_id": "59381bf1c6c9a4904fcc6e25"
-      }
+        "_id": "595109946bf9a4dd79181505"
+      },
+      "small": null
     },
     "_graphicTextRightPadding": 0,
     "_graphicTextLeftPadding": 0,
@@ -2557,64 +2475,7 @@
     "_classes": "",
     "title": "Graphic Title",
     "_type": "component",
-    "_courseOrder": "1-3-0-0"
-  },
-  {
-    "_id": "590b39fd5a15f66111b8ffb0",
-    "_component": "text",
-    "_layout": "right",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "_parentId": "590b3e6a5a15f66111b8ffb7",
-    "_interactionLabel": {
-      "_location": "before body"
-    },
-    "_isInteractionLabelEnabled": false,
-    "_isQuestionType": false,
-    "__v": 0,
-    "_refId": "590b39fd5a15f66111b8ffb0",
-    "displayTitle": "Testing which product would work best",
-    "body": "<p>Great Little Place had the sense that posters would sell and they knew what content to put on those posters, but they still didn’t know exactly which posters would work best.</p><p><br></p><p>Facebook allowed them to try advertising different versions of posters, changing the image, headlines, descriptions to test which sold best.</p><p><br></p><p>In the images below show that the black and white image of London with the blue river massively outperformed the other posters, including the same image of London with the pink river. </p><p><br></p><p>To this day they don’t know why it was so much more successful - but they don’t need to!&nbsp;<span style=\"font-size: 16px;\">They learnt exactly what they set out to learn-- which poster was  the most popular.</span></p><p><br></p><p>So now that’s the poster they advertise most and that’s the poster that gives them their very strong return on investment in their marketing.</p>",
-    "_tags": {
-      "_tagsList": [],
-      "_isEnabled": false
-    },
-    "_stamps": {
-      "_isEnabled": false
-    },
-    "_reflection": {
-      "_isEnabled": false
-    },
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_courseAssessment": {
-      "_isEnabled": false
-    },
-    "_assignment": {
-      "feedback": "",
-      "_isCorrect": false,
-      "_isMarked": false,
-      "_isEnabled": false
-    },
-    "_badges": {
-      "_badgeIds": []
-    },
-    "_points": {
-      "_isEnabled": false
-    },
-    "_stars": {
-      "_isEnabled": false
-    },
-    "_links": {
-      "_isEnabled": false
-    },
-    "_classes": "",
-    "title": "Testing which product would work best",
-    "_type": "component",
-    "_courseOrder": "1-3-0-1"
+    "_courseOrder": "1-3-1-0"
   },
   {
     "_id": "590b3e715a15f66111b8ffb8",
@@ -2693,10 +2554,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "title": "Age and Gender preferences",
-        "itemIndex": 0,
+        "body": "<p>Facebook insights analysed the people who liked their page and was able to tell them that generally, women were more likely to buy posters than men. It also said that women aged 24-34 were their main audience. </p><p><br></p><p>So they adapted- they told Facebook to stop showing the adverts to men and only target women. Since they got a higher conversion rate, they got more bang for their advertising buck on Facebook.</p><p><br></p><p>Facebook and some other advertising platforms automatically display the ads which get the most % clicks. By focusing on the correct niche, they also got displayed more often. </p><p><br></p>",
         "_id": "5921ce7c02778c512a0aeda1",
-        "body": "<p>Facebook insights analysed the people who liked their page and was able to tell them that generally, women were more likely to buy posters than men. It also said that women aged 24-34 were their main audience. </p><p><br></p><p>So they adapted- they told Facebook to stop showing the adverts to men and only target women. Since they got a higher conversion rate, they got more bang for their advertising buck on Facebook.</p><p><br></p><p>Facebook and some other advertising platforms automatically display the ads which get the most % clicks. By focusing on the correct niche, they also got displayed more often. </p><p><br></p>"
+        "itemIndex": 0,
+        "title": "Age and Gender preferences"
       },
       {
         "_mediaType": "image",
@@ -2704,10 +2565,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "itemIndex": 1,
-        "_id": "5921ce9702778c512a0aeda2",
+        "body": "<p>But it doesn't stop there. As well as age and gender Facebook knows everything you’ve “liked”. So you can target based someone based on their “likes” e.g.: Advertising a poster of Brixton to someone who ''likes'' several cafés in a specific area.&nbsp;</p>",
         "title": "''Likes''",
-        "body": "<p>But it doesn't stop there. As well as age and gender Facebook knows everything you’ve “liked”. So you can target based someone based on their “likes” e.g.: Advertising a poster of Brixton to someone who ''likes'' several cafés in a specific area.&nbsp;</p>"
+        "_id": "5921ce9702778c512a0aeda2",
+        "itemIndex": 1
       },
       {
         "_mediaType": "image",
@@ -2715,10 +2576,10 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "itemIndex": 2,
-        "_id": "5921ce9a02778c512a0aeda3",
+        "body": "<p>You can also target people on life events, like people who’ve just got a job, or just become single.</p>",
         "title": "Life Events",
-        "body": "<p>You can also target people on life events, like people who’ve just got a job, or just become single.</p>"
+        "_id": "5921ce9a02778c512a0aeda3",
+        "itemIndex": 2
       },
       {
         "_mediaType": "image",
@@ -2726,10 +2587,19 @@
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "title": "Friends of Friends",
-        "_id": "5921ceb702778c512a0aeda4",
+        "body": "<p>One last thing which is hugely powerful is friend of a friend targeting. When people see an advert they can see that their friend also likes what’s being advertised- this social proof is hugely effective at raising conversion rates.</p><p><br></p><p>Great Little Place tried two identical adverts- the only difference was that one adverted targeted a friend of a friend. That advert performed far better. Changing your target customer can completely transform your performance.</p>",
         "itemIndex": 3,
-        "body": "<p>One last thing which is hugely powerful is friend of a friend targeting. When people see an advert they can see that their friend also likes what’s being advertised- this social proof is hugely effective at raising conversion rates.</p><p><br></p><p>Great Little Place tried two identical adverts- the only difference was that one adverted targeted a friend of a friend. That advert performed far better. Changing your target customer can completely transform your performance.</p>"
+        "_id": "5921ceb702778c512a0aeda4",
+        "title": "Friends of Friends"
+      },
+      {
+        "_mediaType": "video",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 4,
+        "_id": "59510aa96bf9a4dd79181506"
       }
     ],
     "_shouldShowCheckIcon": false,
@@ -2740,7 +2610,7 @@
     "_isQuestionType": false,
     "__v": 0,
     "_refId": "5921ce5702778c512a0aeda0",
-    "body": "<p>When a customer ''likes'' your page, you can see the information on their profile. This will give you golden data on who they are and what they like.&nbsp;</p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">Here are 4 ways A Great Little Place used data from their followers' Facebook profiles to understand more about who they are and what they might want.&nbsp;</span></p>",
+    "body": "<p>When a customer ''likes'' your page, you can see the information on their profile. This will give you golden data on who they are and what they like.&nbsp;</p><p><br></p><p>Here are 4 ways A Great Little Place used data from their followers' Facebook profiles to understand more about who they are and what they might want.&nbsp;</p>",
     "displayTitle": "How Facebook can help you find your best customers.",
     "_tags": {
       "_tagsList": [],
@@ -3316,7 +3186,7 @@
     "_parentId": "590afdef5a15f66111b8fee4",
     "__v": 0,
     "_refId": "590099f4f06989ac6bf1a783",
-    "body": "<p><span style=\"font-size: 16px;\">How could Facebook ads help an online jewellery shop to understand their customers better?</span></p>",
+    "body": "<p><span style=\"font-size: 16px;\">Facebook ads can help you understand their customers better. Let's take the example of an&nbsp;</span><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">online jewellery shop advertising in the run-up to valentine's day. Which of the following could they do, using Facebook ads, to help them?</span></p>",
     "_feedback": {
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
@@ -3350,18 +3220,9 @@
         "_feedbackGraphic": {
           "_position": "right"
         },
-        "text": "Telling Facebook to display different variations of your advert for your Valentine's Day campaign and see which ones customers respond to best",
-        "_id": "59009a02f06989ac6bf1a784",
-        "itemIndex": 0
-      },
-      {
-        "_shouldBeSelected": true,
-        "_feedbackGraphic": {
-          "_position": "right"
-        },
         "text": "Answering questions customers post on the page about the difference between 9 carat and 24 carat gold",
         "_id": "59009a1bf06989ac6bf1a785",
-        "itemIndex": 1
+        "itemIndex": 0
       },
       {
         "_shouldBeSelected": true,
@@ -3370,14 +3231,14 @@
         },
         "text": "Tell Facebook to display different variations of your advert for your Valentine's Day campaign and see which ones customers respond to best",
         "_id": "59009a26f06989ac6bf1a786",
-        "itemIndex": 2
+        "itemIndex": 1
       },
       {
         "_shouldBeSelected": false,
         "_feedbackGraphic": {
           "_position": "right"
         },
-        "itemIndex": 3,
+        "itemIndex": 2,
         "_id": "590b5dfc5a15f66111b90719",
         "text": "Show that there is a lot of demand for your jewellery website by getting lots of ''likes'' from friends and family. Lots of likes must mean lots of people want to buy."
       }
@@ -3387,7 +3248,7 @@
     "_shouldShowDisplayTitleInFeedback": true,
     "_shouldUseIndividualItemFeedback": false,
     "_useCustomItemPrefix": false,
-    "_selectable": 3,
+    "_selectable": 2,
     "_isRandom": true,
     "_shouldDisplayAttempts": false,
     "_attempts": 10,
@@ -3398,7 +3259,7 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": true,
     "displayTitle": "Listen to your customers",
-    "instruction": "&nbsp;Choose 3 and click submit",
+    "instruction": "&nbsp;Choose two answers and click submit",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -3843,7 +3704,7 @@
           },
           {
             "_isCorrect": false,
-            "text": "Number of ''likes'' for a Facebook page",
+            "text": "Number of times content has been ''shared''",
             "_id": "5921d9a502778c512a0aedb9"
           },
           {
@@ -4093,32 +3954,24 @@
     "_courseOrder": "2-1-0-0"
   },
   {
-    "_id": "590c7b45dd4f5af310850db4",
-    "_component": "media",
+    "_id": "5949357d59319c6b51c5bd4e",
+    "_component": "videoStream",
     "_layout": "right",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590c7903dd4f5af310850db1",
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590c7b75dd4f5af310850db5"
-      },
-      "_isExternalLink": false,
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222364871?title=0&byline=0&portrait=0\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/222364871\">C7M3</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
@@ -4126,9 +3979,8 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
     "__v": 0,
-    "_refId": "590c7b45dd4f5af310850db4",
+    "_refId": "5949357d59319c6b51c5bd4e",
     "displayTitle": "",
-    "instruction": "",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -4167,7 +4019,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Granttree Interview",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "2-1-0-1"
   },
@@ -4581,79 +4433,47 @@
     "_items": [
       {
         "_mediaType": "image",
-        "_graphic": {
-          "src": {
-            "_size": "small",
-            "_type": "image",
-            "_extension": "jpeg",
-            "_id": "589853b550d3bf600d233ac1"
-          }
-        },
         "_video": {
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "itemIndex": 0,
-        "_id": "590c83aadd4f5af310850dbf",
+        "body": "<p>Build relationships with real people - attend meet-ups from meetup.com, go to conferences, follow bloggers, meet them for coffees, read industry magazines. Build networks with your customers so you really understand them.&nbsp;</p>",
         "title": "Show up in real life",
-        "body": "<p>Build relationships with real people - attend meet-ups from meetup.com, go to conferences, follow bloggers, meet them for coffees, read industry magazines. Build networks with your customers so you really understand them.&nbsp;</p>"
+        "_id": "590c83aadd4f5af310850dbf",
+        "itemIndex": 0
       },
       {
         "_mediaType": "image",
-        "_graphic": {
-          "src": {
-            "_id": "589853b550d3bf600d233ac1",
-            "_extension": "jpeg",
-            "_type": "image",
-            "_size": "small"
-          }
-        },
         "_video": {
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "title": "Build relationships with loud people",
-        "_id": "590c83b1dd4f5af310850dc1",
+        "body": "<p>Some people in communities are loud - they blog, tweet, evaluate existing products. Reach out to them and give them a reason to be loud about you (in a good way)!&nbsp;</p>",
         "itemIndex": 1,
-        "body": "<p>Some people in communities are loud - they blog, tweet, evaluate existing products. Reach out to them and give them a reason to be loud about you (in a good way)!&nbsp;</p>"
+        "_id": "590c83b1dd4f5af310850dc1",
+        "title": "Build relationships with loud people"
       },
       {
         "_mediaType": "image",
-        "_graphic": {
-          "src": {
-            "_size": "small",
-            "_type": "image",
-            "_extension": "jpeg",
-            "_id": "589853b550d3bf600d233ac1"
-          }
-        },
         "_video": {
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "body": "<p>Set up alerts so that whenever people comment on a post you share on Facebook, Tweet about you or attend one of your events, you reach out with a personal thank-you. &nbsp;</p>",
-        "itemIndex": 2,
+        "title": "Follow up - always",
         "_id": "590c83b9dd4f5af310850dc2",
-        "title": "Follow up - always"
+        "itemIndex": 2,
+        "body": "<p>Set up alerts so that whenever people comment on a post you share on Facebook, Tweet about you or attend one of your events, you reach out with a personal thank-you. &nbsp;</p>"
       },
       {
         "_mediaType": "image",
-        "_graphic": {
-          "src": {
-            "_id": "589853b550d3bf600d233ac1",
-            "_extension": "jpeg",
-            "_type": "image",
-            "_size": "small"
-          }
-        },
         "_video": {
           "_shouldAutoPlay": false
         },
         "_itemGraphicLayout": "right",
-        "body": "<p>Write content that helps them, set up events for them to network and learn useful things, support causes they care about, run competitions, let them use your office space - pitch in!&nbsp;</p>",
-        "itemIndex": 3,
+        "title": "Help them - for free",
         "_id": "590c83c0dd4f5af310850dc3",
-        "title": "Help them - for free"
+        "itemIndex": 3,
+        "body": "<p>Write content that helps them, set up events for them to network and learn useful things, support causes they care about, run competitions, let them use your office space - pitch in!&nbsp;</p>"
       }
     ],
     "_shouldShowCheckIcon": false,
@@ -7076,32 +6896,24 @@
     "_courseOrder": "3-8-0-1"
   },
   {
-    "_id": "590cd048dd4f5af310850e60",
-    "_component": "media",
+    "_id": "594bb877f382c1d37dc877b4",
+    "_component": "videoStream",
     "_layout": "left",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590ccc47dd4f5af310850e59",
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cd0e2dd4f5af310850e61"
-      },
-      "_isExternalLink": false,
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222526087\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
@@ -7109,8 +6921,7 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
     "__v": 0,
-    "_refId": "590cd048dd4f5af310850e60",
-    "instruction": "",
+    "_refId": "594bb877f382c1d37dc877b4",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -7149,7 +6960,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Media Title",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "3-9-0-0"
   },
@@ -8181,32 +7992,24 @@
     "_courseOrder": "4-0-0-0"
   },
   {
-    "_id": "590cdc90dd4f5af310850e84",
-    "_component": "media",
+    "_id": "594ba363f382c1d37dc87672",
+    "_component": "videoStream",
     "_layout": "left",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590cdd4edd4f5af310850e88",
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "_isExternalLink": false,
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cf483dd4f5af310850ebb"
-      },
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222527301\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
@@ -8214,9 +8017,7 @@
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
     "__v": 0,
-    "_refId": "590cdc90dd4f5af310850e84",
-    "displayTitle": "",
-    "instruction": "",
+    "_refId": "594ba363f382c1d37dc87672",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -8255,7 +8056,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Video",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "4-1-0-0"
   },
@@ -8320,16 +8121,6 @@
         "_id": "590cf52add4f5af310850ec0",
         "itemIndex": 4,
         "body": "<p>iAd also allows you to target people on apple products.</p>"
-      },
-      {
-        "_mediaType": "image",
-        "_video": {
-          "_shouldAutoPlay": false
-        },
-        "_itemGraphicLayout": "right",
-        "title": "More niche networks",
-        "_id": "590cf533dd4f5af310850ec1",
-        "itemIndex": 5
       }
     ],
     "_shouldShowCheckIcon": false,
@@ -8444,41 +8235,32 @@
     "_courseOrder": "4-2-0-0"
   },
   {
-    "_id": "590cf1a5dd4f5af310850ea0",
-    "_component": "media",
+    "_id": "594ba3baf382c1d37dc87674",
+    "_component": "videoStream",
     "_layout": "right",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590cf1a5dd4f5af310850e9f",
-    "__v": 0,
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "_isExternalLink": false,
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cf677dd4f5af310850ec2"
-      },
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222528427\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
-    "_refId": "590cf1a5dd4f5af310850ea0",
-    "instruction": "",
+    "__v": 0,
+    "_refId": "594ba3baf382c1d37dc87674",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -8517,47 +8299,37 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Media Title",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "4-2-0-1"
   },
   {
-    "_id": "590cf231dd4f5af310850eb4",
-    "_component": "media",
+    "_id": "594ba493f382c1d37dc87677",
+    "_component": "videoStream",
     "_layout": "left",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590cf231dd4f5af310850eb3",
-    "__v": 0,
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "_isExternalLink": false,
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cf805dd4f5af310850ec5"
-      },
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222529952\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
-    "_refId": "590cf231dd4f5af310850eb4",
-    "displayTitle": "",
-    "instruction": "",
+    "__v": 0,
+    "_refId": "594ba493f382c1d37dc87677",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -8596,7 +8368,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Sharing Content",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "4-3-0-0"
   },
@@ -8717,41 +8489,32 @@
     "_courseOrder": "4-4-0-0"
   },
   {
-    "_id": "590cf23ddd4f5af310850eb8",
-    "_component": "media",
+    "_id": "594ba573f382c1d37dc8767a",
+    "_component": "videoStream",
     "_layout": "right",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590cf23ddd4f5af310850eb7",
-    "__v": 0,
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "_isExternalLink": false,
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cfcd1dd4f5af310850eda"
-      },
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222530063\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
-    "_refId": "590cf23ddd4f5af310850eb8",
-    "instruction": "",
+    "__v": 0,
+    "_refId": "594ba573f382c1d37dc8767a",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -8790,46 +8553,37 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Media Title",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "4-4-0-1"
   },
   {
-    "_id": "590cf211dd4f5af310850eb0",
-    "_component": "media",
+    "_id": "594ba5e8f382c1d37dc8767c",
+    "_component": "videoStream",
     "_layout": "left",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590cf211dd4f5af310850eaf",
-    "__v": 0,
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "_isExternalLink": false,
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cfd05dd4f5af310850edb"
-      },
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222530158\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><iframe src=\"https://player.vimeo.com/video/222530158\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
-    "_refId": "590cf211dd4f5af310850eb0",
-    "displayTitle": "",
+    "__v": 0,
+    "_refId": "594ba5e8f382c1d37dc8767c",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -8868,7 +8622,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Managing Mail & podcasts",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "4-5-0-0"
   },
@@ -9284,41 +9038,33 @@
     "_courseOrder": "4-8-0-0"
   },
   {
-    "_id": "590cf1c1dd4f5af310850ea4",
-    "_component": "media",
+    "_id": "594ba655f382c1d37dc8767e",
+    "_component": "videoStream",
     "_layout": "right",
     "_courseId": "590afdee5a15f66111b8fe54",
     "_parentId": "590cf1c1dd4f5af310850ea3",
-    "__v": 0,
-    "_transcript": {
-      "_shouldNotDisplayTitleInPopup": false,
-      "_shouldOpenTranscriptInPopup": false
-    },
-    "_audio": {
-      "ariaLabel": "This button will play an audio description of the video",
-      "_buttonText": "AD",
-      "_isEnabled": false
-    },
     "_media": {
-      "_isExternalLink": false,
-      "mp4": {
-        "_type": "video",
-        "_extension": "mp4",
-        "_id": "590cfe24dd4f5af310850ede"
-      },
-      "_shouldAutoPlay": false,
-      "_shouldHidePlayerControls": false,
-      "_shouldHidePlayButton": false,
-      "ariaLabel": "This button will play the video"
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222530308\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
     },
+    "_service": "vimeo",
     "_setCompletionOn": "inview",
     "_interactionLabel": {
       "_location": "before widget"
     },
     "_isInteractionLabelEnabled": false,
     "_isQuestionType": false,
-    "_refId": "590cf1c1dd4f5af310850ea4",
-    "instruction": "Click on the video to hear more",
+    "__v": 0,
+    "_refId": "594ba655f382c1d37dc8767e",
+    "displayTitle": "Click on the video to find out more",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -9357,7 +9103,7 @@
       "_isEnabled": false
     },
     "_classes": "",
-    "title": "Media Title",
+    "title": "Video Stream Title",
     "_type": "component",
     "_courseOrder": "4-8-0-1"
   },

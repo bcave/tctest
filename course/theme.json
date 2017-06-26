@@ -1414,8 +1414,8 @@
               "@component-item-content-body-text-font-size": "18px",
               "@component-item-content-body-text-align": "left",
               "@component-item-content-body-text-font-family": "@font-1",
-              "@component-item-content-body-text-color": "@swatch-13",
-              "@component-item-content-body-text-background-color": "@swatch-23"
+              "@component-item-content-body-text-color": "@swatch-11",
+              "@component-item-content-body-text-background-color": "@swatch-5"
             },
             "_componentItemContentTitleText": {
               "@component-item-content-title-text-line-height-mobile": 1.25,
@@ -1426,10 +1426,10 @@
               "@component-item-content-title-text-font-size-tablet": "16px",
               "@component-item-content-title-text-line-height": 1.25,
               "@component-item-content-title-text-font-weight": 400,
-              "@component-item-content-title-text-font-size": "18px",
+              "@component-item-content-title-text-font-size": "31px",
               "@component-item-content-title-text-align": "center",
               "@component-item-content-title-text-font-family": "@font-1",
-              "@component-item-content-title-text-color": "@swatch-13"
+              "@component-item-content-title-text-color": "transparent"
             },
             "_componentItemText": {
               "@component-item-text-line-height-mobile": 1.25,
@@ -1684,7 +1684,7 @@
               "@component-title-text-font-size": "25px",
               "@component-title-text-align": "center",
               "@component-title-text-font-family": "@font-1",
-              "@component-title-text-color": "@swatch-13",
+              "@component-title-text-color": "@swatch-5",
               "@component-title-text-background-color": "transparent"
             },
             "_componentPadding": {
@@ -2077,7 +2077,7 @@
           }
         }
       },
-      "title": "Standard Block Teal"
+      "title": "Flipcard"
     },
     "article-style-8": {
       "_elements": {

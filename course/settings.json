@@ -406,10 +406,10 @@
       "_id": "58b6b5df6faa37e74495147c"
     },
     {
-      "_id": "58c13e0413b751d90c4ed408"
+      "_id": "58ad7fa450d3bf600d233ae7"
     },
     {
-      "_id": "58ad7fa450d3bf600d233ae7"
+      "_id": "58c13e0413b751d90c4ed408"
     },
     {
       "_id": "592ffa5a02778c512a0afbc4"
@@ -457,9 +457,6 @@
       "_id": "5939165408a265827f217b44"
     },
     {
-      "_id": "590b0f005a15f66111b8ff4d"
-    },
-    {
       "_id": "593820b8c6c9a4904fcc6e2b"
     },
     {
@@ -469,19 +466,10 @@
       "_id": "593820bbc6c9a4904fcc6e2f"
     },
     {
-      "_id": "590b38ad5a15f66111b8ffac"
-    },
-    {
       "_id": "590b426f5a15f66111b8ffbc"
     },
     {
-      "_id": "590c7b75dd4f5af310850db5"
-    },
-    {
       "_id": "590c7d5fdd4f5af310850db9"
-    },
-    {
-      "_id": "589853b550d3bf600d233ac1"
     },
     {
       "_id": "59381bdbc6c9a4904fcc6e0c"
@@ -508,27 +496,6 @@
       "_id": "590cc753dd4f5af310850e51"
     },
     {
-      "_id": "590cd0e2dd4f5af310850e61"
-    },
-    {
-      "_id": "590cf483dd4f5af310850ebb"
-    },
-    {
-      "_id": "590cf677dd4f5af310850ec2"
-    },
-    {
-      "_id": "590cfe24dd4f5af310850ede"
-    },
-    {
-      "_id": "590cfd05dd4f5af310850edb"
-    },
-    {
-      "_id": "590cf805dd4f5af310850ec5"
-    },
-    {
-      "_id": "590cfcd1dd4f5af310850eda"
-    },
-    {
       "_id": "59381bedc6c9a4904fcc6e20"
     },
     {
@@ -538,7 +505,7 @@
       "_id": "59381dd5c6c9a4904fcc6e29"
     },
     {
-      "_id": "59381bf1c6c9a4904fcc6e25"
+      "_id": "595109946bf9a4dd79181505"
     },
     {
       "_id": "59381ae3c6c9a4904fcc6df7"
@@ -555,7 +522,6 @@
     "narrative",
     "ordering",
     "mcq",
-    "media",
     "iFrame",
     "matching",
     "checklist",

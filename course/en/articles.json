@@ -298,86 +298,8 @@
     "_courseOrder": "0-3"
   },
   {
-    "_id": "590afdee5a15f66111b8fe7f",
-    "_sortOrder": 4,
-    "_parentId": "590afdee5a15f66111b8fe57",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "__v": 0,
-    "_refId": "58ff903af06989ac6bf1a6e4",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200,
-            "src": {
-              "_id": "58c13e0413b751d90c4ed408",
-              "_extension": "png",
-              "_type": "image",
-              "_size": "large"
-            }
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "none",
-    "title": "Doing the maths - What does Triggertrap need to achieve? ",
-    "_type": "article",
-    "_courseOrder": "0-4"
-  },
-  {
     "_id": "5921a09602778c512a0aed76",
-    "_sortOrder": 5,
+    "_sortOrder": 4,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -445,11 +367,11 @@
     "_classes": "none",
     "title": "Quick check : Is your budget realistic",
     "_type": "article",
-    "_courseOrder": "0-5"
+    "_courseOrder": "0-4"
   },
   {
     "_id": "5921b13b02778c512a0aed84",
-    "_sortOrder": 6,
+    "_sortOrder": 5,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -517,11 +439,11 @@
     "_classes": "none",
     "title": "How do you know what conversion might be? ",
     "_type": "article",
-    "_courseOrder": "0-6"
+    "_courseOrder": "0-5"
   },
   {
     "_id": "590b13ef5a15f66111b8ff56",
-    "_sortOrder": 7,
+    "_sortOrder": 6,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -590,11 +512,11 @@
     "_classes": "none",
     "title": "Increasing conversion by focusing on quality traffic",
     "_type": "article",
-    "_courseOrder": "0-7"
+    "_courseOrder": "0-6"
   },
   {
     "_id": "590b14ed5a15f66111b8ff5d",
-    "_sortOrder": 8,
+    "_sortOrder": 7,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -662,11 +584,11 @@
     "_classes": "none",
     "title": "Traffic Sources",
     "_type": "article",
-    "_courseOrder": "0-8"
+    "_courseOrder": "0-7"
   },
   {
     "_id": "5925308a02778c512a0af7b6",
-    "_sortOrder": 9,
+    "_sortOrder": 8,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -734,11 +656,11 @@
     "_classes": "article-style-7",
     "title": "Increasing conversion with Calls to Action",
     "_type": "article",
-    "_courseOrder": "0-9"
+    "_courseOrder": "0-8"
   },
   {
     "_id": "5921a00a02778c512a0aed70",
-    "_sortOrder": 10,
+    "_sortOrder": 9,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -806,11 +728,11 @@
     "_classes": "none",
     "title": "Unmeasurable benefits of digital marketing",
     "_type": "article",
-    "_courseOrder": "0-10"
+    "_courseOrder": "0-9"
   },
   {
     "_id": "5921a73702778c512a0aed7f",
-    "_sortOrder": 11,
+    "_sortOrder": 10,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -884,11 +806,11 @@
     "_classes": "none",
     "title": "Spillover effect",
     "_type": "article",
-    "_courseOrder": "0-11"
+    "_courseOrder": "0-10"
   },
   {
     "_id": "593920eb08a265827f217b48",
-    "_sortOrder": 12,
+    "_sortOrder": 11,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -962,11 +884,11 @@
     "_classes": "none",
     "title": "Ready to test your skills?",
     "_type": "article",
-    "_courseOrder": "0-12"
+    "_courseOrder": "0-11"
   },
   {
     "_id": "590afdee5a15f66111b8fe65",
-    "_sortOrder": 13,
+    "_sortOrder": 12,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -1005,10 +927,10 @@
             "_shouldRepeat": false,
             "_height": 200,
             "src": {
-              "_id": "58b6b5df6faa37e74495147c",
-              "_extension": "jpeg",
+              "_size": "large",
               "_type": "image",
-              "_size": "large"
+              "_extension": "jpeg",
+              "_id": "58b6b5df6faa37e74495147c"
             }
           }
         },
@@ -1039,14 +961,14 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Question 1 : Customer Journey",
     "_type": "article",
-    "_courseOrder": "0-13"
+    "_courseOrder": "0-12"
   },
   {
     "_id": "590afdee5a15f66111b8fe6d",
-    "_sortOrder": 14,
+    "_sortOrder": 13,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -1111,14 +1033,14 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Question 2:  Quality traffic",
     "_type": "article",
-    "_courseOrder": "0-14"
+    "_courseOrder": "0-13"
   },
   {
     "_id": "590afdee5a15f66111b8fe71",
-    "_sortOrder": 15,
+    "_sortOrder": 14,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -1186,11 +1108,11 @@
     "_classes": "none",
     "title": "Q3: Setting strategic budget",
     "_type": "article",
-    "_courseOrder": "0-15"
+    "_courseOrder": "0-14"
   },
   {
     "_id": "590afdee5a15f66111b8fe7b",
-    "_sortOrder": 16,
+    "_sortOrder": 15,
     "_parentId": "590afdee5a15f66111b8fe57",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -1260,7 +1182,7 @@
     "_classes": "article-style-4",
     "title": "Summary",
     "_type": "article",
-    "_courseOrder": "0-16"
+    "_courseOrder": "0-15"
   },
   {
     "_id": "590afdef5a15f66111b8fee7",
@@ -1336,80 +1258,8 @@
     "_courseOrder": "1-0"
   },
   {
-    "_id": "590afdef5a15f66111b8fed5",
-    "_sortOrder": 1,
-    "_parentId": "590afdef5a15f66111b8fed4",
-    "_courseId": "590afdee5a15f66111b8fe54",
-    "__v": 0,
-    "_refId": "58ebdb32192f4e895e96aecf",
-    "_progress": {
-      "_isEnabled": true
-    },
-    "_contentLocking": {
-      "_lockedApperance": "default",
-      "_requiredAmount": 0,
-      "_requiredCompleteIds": [],
-      "_lockIcon": "lock",
-      "_lockedText": "This article is locked",
-      "_shouldDisableNotifyOnUnlock": false,
-      "_lockingType": "component",
-      "_isEnabled": false
-    },
-    "_bookShelf": {
-      "_tracking": {
-        "_event": "tracker:saveSession",
-        "_isEnabled": true
-      },
-      "_isShelved": false,
-      "_isEnabled": false
-    },
-    "_dividers": {
-      "_after": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      },
-      "_before": {
-        "_graphic": {
-          "_small": {
-            "_shouldRepeat": false,
-            "_height": 200
-          },
-          "_large": {
-            "_shouldRepeat": false,
-            "_height": 200
-          }
-        },
-        "_isEnabled": false
-      }
-    },
-    "_mobileBackgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_backgroundImage": {
-      "_repeat": false,
-      "_position": "center",
-      "_size": "initial"
-    },
-    "_hasScrollActionButton": false,
-    "_classes": "article-style-7",
-    "title": "Start by giving & listening - Case Study, ''A Great Little Place''",
-    "_type": "article",
-    "_courseOrder": "1-1"
-  },
-  {
     "_id": "5921c69702778c512a0aed91",
-    "_sortOrder": 2,
+    "_sortOrder": 1,
     "_parentId": "590afdef5a15f66111b8fed4",
     "_courseId": "590afdee5a15f66111b8fe54",
     "__v": 0,
@@ -1476,6 +1326,78 @@
     "_hasScrollActionButton": false,
     "_classes": "none",
     "title": "Founder Stories : A Great Little Place",
+    "_type": "article",
+    "_courseOrder": "1-1"
+  },
+  {
+    "_id": "590afdef5a15f66111b8fed5",
+    "_sortOrder": 2,
+    "_parentId": "590afdef5a15f66111b8fed4",
+    "_courseId": "590afdee5a15f66111b8fe54",
+    "__v": 0,
+    "_refId": "58ebdb32192f4e895e96aecf",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-7",
+    "title": "Start by giving & listening - Case Study, ''A Great Little Place''",
     "_type": "article",
     "_courseOrder": "1-2"
   },
@@ -2070,7 +1992,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Question 1 :Understand your audience",
     "_type": "article",
     "_courseOrder": "1-10"
@@ -2143,7 +2065,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Question 2 : Find ways to target your audience",
     "_type": "article",
     "_courseOrder": "1-11"
@@ -2215,7 +2137,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Question 3 : What should I measure? ",
     "_type": "article",
     "_courseOrder": "1-12"
@@ -2705,10 +2627,10 @@
             "_shouldRepeat": false,
             "_height": 200,
             "src": {
-              "_id": "59006c27f06989ac6bf1a765",
-              "_extension": "png",
+              "_size": "large",
               "_type": "image",
-              "_size": "large"
+              "_extension": "png",
+              "_id": "59006c27f06989ac6bf1a765"
             }
           }
         },
@@ -2739,7 +2661,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-9",
+    "_classes": "none",
     "title": "Tips : Community Building",
     "_type": "article",
     "_courseOrder": "2-5"
@@ -3258,7 +3180,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Q1 : What content to make that helps your community",
     "_type": "article",
     "_courseOrder": "2-12"
@@ -3331,7 +3253,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Q2 : How to build relationships with your community",
     "_type": "article",
     "_courseOrder": "2-13"
@@ -4519,7 +4441,7 @@
       "_size": "initial"
     },
     "_hasScrollActionButton": false,
-    "_classes": "article-style-3",
+    "_classes": "none",
     "title": "Q1 :  What SEO is  ",
     "_type": "article",
     "_courseOrder": "3-13"
